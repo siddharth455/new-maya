@@ -1,0 +1,535 @@
+<?php require "common/header.php"?>
+  <!-- Hero Section -->
+  <section class="hero-section" style="background: url('assets/uploads/shm.jpg') center/cover no-repeat; height:70vh;">
+  <div class="hero-content">
+      
+    </div>
+  </section>
+
+  <!-- About Section -->
+<section class="container py-5">
+<div class="section-title  pb-20">
+    <h2>School <span>Overview</h2>
+    </div>
+  <div class="row">
+    <!-- Left Text -->
+    <div class="col-md-7">
+      <p>
+      The Department of Hotel Management was established in 2012 under the umbrella of the Maya Devi Educational Foundation. Since its inception, the department has been committed to nurturing talent and shaping future leaders in the Hospitality and Tourism industry.
+      </p>
+      <p>
+      Our goal is to empower individuals with the confidence and competence needed to excel across a wide spectrum of career opportunities in the hospitality domain.At SOHM, our mission is to provide unparalleled education and hands-on training for students aiming to succeed in the vibrant and ever-evolving Hospitality & Tourism sector.
+      </p>
+      <p>We are dedicated to offering a multifaceted and integrated educational experience, consistently updating our curriculum to reflect the latest trends, innovations, and demands of the global hospitality industry.
+      Join us at SOHM—where your journey to a successful career in the Hospitality and Tourism industry begins</p>
+    </div>
+  <!-- About Section -->
+    <!-- Right Image -->
+    <div class="col-md-5 text-center">
+  <div class="img-container">
+    <img src="assets/uploads/hotel.webp" 
+         alt="School of Engineering" 
+         class="responsive-img">
+  </div>
+</div>
+
+</section>
+
+  <!-- Achievements Section -->
+  <section class="container" id="achievements">
+  <div class="section-title pb-20">
+    <h2>Our <span>Achievements</span></h2>
+  </div>
+  <div class="row g-4 text-center mt-4">
+    
+    <!-- Card 1 -->
+    <div class="col-md-3 col-6">
+      <div class="stat-card p-4 rounded shadow-sm h-100" style="background:#f0f8ff;">
+        <i class="fa fa-users fa-2x text-success mb-3"></i>
+        <h3 class="fw-bold">
+          <span class="counter" data-target="9">0</span>+
+        </h3>
+        <p class="mb-0">Programs Offered</p>
+      </div>
+    </div>
+
+    <!-- Card 2 -->
+    <div class="col-md-3 col-6">
+      <div class="stat-card p-4 rounded shadow-sm h-100" style="background:#f6fffa;">
+        <i class="fa fa-certificate fa-2x text-success mb-3"></i>
+        <h3 class="fw-bold">
+          <span class="counter" data-target="356">0</span>+
+        </h3>
+        <p class="mb-0">Students Placed</p>
+      </div>
+    </div>
+
+    <!-- Card 3 -->
+    <div class="col-md-3 col-6">
+      <div class="stat-card p-4 rounded shadow-sm h-100" style="background:#f9f8ff;">
+        <i class="fa fa-briefcase fa-2x text-success mb-3"></i>
+        <h3 class="fw-bold">
+          <span class="counter" data-target="48">0</span>+
+        </h3>
+        <p class="mb-0">Highest Package (LPA)</p>
+      </div>
+    </div>
+
+    <!-- Card 4 -->
+    <div class="col-md-3 col-6">
+      <div class="stat-card p-4 rounded shadow-sm h-100" style="background:#fff8f2;">
+        <i class="fa fa-globe fa-2x text-success mb-3"></i>
+        <h3 class="fw-bold">
+          <span class="counter" data-target="100">0</span>+
+        </h3>
+        <p class="mb-0">Industry Partners</p>
+      </div>
+    </div>
+    
+  </div>
+</section>
+
+<!-- Counter Script -->
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const counters = document.querySelectorAll(".counter");
+  const duration = 1000; // total animation time (ms)
+
+  const animateCounter = (counter) => {
+    const target = +counter.getAttribute("data-target");
+    const start = 0;
+    const startTime = performance.now();
+
+    const updateCount = (currentTime) => {
+      const elapsed = currentTime - startTime;
+      const progress = Math.min(elapsed / duration, 1);
+      counter.innerText = Math.floor(progress * target);
+
+      if (progress < 1) {
+        requestAnimationFrame(updateCount);
+      } else {
+        counter.innerText = target; // ensure exact number at end
+      }
+    };
+
+    requestAnimationFrame(updateCount);
+  };
+
+  // Animate only when section is visible
+  const observer = new IntersectionObserver((entries, observer) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        animateCounter(entry.target);
+        observer.unobserve(entry.target);
+      }
+    });
+  }, { threshold: 0.5 });
+
+  counters.forEach(counter => {
+    observer.observe(counter);
+  });
+});
+</script>
+
+<!-- Courses Section -->
+<div class="course-area bg-img pt-40">
+    <div class="container">
+        <div class="section-title mb-75 course-mrg-small">
+            <h2>Our <span>Programs</span></h2>
+            <p>We offer diverse, industry-focused courses that combine knowledge and <br>
+practical skills to prepare students for future success.</p>
+        </div>
+        <div class="course-slider-active-3">
+        <div class="single-course">
+                                <div class="course-img">
+                                    <a href="bhm-colleges-in-dehradun-uttarakhand.php"><img class="animated" src="assets/uploads/hm-le.webp" alt=""></a>
+                                </div>
+                                <div class="course-content">
+                                    <h4><a href="bhm-colleges-in-dehradun-uttarakhand.php">Bachelor in Hotel Management</a></h4>
+                                    <p>The Bachelor in Hotel Management focuses on hospitality, catering, and management skills for the hotel and tourism industry.</p>
+                                </div>
+                                <div class="course-position-content">
+                                    <div class="credit-duration-wrap">
+                                        <div class="sin-credit-duration">
+                                            <i class="fa fa-diamond"></i>
+                                            <span>Credits : 125</span>
+                                        </div>
+                                        <div class="sin-credit-duration">
+                                            <i class="fa fa-clock-o"></i>
+                                            <span>Duration : 3yrs</span>
+                                        </div>
+                                    </div>
+                                    <div class="course-btn">
+                                        <a class="default-btn" href="bhm-colleges-in-dehradun-uttarakhand.php">APPLY NOW</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="single-course">
+                                <div class="course-img">
+                                    <a href="bhm-lateral-entry-colleges-in-dehradun-uttarakhand.php"><img class="animated" src="assets/uploads/hm.webp" alt=""></a>
+                                </div>
+                                <div class="course-content">
+                                <h4><a href="bhm-lateral-entry-colleges-in-dehradun-uttarakhand.php">Bachelor of Hotel Management (LE)</a></h4>
+                                <p>The Bachelor of Hotel Management (Lateral Entry) program focuses on hospitality, food production, and management skills.</p>
+                                </div>
+                                <div class="course-position-content">
+                                    <div class="credit-duration-wrap">
+                                        <div class="sin-credit-duration">
+                                            <i class="fa fa-diamond"></i>
+                                            <span>Credits : 125</span>
+                                        </div>
+                                        <div class="sin-credit-duration">
+                                            <i class="fa fa-clock-o"></i>
+                                            <span>Duration : 3yrs</span>
+                                        </div>
+                                    </div>
+                                    <div class="course-btn">
+                                        <a class="default-btn" href="bhm-lateral-entry-colleges-in-dehradun-uttarakhand.php">APPLY NOW</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="single-course">
+                                <div class="course-img">
+                                    <a href="BHMCT-colleges-in-dehradun-uttarakhand.php"><img class="animated" src="assets/uploads/bhmct.webp" alt=""></a>
+                                </div>
+                                <div class="course-content">
+                                    <h4><a href="BHMCT-colleges-in-dehradun-uttarakhand.php">BHMCT</a></h4>
+                                    <p>The Bachelor of Hotel Management and Catering Technology program focuses on hospitality, catering operations, food production, and professional management skills.</p>
+                                </div>
+                                <div class="course-position-content">
+                                    <div class="credit-duration-wrap">
+                                        <div class="sin-credit-duration">
+                                            <i class="fa fa-diamond"></i>
+                                            <span>Credits : 125</span>
+                                        </div>
+                                        <div class="sin-credit-duration">
+                                            <i class="fa fa-clock-o"></i>
+                                            <span>Duration : 4yrs</span>
+                                        </div>
+                                    </div>
+                                    <div class="course-btn">
+                                        <a class="default-btn" href="BHMCT-colleges-in-dehradun-uttarakhand.php">APPLY NOW</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="single-course">
+                                <div class="course-img">
+                                    <a href="BHMCT-lateral-entry-colleges-in-dehradun-uttarakhand.php"><img class="animated" src="assets/uploads/bhmct-le.webp" alt=""></a>
+                                </div>
+                                <div class="course-content">
+                                    <h4><a href="BHMCT-lateral-entry-colleges-in-dehradun-uttarakhand.php">BHMCT (Lateral Entry)</a></h4>
+                                    <p>The BHMCT (Lateral Entry) program focuses on hospitality, catering operations, food production, and management skills.</p>
+                                </div>
+                                <div class="course-position-content">
+                                    <div class="credit-duration-wrap">
+                                        <div class="sin-credit-duration">
+                                            <i class="fa fa-diamond"></i>
+                                            <span>Credits : 125</span>
+                                        </div>
+                                        <div class="sin-credit-duration">
+                                            <i class="fa fa-clock-o"></i>
+                                            <span>Duration : 2yrs</span>
+                                        </div>
+                                    </div>
+                                    <div class="course-btn">
+                                        <a class="default-btn" href="BHMCT-lateral-entry-colleges-in-dehradun-uttarakhand.php">APPLY NOW</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="single-course">
+                                <div class="course-img">
+                                    <a href="diploma-in-confectionary.php"><img class="animated" src="assets/uploads/bakery.webp" alt=""></a>
+                                </div>
+                                <div class="course-content">
+                                    <h4><a href="diploma-in-confectionary.php">Diploma in Bakery & Confectionary</a></h4>
+                                    <p>The Diploma in Bakery and Confectionery program is a two-year course focusing on baking techniques, pastry arts, confectionery production, and dessert presentation.</p>
+                                </div>
+                                <div class="course-position-content">
+                                    <div class="credit-duration-wrap">
+                                        <div class="sin-credit-duration">
+                                            <i class="fa fa-diamond"></i>
+                                            <span>Credits : 125</span>
+                                        </div>
+                                        <div class="sin-credit-duration">
+                                            <i class="fa fa-clock-o"></i>
+                                            <span>Duration : 2yrs</span>
+                                        </div>
+                                    </div>
+                                    <div class="course-btn">
+                                        <a class="default-btn" href="diploma-in-confectionary.php">APPLY NOW</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="single-course">
+                                <div class="course-img">
+                                    <a href="diploma-in-food-production.php"><img class="animated" src="assets/uploads/dhm.webp" alt=""></a>
+                                </div>
+                                <div class="course-content">
+                                    <h4><a href="diploma-in-food-production.php">Diploma in Food Production</a></h4>
+                                    <p>The Diploma in Food Production is a two-year program focusing on culinary techniques, kitchen operations, food preparation, and professional cookery standards.</p>
+                                </div>
+                                <div class="course-position-content">
+                                    <div class="credit-duration-wrap">
+                                        <div class="sin-credit-duration">
+                                            <i class="fa fa-diamond"></i>
+                                            <span>Credits : 125</span>
+                                        </div>
+                                        <div class="sin-credit-duration">
+                                            <i class="fa fa-clock-o"></i>
+                                            <span>Duration : 2yrs</span>
+                                        </div>
+                                    </div>
+                                    <div class="course-btn">
+                                        <a class="default-btn" href="diploma-in-food-production.php">APPLY NOW</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="single-course">
+                                <div class="course-img">
+                                    <a href="master-of-hotel-management.php"><img class="animated" src="assets/uploads/mhm.webp" alt=""></a>
+                                </div>
+                                <div class="course-content">
+                                    <h4><a href="master-of-hotel-management.php">Master of Hotel Management</a></h4>
+                                    <p>The Master of Hotel Management program includes advanced training in culinary techniques, kitchen operations, food preparation, and professional hospitality standards.</p>
+                                </div>
+                                <div class="course-position-content">
+                                    <div class="credit-duration-wrap">
+                                        <div class="sin-credit-duration">
+                                            <i class="fa fa-diamond"></i>
+                                            <span>Credits : 125</span>
+                                        </div>
+                                        <div class="sin-credit-duration">
+                                            <i class="fa fa-clock-o"></i>
+                                            <span>Duration : 2yrs</span>
+                                        </div>
+                                    </div>
+                                    <div class="course-btn">
+                                        <a class="default-btn" href="master-of-hotel-management.php">APPLY NOW</a>
+                                    </div>
+                                </div>
+                            </div>
+        </div>
+    </div>
+</div>
+  
+<!-- clubs section -->
+<section class="clubs-section py-5">
+  <div class="container">
+    <div class="section-title pb-50">
+      <h2>Student <span>Clubs 🌟</span></h2>
+    </div>
+    <div class="row g-4 text-center">
+
+      <div class="col-lg-3 col-md-6 col-sm-6">
+        <div class="club-card h-100 p-3">
+          <div class="club-icon mb-2">👨‍🍳</div>
+          <h5 class="club-title">Culinary Club</h5>
+          <p class="club-desc">A space for food enthusiasts to explore cooking, baking, and culinary creativity.</p>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-6 col-sm-6">
+        <div class="club-card h-100 p-3">
+          <div class="club-icon mb-2">🏅</div>
+          <h5 class="club-title">Sports Club</h5>
+          <p class="club-desc">Encourages fitness, teamwork, and participation in indoor and outdoor sports events.</p>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-6 col-sm-6">
+        <div class="club-card h-100 p-3">
+          <div class="club-icon mb-2">🏨</div>
+          <h5 class="club-title">Hospitality Club</h5>
+          <p class="club-desc">Promotes hospitality skills, event management, and service excellence among students.</p>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-6 col-sm-6">
+        <div class="club-card h-100 p-3">
+          <div class="club-icon mb-2">🌸</div>
+          <h5 class="club-title">Ikebana Club</h5>
+          <p class="club-desc">Dedicated to the Japanese art of flower arrangement, fostering creativity and aesthetics.</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+
+  <!-- clubs section ends -->
+  <!-- Why Choose Us -->
+  <section class="why-choose-us py-5">
+  <div class="container">
+    <div class="row align-items-center mb-5">
+      <div class="col-lg-7">
+        <div class="section-title pb-20">
+        <h2>Why <span>Choose Us 🌟 ?</span></h2>
+        </div>
+        <p class="text-muted">
+        Choosing the right place to pursue your education is a life-changing decision—one that shapes not only your academic journey but also your personal and professional future. At our institution, we go beyond conventional learning by offering an ecosystem of innovation, creativity, and global opportunities.
+        </p>
+        <p class="text-muted">Our focus is on preparing students to thrive in a fast-evolving world where adaptability, critical thinking, and ethical leadership matter as much as subject expertise. With state-of-the-art infrastructure, hands-on industry exposure, and mentorship from accomplished faculty, we ensure that every learner is equipped to transform ideas into impactful realities.</p>
+        <a href="https://admission.maya.edu.in/" class="btn btn-success btn-lg mt-3">Apply Now →</a>
+      </div>
+      <div class="col-lg-5 text-center">
+        <img src="assets/uploads/computer.jpg" 
+             alt="Why Choose Us" 
+             class="img-fluid rounded shadow" 
+             style="max-height:380px; object-fit:cover; width:100%;">
+      </div>
+    </div>
+
+    <!-- Feature Points -->
+    <div class="row gy-4">
+  <div class="col-md-6">
+    <div class="feature-box">
+      <span class="feature-icon">🚀</span>
+      <h5>Excellence in Education & Innovation</h5>
+      <p>
+        We provide a future-ready curriculum that balances theory with practical learning, 
+        ensuring students graduate with strong knowledge and essential skills for success.
+      </p>
+    </div>
+  </div>
+
+  <div class="col-md-6">
+    <div class="feature-box">
+      <span class="feature-icon">⚖️</span>
+      <h5>Ethics Meets Knowledge</h5>
+      <p>
+        Beyond academics, we emphasize building responsible individuals who act with integrity, 
+        guided by strong values and social responsibility.
+      </p>
+    </div>
+  </div>
+
+  <div class="col-md-6">
+    <div class="feature-box">
+      <span class="feature-icon">🌍</span>
+      <h5>Global Readiness</h5>
+      <p>
+        Exposure to diverse ideas, collaborations, and real-world experiences prepares 
+        students to thrive in a connected and dynamic global environment.
+      </p>
+    </div>
+  </div>
+
+  <div class="col-md-6">
+    <div class="feature-box">
+      <span class="feature-icon">🔬</span>
+      <h5>Research & Creativity</h5>
+      <p>
+        We encourage curiosity, exploration, and innovative thinking, nurturing a spirit of 
+        discovery and creative problem-solving across all disciplines.
+      </p>
+    </div>
+  </div>
+
+  <div class="col-md-6">
+    <div class="feature-box">
+      <span class="feature-icon">🤝</span>
+      <h5>Supportive, Inclusive Environment</h5>
+      <p>
+        A welcoming and inclusive culture where every student is supported, mentored, 
+        and empowered to grow personally, academically, and professionally.
+      </p>
+    </div>
+  </div>
+
+  <div class="col-md-6">
+    <div class="feature-box">
+      <span class="feature-icon">📚</span>
+      <h5>Commitment to Lifelong Learning</h5>
+      <p>
+        Education here inspires curiosity, critical thinking, and a passion for continuous 
+        growth—preparing students for success throughout life.
+      </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+</section>
+
+  <!-- Student Testimonials -->
+  <!-- Swiper CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
+
+<section class="container py-5">
+    <div class="section-title pb-20">
+  <h2>Student <span>Testimonials</span></h2>
+  </div>
+  <!-- Swiper Slider -->
+  <div class="swiper testimonial-slider">
+    <div class="swiper-wrapper">
+
+      <!-- Testimonial 1 -->
+      <div class="swiper-slide">
+        <div class="testimonial text-center p-4 shadow-sm rounded bg-white">
+          <img src="assets/uploads/testimoni-1.jpeg" alt="Riya Sharma" class="testimonial-img mb-3">
+          <p>"The School of Engineering provided me with excellent opportunities to learn, explore, and innovate. I secured a placement at Microsoft with 42 LPA package!"</p>
+          <h6 class="mt-2">- Riya Sharma (CSE)</h6>
+        </div>
+      </div>
+
+      <!-- Testimonial 2 -->
+      <div class="swiper-slide">
+        <div class="testimonial text-center p-4 shadow-sm rounded bg-white">
+          <img src="assets/uploads/testimoni-2.jpeg" alt="Arjun Verma" class="testimonial-img mb-3">
+          <p>"State-of-the-art labs and practical exposure gave me an edge in the industry. Truly grateful for the faculty and support at MDU."</p>
+          <h6 class="mt-2">- Arjun Verma (Mechanical)</h6>
+        </div>
+      </div>
+
+      <!-- Testimonial 3 -->
+      <div class="swiper-slide">
+        <div class="testimonial text-center p-4 shadow-sm rounded bg-white">
+          <img src="assets/uploads/testimoni-3.jpeg" alt="Student" class="testimonial-img mb-3">
+          <p>"Amazing mentors and inclusive culture. I gained not only knowledge but also confidence to excel in my career."</p>
+          <h6 class="mt-2">- Sneha Gupta (MCA)</h6>
+        </div>
+      </div>
+
+      <!-- Testimonial 4 -->
+      <div class="swiper-slide">
+        <div class="testimonial text-center p-4 shadow-sm rounded bg-white">
+          <img src="assets/uploads/testimoni-4.jpeg" alt="Arjun Verma" class="testimonial-img mb-3">
+          <p>"State-of-the-art labs and practical exposure gave me an edge in the industry. Truly grateful for the faculty and support at MDU."</p>
+          <h6 class="mt-2">- Arjun Verma (Mechanical)</h6>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Pagination -->
+    <div class="swiper-pagination"></div>
+
+  </div>
+</section>
+
+<!-- Swiper JS -->
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+<script>
+ var swiper = new Swiper(".testimonial-slider", {
+  slidesPerView: 1,
+  spaceBetween: 20,
+  loop: true,
+  autoplay: {
+    delay: 4000,   // 4 seconds per slide
+    disableOnInteraction: false,
+  },
+  pagination: {
+    el: ".swiper-pagination",
+    clickable: true,
+  },
+  breakpoints: {
+    768: { slidesPerView: 2 }, // Tablet
+    1024: { slidesPerView: 3 } // Desktop
+  }
+});
+
+</script>
+<?php require "common/footer.php"?>
