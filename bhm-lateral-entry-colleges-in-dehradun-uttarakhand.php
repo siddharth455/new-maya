@@ -94,7 +94,7 @@
                         <div class="related-slider-active">
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="diploma-in-food-production.php"><img class="animated" src="assets/uploads/hm.webp" alt=""></a>
+                                    <a href="diploma-in-food-production.php"><img class="animated" src="assets/uploads/dhm.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="diploma-in-food-production.php">Diploma in Food Production</a></h4>
@@ -118,7 +118,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="diploma-in-confectionary.php"><img class="animated" src="assets/uploads/hm.webp" alt=""></a>
+                                    <a href="diploma-in-confectionary.php"><img class="animated" src="assets/uploads/bakery.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                 <h4><a href="diploma-in-confectionary.php">Diploma in Food Confectionary</a></h4>
@@ -142,7 +142,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="bhm-colleges-in-dehradun-uttarakhand.php"><img class="animated" src="assets/uploads/hm.webp" alt=""></a>
+                                    <a href="bhm-colleges-in-dehradun-uttarakhand.php"><img class="animated" src="assets/uploads/hm-le.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="bhm-colleges-in-dehradun-uttarakhand.php">Bachelor in Hotel Management</a></h4>

@@ -118,7 +118,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="b.tech-civil-engineering.php"><img class="animated" src="assets/uploads/b.tech-civil.jpg" alt=""></a>
+                                    <a href="b.tech-civil-engineering.php"><img class="animated" src="assets/uploads/civil.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                 <h4><a href="b.tech-civil-engineering.php">B.tech Civil Engineering</a></h4>

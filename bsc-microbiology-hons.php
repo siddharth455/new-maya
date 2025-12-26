@@ -94,7 +94,7 @@
                         <div class="related-slider-active">
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="bsc-environmental-science.php"><img class="animated" src="assets/uploads/bsc-pcm-img1.jpg" alt=""></a>
+                                    <a href="bsc-environmental-science.php"><img class="animated" src="assets/uploads/evs.jpg" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="bsc-environmental-science.php">B.Sc. Environmental Science</a></h4>
@@ -118,7 +118,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="bsc-physics.php"><img class="animated" src="assets/uploads/bsc-pcm-img1.jpg" alt=""></a>
+                                    <a href="bsc-physics.php"><img class="animated" src="assets/uploads/physics.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="bsc-physics.php">B.Sc. Physics</a></h4>
@@ -142,7 +142,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="bsc-botany.php"><img class="animated" src="assets/uploads/bsc-pcm-img1.jpg" alt=""></a>
+                                    <a href="bsc-botany.php"><img class="animated" src="assets/uploads/botany.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="bsc-botany.php">B.Sc. Botany</a></h4>

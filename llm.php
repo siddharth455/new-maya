@@ -118,7 +118,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="llb.php"><img class="animated" src="assets/uploads/llb.jpg" alt=""></a>
+                                    <a href="llb.php"><img class="animated" src="assets/uploads/llb-3.jpeg" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="llb.php">LLB (Bachelor of Law)</a></h4>
@@ -142,7 +142,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="bba-llb.php"><img class="animated" src="assets/uploads/llb.jpg" alt=""></a>
+                                    <a href="bba-llb.php"><img class="animated" src="assets/uploads/llb-2.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                 <h4><a href="bba-llb.php">BBA LLB</a></h4>

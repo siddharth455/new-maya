@@ -96,7 +96,7 @@
                         <div class="related-slider-active">
                         <div class="single-course">
                                 <div class="course-img">
-                                    <a href="bachelor-of-computer-application-AI-&-ML.php"><img class="animated" src="assets/uploads/b-tech-cs-lab.jpg" alt=""></a>
+                                    <a href="bachelor-of-computer-application-AI-&-ML.php"><img class="animated" src="assets/uploads/aiml.jpg" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="bachelor-of-computer-application-AI-&-ML.php">BCA with Specialization in AI and ML (AIML)</a></h4>
@@ -120,7 +120,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="bachelor-of-computer-application-Data-Science.php"><img class="animated" src="assets/uploads/b-tech-cs-lab.jpg" alt=""></a>
+                                    <a href="bachelor-of-computer-application-Data-Science.php"><img class="animated" src="assets/uploads/data-science.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="bachelor-of-computer-application-Data-Science.php">BCA with Specialization in Data Science</a></h4>
@@ -144,7 +144,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="bachelor-of-computer-application-cyber-security.php"><img class="animated" src="assets/uploads/b-tech-cs-lab.jpg" alt=""></a>
+                                    <a href="bachelor-of-computer-application-cyber-security.php"><img class="animated" src="assets/uploads/cyber-security.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="bachelor-of-computer-application-cyber-security.php">BCA with Specialization in Cyber Security</a></h4>
@@ -168,7 +168,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="bachelor-of-science-in-computer-science.php"><img class="animated" src="assets/uploads/b-tech-cs-lab.jpg" alt=""></a>
+                                    <a href="bachelor-of-science-in-computer-science.php"><img class="animated" src="assets/uploads/cs.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                 <h4><a href="bachelor-of-science-in-computer-science.php">B.Sc. Computer Science</a></h4>

@@ -44,11 +44,11 @@
     <div class="school">
       <h2 class="school-name">Ashtavakra School of Rehabilitation</h2>
       <ul class="courses-list">
-        <li><a href="#">Early child Special Edu. (Hearing Impairment)</a></li>
-        <li><a href="#">Early Rehabilitation Therapy (Mental Retardation)</a></li>
-        <li><a href="#">Prosthetics & Orthotics</a></li>
-        <li><a href="#">Hearing language & Speech</a></li>
-        <li><a href="#">Indian Sign Language</a></li>
+        <li><a href="early-child-special-edu.php">Early child Special Edu. (Hearing Impairment)</a></li>
+        <li><a href="early-rehabilitation-therapy.php">Early Rehabilitation Therapy (Mental Retardation)</a></li>
+        <li><a href="prosthetics-orthotics.php">Prosthetics & Orthotics</a></li>
+        <li><a href="hearing-language-speech.php">Hearing language & Speech</a></li>
+        <li><a href="indian-sign-language.php">Indian Sign Language</a></li>
       </ul>
     </div>
 

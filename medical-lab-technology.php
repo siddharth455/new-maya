@@ -95,7 +95,7 @@
                         <div class="related-slider-active">
                         <div class="single-course">
                                 <div class="course-img">
-                                    <a href="b.sc-dialysis-technology.php"><img class="animated" src="assets/uploads/paramedical.webp" alt=""></a>
+                                    <a href="b.sc-dialysis-technology.php"><img class="animated" src="assets/uploads/dialysis.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="b.sc-dialysis-technology.php">B.Sc. in Dialysis Technology</a></h4>
@@ -119,7 +119,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="operation-theatre-technology.php"><img class="animated" src="assets/uploads/paramedical.webp" alt=""></a>
+                                    <a href="operation-theatre-technology.php"><img class="animated" src="assets/uploads/ott.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                 <h4><a href="operation-theatre-technology.php">B.Sc. in Operation Theatre Technology</a></h4>
@@ -143,7 +143,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="radio-imaging-technology.php"><img class="animated" src="assets/uploads/paramedical.webp" alt=""></a>
+                                    <a href="radio-imaging-technology.php"><img class="animated" src="assets/uploads/rit.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="radio-imaging-technology.php">B.Sc in Radio Imaging Technology</a></h4>

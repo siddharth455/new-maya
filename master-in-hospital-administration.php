@@ -96,7 +96,7 @@
                         <div class="related-slider-active">
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="operation-theatre-technology.php"><img class="animated" src="assets/uploads/paramedical.webp" alt=""></a>
+                                    <a href="operation-theatre-technology.php"><img class="animated" src="assets/uploads/ott.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="operation-theatre-technology.php">B.Sc. in Operation Theatre Technology</a></h4>
@@ -120,7 +120,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="medical-lab-technology.php"><img class="animated" src="assets/uploads/paramedical.webp" alt=""></a>
+                                    <a href="medical-lab-technology.php"><img class="animated" src="assets/uploads/mlt.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="medical-lab-technology.php">B.Sc. in Medical Laboratory Technology
@@ -145,7 +145,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="cardiac-care-technology.php"><img class="animated" src="assets/uploads/paramedical.webp" alt=""></a>
+                                    <a href="cardiac-care-technology.php"><img class="animated" src="assets/uploads/cardiac.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="cardiac-care-technology.php">B.Sc. in Cardiac Care Technology</a></h4>

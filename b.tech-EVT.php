@@ -111,7 +111,7 @@
                         <div class="related-slider-active">
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="b.tech-CSE.php"><img class="animated" src="assets/uploads/b-tech-cs-lab.jpg" alt=""></a>
+                                    <a href="b.tech-CSE.php"><img class="animated" src="assets/uploads/computer.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="b.tech-CSE.php">B.Tech. Computer Science & Engineering</a></h4>
@@ -135,7 +135,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="b.tech-AI-ML.php"><img class="animated" src="assets/uploads/b-tech-cs-lab.jpg" alt=""></a>
+                                    <a href="b.tech-AI-ML.php"><img class="animated" src="assets/uploads/aiml.jpg" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="b.tech-AI-ML.php">B.Tech. Computer Science & Engineering (AI & ML)</a></h4>
@@ -159,7 +159,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="b.tech-cyber_security.php"><img class="animated" src="assets/uploads/b-tech-cs-lab.jpg" alt=""></a>
+                                    <a href="b.tech-cyber_security.php"><img class="animated" src="assets/uploads/cyber-security.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="b.tech-cyber_security.php">B.Tech. Computer Science & Engineering (Cyber Security & Forensics)</a></h4>
@@ -183,7 +183,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="b.tech-LE.php"><img class="animated" src="assets/uploads/b-tech-cs-lab.jpg" alt=""></a>
+                                    <a href="b.tech-LE.php"><img class="animated" src="assets/uploads/b-tech-le.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="b.tech-LE.php">B.Tech. Computer Science & Engineering (LE)</a></h4>

@@ -88,7 +88,7 @@
                         <div class="related-slider-active">
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="BHMCT-colleges-in-dehradun-uttarakhand.php"><img class="animated" src="assets/uploads/hm.webp" alt=""></a>
+                                    <a href="BHMCT-colleges-in-dehradun-uttarakhand.php"><img class="animated" src="assets/uploads/bhmct.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="BHMCT-colleges-in-dehradun-uttarakhand.php">BHMCT</a></h4>
@@ -136,7 +136,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="diploma-in-confectionary.php"><img class="animated" src="assets/uploads/hm.webp" alt=""></a>
+                                    <a href="diploma-in-confectionary.php"><img class="animated" src="assets/uploads/bakery.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="diploma-in-confectionary.php">Diploma in Bakery & Confectionary</a></h4>

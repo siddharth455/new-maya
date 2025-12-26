@@ -1,6 +1,6 @@
 <?php require "common/header.php"?>
 <div class="breadcrumb-area">
-    <div class="breadcrumb-top default-overlay bg-img breadcrumb-overly-2 pt-100 pb-95" style="background-image:url(assets/uploads/b.tech-mechanical.webp);">
+    <div class="breadcrumb-top default-overlay bg-img breadcrumb-overly-2 pt-100 pb-95" style="background-image:url(assets/uploads/b.tech-mechanic-2.webp);">
         <div class="container">
             <h2>B.Tech in Mechanical Engineering (Mechatronics)</h2>
             <p>The Mechanical Engineering with Structural Mechatronics program integrates mechanical design, electronics, and control systems. It focuses on the development and analysis of smart, adaptive, and resilient mechanical structures.</p>
@@ -94,7 +94,7 @@
                         <div class="related-slider-active">
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="mechanical-engineering-le.php"><img class="animated" src="assets/uploads/b.tech-mechanical.webp" alt=""></a>
+                                    <a href="mechanical-engineering-le.php"><img class="animated" src="assets/uploads/mechanical-le.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                 <h4><a href="mechanical-engineering-le.php">B.tech Mechanical Engineering (Lateral Entry)</a></h4>

@@ -79,7 +79,7 @@
                         <div class="related-slider-active">
                         <div class="single-course">
                                 <div class="course-img">
-                                    <a href="b.tech-civil-engineering.php"><img class="animated" src="assets/uploads/b.tech-civil.jpg" alt=""></a>
+                                    <a href="b.tech-civil-engineering.php"><img class="animated" src="assets/uploads/civil.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                 <h4><a href="b.tech-civil-engineering.php">B.tech Civil Engineering</a></h4>
@@ -103,7 +103,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="b.tech-civil-engineering-le.php"><img class="animated" src="assets/uploads/b.tech-civil.jpg" alt=""></a>
+                                    <a href="b.tech-civil-engineering-le.php"><img class="animated" src="assets/uploads/civil-le.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="b.tech-civil-engineering-le.php">B.tech Civil Engineering (Lateral Entry)</a></h4>

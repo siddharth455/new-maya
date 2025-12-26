@@ -86,7 +86,7 @@
                         <div class="related-slider-active">
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="bachelor-pharmacy-lateral-entry.php"><img class="animated" src="assets/uploads/d.pharmacy.jpeg" alt=""></a>
+                                    <a href="bachelor-pharmacy-lateral-entry.php"><img class="animated" src="assets/uploads/pharmacy-le.jpg" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                 <h4><a href="bachelor-pharmacy-lateral-entry.php">Bachelor of pharmacy (Lateral Entry)</a></h4>
@@ -134,7 +134,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="master-pharmacy-pharmaceutics.php"><img class="animated" src="assets/uploads/d.pharmacy.jpeg" alt=""></a>
+                                    <a href="master-pharmacy-pharmaceutics.php"><img class="animated" src="assets/uploads/mpharm.jpg" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                 <h4><a href="master-pharmacy-pharmaceutics.php">Master in Pharmacy</a></h4>

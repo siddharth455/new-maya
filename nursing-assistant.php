@@ -118,7 +118,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="gnm.php"><img class="animated" src="assets/uploads/nursing-1.jpg" alt=""></a>
+                                    <a href="gnm.php"><img class="animated" src="assets/uploads/gnm.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                 <h4><a href="gnm.php">General Nursing and Midwifery (GNM)</a></h4>

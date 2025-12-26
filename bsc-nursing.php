@@ -1,6 +1,6 @@
 <?php require "common/header.php"?>
 <div class="breadcrumb-area">
-    <div class="breadcrumb-top default-overlay bg-img breadcrumb-overly-2 pt-100 pb-95" style="background-image:url(assets/uploads/nursing-banner.webp);">
+    <div class="breadcrumb-top default-overlay bg-img breadcrumb-overly-2 pt-100 pb-95" style="background-image:url(assets/uploads/nursing-1.jpg);">
         <div class="container">
             <h2>Bachelor of Science in Nursing (B.Sc Nursing)</h2>
             <p>The B.Sc Nursing program is designed to equip students with the knowledge, skills, and attitudes necessary to provide professional nursing care. It emphasizes clinical training, evidence-based practice, and leadership development, preparing graduates for diverse roles in healthcare settings both in India and abroad.</p>
@@ -94,7 +94,7 @@
                         <div class="related-slider-active">
                         <div class="single-course">
                                 <div class="course-img">
-                                    <a href="gnm.php"><img class="animated" src="assets/uploads/nursing-1.jpg" alt=""></a>
+                                    <a href="gnm.php"><img class="animated" src="assets/uploads/gnm.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                 <h4><a href="gnm.php">General Nursing and Midwifery (GNM)</a></h4>
@@ -118,7 +118,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="nursing-assistant.php"><img class="animated" src="assets/uploads/nursing-1.jpg" alt=""></a>
+                                    <a href="nursing-assistant.php"><img class="animated" src="assets/uploads/na.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="nursing-assistant.php">Nursing Assistant</a></h4>

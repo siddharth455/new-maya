@@ -20,7 +20,7 @@
             <div class="col-xl-9 col-lg-8">
                 <div class="course-left-wrap mr-40">
                     <div class="apply-area">
-                        <img src="assets/uploads/b.tech-electric-2.webp" alt="">
+                        <img src="assets/uploads/b.tech-electric.webp" alt="">
                         <div class="course-apply-btn">
                             <a href="https://admission.maya.edu.in/" class="default-btn">APPLY NOW</a>
                         </div>
@@ -93,7 +93,7 @@
                         <div class="related-slider-active">
                         <div class="single-course">
                                 <div class="course-img">
-                                    <a href="b.tech-electronics-and-communication-engineering.php"><img class="animated" src="assets/uploads/b.tech-electric.webp" alt=""></a>
+                                    <a href="b.tech-electronics-and-communication-engineering.php"><img class="animated" src="assets/uploads/b.tech-electric-2.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                 <h4><a href="b.tech-electronics-and-communication-engineering.php">B.Tech in electronic and communication Engineering</a></h4>
@@ -117,7 +117,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="b.tech-electronics-and-communication-engineering-robotics-ai.php"><img class="animated" src="assets/uploads/b.tech-electric.webp" alt=""></a>
+                                    <a href="b.tech-electronics-and-communication-engineering-robotics-ai.php"><img class="animated" src="assets/uploads/b.tech-electric-3.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                 <h4><a href="b.tech-electronics-and-communication-engineering-robotics-ai.php">B.tech CE Engineering (Robotics & AI)</a></h4>
@@ -141,7 +141,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="b.tech-electronics-and-communication-engineering-le.php"><img class="animated" src="assets/uploads/b.tech-electric.webp" alt=""></a>
+                                    <a href="b.tech-electronics-and-communication-engineering-le.php"><img class="animated" src="assets/uploads/b.tech-electric-2.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                 <h4><a href="b.tech-electronics-and-communication-engineering-le.php">B.Tech EC Engineering (Lateral Entry)

@@ -215,7 +215,7 @@
     <div class="school">
       <h2 class="school-name">Ashtavakra School of Rehabilitation</h2>
       <ul class="courses-list">
-        <li><a href="#">B.Sc - Clinical Psychology (Hons.)</a></li>
+        <li><a href="clinical-psychology.php">B.Sc - Clinical Psychology (Hons.)</a></li>
       </ul>
     </div>
 

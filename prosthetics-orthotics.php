@@ -98,7 +98,7 @@
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="indian-sign-language.php">Indian Sign Language</a></h4>
-                                    <p>magna aliqua. Ut enim ad minim veniam, nisi ut aliquiptempor incid.</p>
+                                    <p>The Diploma in Indian Sign Language is typically a 1-year full-time program designed according to standards recommended by deaf education and rehabilitation bodies.</p>
                                 </div>
                                 <div class="course-position-content">
                                     <div class="credit-duration-wrap">
@@ -123,7 +123,7 @@
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="early-child-special-edu.php">Early Child Special Edu. (Hearing Impairment)</a></h4>
-                                    <p>magna aliqua. Ut enim ad minim veniam, nisi ut aliquiptempor incid.</p>
+                                    <p>The Diploma in Early Child Special Education (Hearing Impairment) is a professional program designed to train educators and caregivers to support young children aged 0–6 years with hearing impairment.</p>
                                 </div>
                                 <div class="course-position-content">
                                     <div class="credit-duration-wrap">
@@ -147,7 +147,7 @@
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="early-rehabilitation-therapy.php">Early Rehabilitation Therapy Rehabilitation (Mental Retardation)</a></h4>
-                                    <p>magna aliqua. Ut enim ad minim veniam, nisi ut aliquiptempor incid.</p>
+                                    <p>Diploma in Rehabilitation Therapy is a recognized paramedical/rehabilitation-level diploma course designed to train competent rehabilitation-therapy assistants/technicians.</p>
                                 </div>
                                 <div class="course-position-content">
                                     <div class="credit-duration-wrap">

@@ -98,7 +98,7 @@
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="early-rehabilitation-therapy.php">Early Rehabilitation Therapy Rehabilitation (Mental Retardation)</a></h4>
-                                    <p>magna aliqua. Ut enim ad minim veniam, nisi ut aliquiptempor incid.</p>
+                                    <p>Diploma in Rehabilitation Therapy is a recognized paramedical/rehabilitation-level diploma course designed to train competent rehabilitation-therapy assistants/technicians.</p>
                                 </div>
                                 <div class="course-position-content">
                                     <div class="credit-duration-wrap">
@@ -122,7 +122,7 @@
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="prosthetics-orthotics.php">Prosthetics and Orthotics</a></h4>
-                                    <p>magna aliqua. Ut enim ad minim veniam, nisi ut aliquiptempor incid.</p>
+                                    <p>The Diploma in Prosthetics and Orthotics is typically a 2-year full-time program designed as per Rehabilitation Council of India (RCI) guidelines.</p>
                                 </div>
                                 <div class="course-position-content">
                                     <div class="credit-duration-wrap">
@@ -146,7 +146,7 @@
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="hearing-language-speech.php">Hearing Language and Speech</a></h4>
-                                    <p>magna aliqua. Ut enim ad minim veniam, nisi ut aliquiptempor incid.</p>
+                                    <p>The DHLS program is usually a 1-year full-time diploma, structured as per the guidelines of the Rehabilitation Council of India (RCI).</p>
                                 </div>
                                 <div class="course-position-content">
                                     <div class="credit-duration-wrap">

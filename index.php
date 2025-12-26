@@ -1489,7 +1489,7 @@ $('.slider-active').owlCarousel({
         <div class="row">
             <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
                 <div class="single-count mb-30 count-one">
-                    <div class="count-img">1
+                    <div class="count-img">
                         <img src="assets/img/icon-img/achieve-1.png" alt="">
                     </div>
                     <div class="count-content">

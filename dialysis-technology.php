@@ -94,7 +94,7 @@
                         <div class="related-slider-active">
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="bpt.php"><img class="animated" src="assets/uploads/paramedical.webp" alt=""></a>
+                                    <a href="bpt.php"><img class="animated" src="assets/uploads/bpt.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                 <h4><a href="bpt.php">Bachelor of Physiotherapy (BPT)</a></h4>
@@ -118,7 +118,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="bmlt.php"><img class="animated" src="assets/uploads/paramedical.webp" alt=""></a>
+                                    <a href="bmlt.php"><img class="animated" src="assets/uploads/bmlt.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                 <h4><a href="bmlt.php">Bachelor of Medical Laboratory Technology
@@ -143,7 +143,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="bmrit.php"><img class="animated" src="assets/uploads/paramedical.webp" alt=""></a>
+                                    <a href="bmrit.php"><img class="animated" src="assets/uploads/bmrit.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                 <h4><a href="bmrit.php">Bachelor of Medical Radiology & Imaging Technology</a></h4>

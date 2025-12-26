@@ -93,7 +93,7 @@
                         <div class="related-slider-active">
                         <div class="single-course">
                                 <div class="course-img">
-                                    <a href="b.tech-electronics-and-communication-engineering.php"><img class="animated" src="assets/uploads/b.tech-electric.webp" alt=""></a>
+                                    <a href="b.tech-electronics-and-communication-engineering.php"><img class="animated" src="assets/uploads/b.tech-electric-2.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                 <h4><a href="b.tech-electronics-and-communication-engineering.php">B.Tech in electronic and communication Engineering</a></h4>
@@ -141,7 +141,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="b.tech-electronics-and-communication-engineering-le.php"><img class="animated" src="assets/uploads/b.tech-electric.webp" alt=""></a>
+                                    <a href="b.tech-electronics-and-communication-engineering-le.php"><img class="animated" src="assets/uploads/b.tech-electric-2.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                 <h4><a href="b.tech-electronics-and-communication-engineering-le.php">B.Tech EC Engineering (Lateral Entry)

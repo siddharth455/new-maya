@@ -119,7 +119,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="nursing-assistant.php"><img class="animated" src="assets/uploads/nursing-1.jpg" alt=""></a>
+                                    <a href="nursing-assistant.php"><img class="animated" src="assets/uploads/na.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="nursing-assistant.php">Nursing Assistant</a></h4>

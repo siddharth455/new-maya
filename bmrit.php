@@ -95,7 +95,7 @@
                         <div class="related-slider-active">
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="dialysis-technology.php"><img class="animated" src="assets/uploads/paramedical.webp" alt=""></a>
+                                    <a href="dialysis-technology.php"><img class="animated" src="assets/uploads/dialysis.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="dialysis-technology.php">Diploma in Dialysis Technology</a></h4>
@@ -119,7 +119,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="bpt.php"><img class="animated" src="assets/uploads/paramedical.webp" alt=""></a>
+                                    <a href="bpt.php"><img class="animated" src="assets/uploads/bpt.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                 <h4><a href="bpt.php">Bachelor of Physiotherapy (BPT)</a></h4>
@@ -143,7 +143,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="bott.php"><img class="animated" src="assets/uploads/paramedical.webp" alt=""></a>
+                                    <a href="bott.php"><img class="animated" src="assets/uploads/bott.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="bott.php">Bachelor of Operation Theatre Technology</a></h4>

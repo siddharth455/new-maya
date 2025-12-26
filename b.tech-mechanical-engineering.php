@@ -94,7 +94,7 @@
                         <div class="related-slider-active">
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="mechanical-engineering-le.php"><img class="animated" src="assets/uploads/b.tech-mechanical.webp" alt=""></a>
+                                    <a href="mechanical-engineering-le.php"><img class="animated" src="assets/uploads/mechanical-le.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                 <h4><a href="mechanical-engineering-le.php">B.tech Mechanical Engineering (Lateral Entry)</a></h4>

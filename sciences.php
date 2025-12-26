@@ -696,7 +696,7 @@
       </div>
       <div class="single-course">
         <div class="course-img">
-          <a href="msc-botany.php"><img class="animated" src="assets/uploads/botany-3" alt=""></a>
+          <a href="msc-botany.php"><img class="animated" src="assets/uploads/botany-3.webp" alt=""></a>
         </div>
         <div class="course-content">
           <h4><a href="msc-botany.php">M.Sc. Botany</a></h4>

@@ -204,3 +204,27 @@
             </div>
         </div>
     </header>
+    <style>
+        /* ===== FIX DESKTOP CLICK ISSUE CAUSED BY STICKY HEADER ===== */
+
+/* Ensure header stays on top but does NOT block clicks below */
+.header-bottom {
+  position: relative;
+  z-index: 999;
+}
+
+/* When sticky is active */
+.header-bottom.is-sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: auto;
+}
+
+/* Disable invisible overlay from sticky header */
+.header-bottom::before,
+.header-bottom::after {
+  pointer-events: none;
+}
+
+    </style>

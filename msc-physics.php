@@ -93,7 +93,7 @@
                         <div class="related-slider-active">
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="msc-chemistry.php"><img class="animated" src="assets/uploads/bsc-pcm-img1.jpg" alt=""></a>
+                                    <a href="msc-chemistry.php"><img class="animated" src="assets/uploads/chemistry.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="msc-chemistry.php">M.Sc. Chemistry</a></h4>
@@ -117,7 +117,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="msc-botany.php"><img class="animated" src="assets/uploads/bsc-pcm-img1.jpg" alt=""></a>
+                                    <a href="msc-botany.php"><img class="animated" src="assets/uploads/botany-3.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="msc-botany.php">M.Sc. Botany</a></h4>
@@ -144,7 +144,7 @@
                                     <a href="msc-mathematics.php"><img class="animated" src="assets/uploads/bsc-pcm-img1.jpg" alt=""></a>
                                 </div>
                                 <div class="course-content">
-                                    <h4><a href="course-details.php">M.Sc. Mathematics</a></h4>
+                                    <h4><a href="msc-mathematics.php">M.Sc. Mathematics</a></h4>
                                     <p>Master of Science (M.Sc.) in Mathematics is a full time one year/two year programme that typically offers a deep dive into the world of mathematical sciences.</p>
                                 </div>
                                 <div class="course-position-content">

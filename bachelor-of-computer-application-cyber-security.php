@@ -3,7 +3,7 @@
     <div class="breadcrumb-top default-overlay bg-img breadcrumb-overly-2 pt-100 pb-95" style="background-image:url(assets/uploads/cyber-security.webp);">
         <div class="container">
             <h2>BCA with Specialization in Cyber Security</h2>
-            <p>The Bachelor of Computer Applications (BCA) with a Specialization in Cyber Security is a three- year undergraduate program designed to build strong foundational knowledge in computer applications along with specialized expertise in securing digital systems and networks.</p>
+            <p>The Bachelor of Computer Applications (BCA) with a Specialization in Cyber Security is a three- year undergraduate program designed to build strong foundational knowledge in computer applications.</p>
         </div>
     </div>
     <div class="breadcrumb-bottom">
@@ -96,7 +96,7 @@
                         <div class="related-slider-active">
                         <div class="single-course">
                                 <div class="course-img">
-                                    <a href="bachelor-of-computer-application.php"><img class="animated" src="assets/uploads/b-tech-cs-lab.jpg" alt=""></a>
+                                    <a href="bachelor-of-computer-application.php"><img class="animated" src="assets/uploads/bca.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                 <h4><a href="bachelor-of-computer-application.php">bachelor of computer application (BCA)</a></h4>
@@ -120,7 +120,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="bachelor-of-computer-application-AI-&-ML.php"><img class="animated" src="assets/uploads/b-tech-cs-lab.jpg" alt=""></a>
+                                    <a href="bachelor-of-computer-application-AI-&-ML.php"><img class="animated" src="assets/uploads/aiml.jpg" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="bachelor-of-computer-application-AI-&-ML.php">BCA with Specialization in AI and ML (AIML)</a></h4>
@@ -144,7 +144,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="bachelor-of-computer-application-Data-Science.php"><img class="animated" src="assets/uploads/b-tech-cs-lab.jpg" alt=""></a>
+                                    <a href="bachelor-of-computer-application-Data-Science.php"><img class="animated" src="assets/uploads/data-science.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="bachelor-of-computer-application-Data-Science.php">BCA with Specialization in Data Science</a></h4>

@@ -1,6 +1,6 @@
 <?php require "common/header.php" ?>
 <div class="breadcrumb-area">
-    <div class="breadcrumb-top default-overlay bg-img breadcrumb-overly-2 pt-100 pb-95" style="background-image:url(assets/uploads/nursing-banner.webp);">
+    <div class="breadcrumb-top default-overlay bg-img breadcrumb-overly-2 pt-100 pb-95" style="background-image:url(assets/uploads/bsc-pcm-img1.jpg);">
         <div class="container">
             <h2>M.Sc. Mathematics</h2>
             <p>The M.Sc. Mathematics program is designed to provide advanced knowledge in pure and applied mathematics, focusing on analytical reasoning, problem-solving, mathematical modeling, and research skills. It prepares graduates for careers in academics, data science, finance, research institutions, and higher studies in India and abroad.</p>
@@ -20,7 +20,7 @@
             <div class="col-xl-9 col-lg-8">
                 <div class="course-left-wrap mr-40">
                     <div class="apply-area">
-                        <img src="assets/uploads/nursing-1.jpg" alt="">
+                        <img src="assets/uploads/bsc-pcm-img1.jpg" alt="">
                         <div class="course-apply-btn">
                             <a href="https://admission.maya.edu.in/" class="default-btn">APPLY NOW</a>
                         </div>
@@ -119,7 +119,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="msc-chemistry.php"><img class="animated" src="assets/uploads/bsc-pcm-img1.jpg" alt=""></a>
+                                    <a href="msc-chemistry.php"><img class="animated" src="assets/uploads/chemistry.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="msc-chemistry.php">M.Sc. Chemistry</a></h4>
@@ -143,7 +143,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="msc-zoology.php"><img class="animated" src="assets/uploads/bsc-pcm-img1.jpg" alt=""></a>
+                                    <a href="msc-zoology.php"><img class="animated" src="assets/uploads/zoology.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="msc-zoology.php">M.Sc. Zoology</a></h4>

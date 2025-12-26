@@ -94,7 +94,7 @@
                         <div class="related-slider-active">
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="bsc-microbiology.php"><img class="animated" src="assets/uploads/bsc-pcm-img1.jpg" alt=""></a>
+                                    <a href="bsc-microbiology.php"><img class="animated" src="assets/uploads/micro.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="bsc-microbiology.php">B.Sc. Microbiology</a></h4>
@@ -118,7 +118,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="bsc-biotechnology.php"><img class="animated" src="assets/uploads/bsc-pcm-img1.jpg" alt=""></a>
+                                    <a href="bsc-biotechnology.php"><img class="animated" src="assets/uploads/biotechnology.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="bsc-biotechnology.php">B.Sc. Biotechnology</a></h4>

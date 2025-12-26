@@ -93,7 +93,7 @@
                         <div class="related-slider-active">
                         <div class="single-course">
                                 <div class="course-img">
-                                    <a href="horticulture-colleges-in-dehradun-uttarakhand.php"><img class="animated" src="assets/uploads/agri.webp" alt=""></a>
+                                    <a href="horticulture-colleges-in-dehradun-uttarakhand.php"><img class="animated" src="assets/uploads/horticulture.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="horticulture-colleges-in-dehradun-uttarakhand.php">Master in Horticulture</a></h4>
@@ -117,7 +117,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="master-in-agriculture.php"><img class="animated" src="assets/uploads/agri.webp" alt=""></a>
+                                    <a href="master-in-agriculture.php"><img class="animated" src="assets/uploads/agriculture.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="master-in-agriculture.php">Master in agriculture</a></h4>

@@ -29,7 +29,7 @@
                         <div class="tab-pane active mt-5" id="course-details-1">
                             <div class="over-view-content">
                                 <h4>COURSE DETAILS</h4>
-                                <h5>Course Name : Bachelor of Physiotherapy (BPT)</h5>
+                                <h5>Course Name : Certificate Course in Care Giving</h5>
                                 <p>The Certificate Course in Care Giving is typically a 3–6 month practical-oriented program designed to prepare candidates for hands-on caregiving responsibilities. The curriculum includes modules on basic nursing skills, personal hygiene, nutrition management, mobility assistance techniques, elderly care, child care, disability support, infection control, communication skills, and emergency response.</p>
                                 <p>Students are trained to provide day-to-day care to individuals who may be elderly, chronically ill, recovering from surgery, or living with disabilities. The course emphasizes empathy, patience, and effective communication—key qualities for caregivers.</p>
                                 <div class="over-view-list">
@@ -99,7 +99,7 @@
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="clinical-psychology.php">B.Sc. Clinical Psychology (Hons.)</a></h4>
-                                    <p>magna aliqua. Ut enim ad minim veniam, nisi ut aliquiptempor incid.</p>
+                                    <p>B.Sc. in Clinical Psychology (Hons.) is an undergraduate degree program that focuses on understanding human behavior, mental processes, emotional development, and psychological disorders.</p>
                                 </div>
                                 <div class="course-position-content">
                                     <div class="credit-duration-wrap">
@@ -123,7 +123,7 @@
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="prosthetics-orthotics.php">Prosthetics and Orthotics</a></h4>
-                                    <p>magna aliqua. Ut enim ad minim veniam, nisi ut aliquiptempor incid.</p>
+                                    <p>The Diploma in Prosthetics and Orthotics is typically a 2-year full-time program designed as per Rehabilitation Council of India (RCI) guidelines.</p>
                                 </div>
                                 <div class="course-position-content">
                                     <div class="credit-duration-wrap">
@@ -147,7 +147,7 @@
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="hearing-language-speech.php">Hearing Language and Speech</a></h4>
-                                    <p>magna aliqua. Ut enim ad minim veniam, nisi ut aliquiptempor incid.</p>
+                                    <p>The DHLS program is usually a 1-year full-time diploma, structured as per the guidelines of the Rehabilitation Council of India (RCI).</p>
                                 </div>
                                 <div class="course-position-content">
                                     <div class="credit-duration-wrap">

@@ -118,7 +118,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="b.tech-electronics-and-communication-engineering-robotics-ai.php"><img class="animated" src="assets/uploads/b.tech-electric.webp" alt=""></a>
+                                    <a href="b.tech-electronics-and-communication-engineering-robotics-ai.php"><img class="animated" src="assets/uploads/b.tech-electric-3.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                 <h4><a href="b.tech-electronics-and-communication-engineering-robotics-ai.php">B.tech CE Engineering (Robotics & AI)</a></h4>
@@ -142,7 +142,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="b.tech-electronics-and-communication-engineering-le.php"><img class="animated" src="assets/uploads/b.tech-electric.webp" alt=""></a>
+                                    <a href="b.tech-electronics-and-communication-engineering-le.php"><img class="animated" src="assets/uploads/b.tech-electric-2.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                 <h4><a href="b.tech-electronics-and-communication-engineering-le.php">B.Tech EC Engineering (Lateral Entry)

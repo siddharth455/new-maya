@@ -119,7 +119,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="msc-zoology.php"><img class="animated" src="assets/uploads/bsc-pcm-img1.jpg" alt=""></a>
+                                    <a href="msc-zoology.php"><img class="animated" src="assets/uploads/zoology.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="msc-zoology.php">M.Sc. Zoology</a></h4>
@@ -147,7 +147,7 @@
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="msc-microbiology.php">M.Sc. Microbiology</a></h4>
-                                    <p>magna aliqua. Ut enim ad minim veniam, nisi ut aliquiptempor incid.</p>
+                                    <p>The M.Sc. Microbiology program at Maya Devi University offers comprehensive and specialized learning in microbial science.</p>
                                 </div>
                                 <div class="course-position-content">
                                     <div class="credit-duration-wrap">

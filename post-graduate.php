@@ -86,21 +86,21 @@
     <div class="school">
       <h2 class="school-name">School of Arts and Humanities</h2>
       <ul class="courses-list">
-        <li><a href="#">MA - English Literature</a></li>
-        <li><a href="#">MA - History</a></li>
-        <li><a href="#">MA - Psychology</a></li>
-        <li><a href="#">MA - Clinical Psychology</a></li>
-        <li><a href="#">MA - Hindi Literature</a></li>
-        <li><a href="#">MA - Sociology</a></li>
-        <li><a href="#">MA - Political Science</a></li>
-        <li><a href="#">MA - Economics</a></li>
-        <li><a href="#">MA - Yoga</a></li>
-        <li><a href="#">MA - Geography</a></li>
+        <!-- <li><a href="">MA - English Literature</a></li>
+        <li><a href="#">MA - History</a></li> -->
+        <li><a href="ma-psychology.php">MA - Psychology</a></li>
+        <li><a href="ma-clinical-psychology.php">MA - Clinical Psychology</a></li>
+        <li><a href="ma-hindi-literature.php">MA - Hindi Literature</a></li>
+        <li><a href="ma-sociology.php">MA - Sociology</a></li>
+        <li><a href="ma-political-science.php">MA - Political Science</a></li>
+        <!-- <li><a href="#">MA - Economics</a></li> -->
+        <li><a href="ma-yoga.php">MA - Yoga</a></li>
+        <!-- <li><a href="#">MA - Geography</a></li>
         <li><a href="#">MA - Fine & Arts</a></li>
         <li><a href="#">MA - Mathematics</a></li>
         <li><a href="#">MA - Environmental Science</a></li>
         <li><a href="#">MSW - Master of Social Work</a></li>
-        <li><a href="#">MA - Journalism & Mass Communication</a></li>
+        <li><a href="#">MA - Journalism & Mass Communication</a></li> -->
       </ul>
     </div>
 

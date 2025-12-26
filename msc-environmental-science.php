@@ -94,11 +94,11 @@
                         <div class="related-slider-active">
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="msc-forensic-science.php"><img class="animated" src="assets/uploads/bsc-pcm-img1.jpg" alt=""></a>
+                                    <a href="msc-forensic-science.php"><img class="animated" src="assets/uploads/forensic-3.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="msc-forensic-science.php">M.Sc. Forensic Science</a></h4>
-                                    <p>magna aliqua. Ut enim ad minim veniam, nisi ut aliquiptempor incid.</p>
+                                    <p>The M.Sc. Forensic Science program at Maya Devi University provides specialized and comprehensive training in modern forensic techniques.</p>
                                 </div>
                                 <div class="course-position-content">
                                     <div class="credit-duration-wrap">
@@ -118,11 +118,11 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="msc-microbiology.php"><img class="animated" src="assets/uploads/bsc-pcm-img1.jpg" alt=""></a>
+                                    <a href="msc-microbiology.php"><img class="animated" src="assets/uploads/micro.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="msc-microbiology.php">M.Sc. Microbiology</a></h4>
-                                    <p>magna aliqua. Ut enim ad minim veniam, nisi ut aliquiptempor incid.</p>
+                                    <p>The M.Sc. Microbiology program at Maya Devi University offers comprehensive and specialized learning in microbial science.</p>
                                 </div>
                                 <div class="course-position-content">
                                     <div class="credit-duration-wrap">
@@ -142,7 +142,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="msc-botany.php"><img class="animated" src="assets/uploads/bsc-pcm-img1.jpg" alt=""></a>
+                                    <a href="msc-botany.php"><img class="animated" src="assets/uploads/botany-3.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="msc-botany.php">M.Sc. Botany</a></h4>

@@ -1,6 +1,6 @@
 <?php require "common/header.php" ?>
 <div class="breadcrumb-area">
-    <div class="breadcrumb-top default-overlay bg-img breadcrumb-overly-2 pt-100 pb-95" style="background-image:url(assets/uploads/evs.webp);">
+    <div class="breadcrumb-top default-overlay bg-img breadcrumb-overly-2 pt-100 pb-95" style="background-image:url(assets/uploads/evs.jpg);">
         <div class="container">
             <h2>B.Sc. Environmental Science</h2>
             <p>A science program focused on studying the environment, ecosystems, pollution control, and sustainable solutions through theory and practical learning.</p>
@@ -94,7 +94,7 @@
                         <div class="related-slider-active">
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="bsc-forensic-science.php"><img class="animated" src="assets/uploads/bsc-pcm-img1.jpg" alt=""></a>
+                                    <a href="bsc-forensic-science.php"><img class="animated" src="assets/uploads/forensic.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="bsc-forensic-science.php">B.Sc. Forensic Science</a></h4>
@@ -118,7 +118,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="bsc-biotechnology.php"><img class="animated" src="assets/uploads/bsc-pcm-img1.jpg" alt=""></a>
+                                    <a href="bsc-biotechnology.php"><img class="animated" src="assets/uploads/biotechnology.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="bsc-biotechnology.php">B.Sc. Biotechnology</a></h4>
@@ -142,7 +142,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="bsc-zoology.php"><img class="animated" src="assets/uploads/bsc-pcm-img1.jpg" alt=""></a>
+                                    <a href="bsc-zoology.php"><img class="animated" src="assets/uploads/zoology.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="bsc-zoology.php">B.Sc. Zoology</a></h4>
