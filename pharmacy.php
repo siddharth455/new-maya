@@ -138,6 +138,30 @@ document.addEventListener("DOMContentLoaded", () => {
             practical skills to prepare students for future success.</p>
         </div>
         <div class="course-slider-active-3">
+           <div class="single-course">
+                                <div class="course-img">
+                                    <a href="best-d-pharma-college-in-dehradun-uttarakhand.php"><img class="animated" src="assets/uploads/d.pharmacy.jpeg" alt=""></a>
+                                </div>
+                                <div class="course-content">
+                                <h4><a href="best-d-pharma-college-in-dehradun-uttarakhand.php">Diploma in Pharmacy</a></h4>
+                                <p>The Diploma in Pharmacy program trains students in pharmaceutical sciences, drug formulation, and practical pharmacy skills.</p>
+                                </div>
+                                <div class="course-position-content">
+                                    <div class="credit-duration-wrap">
+                                        <div class="sin-credit-duration">
+                                            <i class="fa fa-diamond"></i>
+                                            <span>Credits : 125</span>
+                                        </div>
+                                        <div class="sin-credit-duration">
+                                            <i class="fa fa-clock-o"></i>
+                                            <span>Duration : 2yrs</span>
+                                        </div>
+                                    </div>
+                                    <div class="course-btn">
+                                        <a class="default-btn" href="best-d-pharma-college-in-dehradun-uttarakhand.php">APPLY NOW</a>
+                                    </div>
+                                </div>
+                            </div>
         <div class="single-course">
                                 <div class="course-img">
                                     <a href="best-b-pharma-colleges-in-dehradun-uttarakhand.php"><img class="animated" src="assets/uploads/pharmacy.webp" alt=""></a>
@@ -186,30 +210,7 @@ document.addEventListener("DOMContentLoaded", () => {
                                     </div>
                                 </div>
                             </div>
-                            <div class="single-course">
-                                <div class="course-img">
-                                    <a href="best-d-pharma-college-in-dehradun-uttarakhand.php"><img class="animated" src="assets/uploads/d.pharmacy.jpeg" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                <h4><a href="best-d-pharma-college-in-dehradun-uttarakhand.php">Diploma in Pharmacy</a></h4>
-                                <p>The Diploma in Pharmacy program trains students in pharmaceutical sciences, drug formulation, and practical pharmacy skills.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 2yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="best-d-pharma-college-in-dehradun-uttarakhand.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
+                           
                             <div class="single-course">
                                 <div class="course-img">
                                     <a href="master-pharmacy-pharmaceutics.php"><img class="animated" src="assets/uploads/mpharm.jpg" alt=""></a>

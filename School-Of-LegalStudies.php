@@ -144,7 +144,7 @@ practical skills to prepare students for future success.</p>
                                     <a href="ba-llb.php"><img class="animated" src="assets/uploads/llb.jpg" alt=""></a>
                                 </div>
                                 <div class="course-content">
-                                <h4><a href="ba-llb.php">BA LLB</a></h4>
+                                <h4><a href="ba-llb.php">BA LLB (Hons.)</a></h4>
                                 <p>The BA LL.B program is a five-year integrated degree course designed to train students in social sciences, law, legal reasoning, and professional legal skills.</p>
                                 </div>
                                 <div class="course-position-content">
@@ -168,7 +168,7 @@ practical skills to prepare students for future success.</p>
                                     <a href="bba-llb.php"><img class="animated" src="assets/uploads/llb-2.webp" alt=""></a>
                                 </div>
                                 <div class="course-content">
-                                <h4><a href="bba-llb.php">BBA LLB</a></h4>
+                                <h4><a href="bba-llb.php">BBA LLB (Hons.)</a></h4>
                                 <p>The BBA LL.B program is a five-year integrated degree course designed to train students in business administration, management, and professional legal skills.</p>
                                 </div>
                                 <div class="course-position-content">

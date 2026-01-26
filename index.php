@@ -224,6 +224,7 @@ $('.slider-active').owlCarousel({
 
     </div>
 </div>
+
 <!-- CAMPUS LIFE – GLASSMORPHISM SECTION -->
 <section class="py-5" style="
     background: url('assets/uploads/campus-bg.jpeg') center/cover no-repeat;
@@ -238,7 +239,7 @@ $('.slider-active').owlCarousel({
         <div class="text-center text-white mb-5">
             <h2 class="fw-bold text-white" style="font-size:2.5rem;">Welcome to Campus Living</h2>
             <p class="w-75 mx-auto text-white" style="font-size:1.15rem; opacity:0.9;">
-                A lively, inclusive, and engaging environment for every student.Explore a vibrant and inspiring campus filled with creativity, sports, culture, and world-class facilities.
+                A lively, inclusive, and engaging environment for every student. Explore a vibrant and inspiring campus filled with creativity, sports, culture, and world-class facilities.
             </p>
         </div>
 
@@ -246,96 +247,282 @@ $('.slider-active').owlCarousel({
 
             <!-- Card 1 -->
             <div class="col-md-4">
-                <div style="
-                    backdrop-filter: blur(14px);
-                    background: rgba(255,255,255,0.15);
-                    border-radius: 18px;
-                    padding: 25px;
-                    color: white;
-                    border: 1px solid rgba(255,255,255,0.3);
-                    box-shadow: 0 8px 20px rgba(0,0,0,0.35);
-                ">
+                <a href="club.php" style="text-decoration:none;">
                     <div style="
-                        width:65px;
-                        height:65px;
-                        background:#00a651;
-                        border-radius:12px;
-                        display:flex;
-                        justify-content:center;
-                        align-items:center;
-                        font-size:30px;
-                        margin-bottom:15px;
-                    ">🎭</div>
+                        backdrop-filter: blur(14px);
+                        background: rgba(255,255,255,0.15);
+                        border-radius: 18px;
+                        padding: 25px;
+                        color: white;
+                        border: 1px solid rgba(255,255,255,0.3);
+                        box-shadow: 0 8px 20px rgba(0,0,0,0.35);
+                        height:100%;
+                        transition: transform 0.35s ease, box-shadow 0.35s ease;
+                    ">
+                        <div style="
+                            width:65px;
+                            height:65px;
+                            background:#00a651;
+                            border-radius:12px;
+                            display:flex;
+                            justify-content:center;
+                            align-items:center;
+                            font-size:30px;
+                            margin-bottom:15px;
+                        ">🎭</div>
 
-                    <h5 class="fw-bold text-white">Clubs & Activities</h5>
-                    <p class="mb-0 text-white" style="opacity:0.9;">
-                        Numerous student clubs foster creativity, leadership, and cultural expression.
-                    </p>
-                </div>
+                        <h5 class="fw-bold text-white">Clubs & Activities</h5>
+                        <p class="mb-0 text-white" style="opacity:0.9;">
+                            Numerous student clubs foster creativity, leadership, and cultural expression.
+                        </p>
+                    </div>
+                </a>
             </div>
 
             <!-- Card 2 -->
             <div class="col-md-4">
-                <div style="
-                    backdrop-filter: blur(14px);
-                    background: rgba(255,255,255,0.15);
-                    border-radius: 18px;
-                    padding: 25px;
-                    color: white;
-                    border: 1px solid rgba(255,255,255,0.3);
-                    box-shadow: 0 8px 20px rgba(0,0,0,0.35);
-                ">
+                <a href="sports.php" style="text-decoration:none;">
                     <div style="
-                        width:65px;
-                        height:65px;
-                        background:#00a651;
-                        border-radius:12px;
-                        display:flex;
-                        justify-content:center;
-                        align-items:center;
-                        font-size:30px;
-                        margin-bottom:15px;
-                    ">⚽</div>
+                        backdrop-filter: blur(14px);
+                        background: rgba(255,255,255,0.15);
+                        border-radius: 18px;
+                        padding: 25px;
+                        color: white;
+                        border: 1px solid rgba(255,255,255,0.3);
+                        box-shadow: 0 8px 20px rgba(0,0,0,0.35);
+                        height:100%;
+                        transition: transform 0.35s ease, box-shadow 0.35s ease;
+                    ">
+                        <div style="
+                            width:65px;
+                            height:65px;
+                            background:#00a651;
+                            border-radius:12px;
+                            display:flex;
+                            justify-content:center;
+                            align-items:center;
+                            font-size:30px;
+                            margin-bottom:15px;
+                        ">⚽</div>
 
-                    <h5 class="fw-bold text-white">Sports & Fitness</h5>
-                    <p class="mb-0 text-white" style="opacity:0.9;">
-                        Top-tier sports facilities, tournaments, and a fitness culture that keeps students active.
-                    </p>
-                </div>
+                        <h5 class="fw-bold text-white">Sports & Fitness</h5>
+                        <p class="mb-0 text-white" style="opacity:0.9;">
+                            Top-tier sports facilities, tournaments, and a fitness culture that keeps students active.
+                        </p>
+                    </div>
+                </a>
             </div>
 
             <!-- Card 3 -->
             <div class="col-md-4">
-                <div style="
-                    backdrop-filter: blur(14px);
-                    background: rgba(255,255,255,0.15);
-                    border-radius: 18px;
-                    padding: 25px;
-                    color: white;
-                    border: 1px solid rgba(255,255,255,0.3);
-                    box-shadow: 0 8px 20px rgba(0,0,0,0.35);
-                ">
+                <a href="campus-life.php" style="text-decoration:none;">
                     <div style="
-                        width:65px;
-                        height:65px;
-                        background:#00a651;
-                        border-radius:12px;
-                        display:flex;
-                        justify-content:center;
-                        align-items:center;
-                        font-size:30px;
-                        margin-bottom:15px;
-                    ">🏫</div>
+                        backdrop-filter: blur(14px);
+                        background: rgba(255,255,255,0.15);
+                        border-radius: 18px;
+                        padding: 25px;
+                        color: white;
+                        border: 1px solid rgba(255,255,255,0.3);
+                        box-shadow: 0 8px 20px rgba(0,0,0,0.35);
+                        height:100%;
+                        transition: transform 0.35s ease, box-shadow 0.35s ease;
+                    ">
+                        <div style="
+                            width:65px;
+                            height:65px;
+                            background:#00a651;
+                            border-radius:12px;
+                            display:flex;
+                            justify-content:center;
+                            align-items:center;
+                            font-size:30px;
+                            margin-bottom:15px;
+                        ">🏫</div>
 
-                    <h5 class="fw-bold text-white">Modern Facilities</h5>
-                    <p class="mb-0 text-white" style="opacity:0.9;">
-                        Advanced labs, digital library, smart classrooms, and collaborative learning spaces.
-                    </p>
-                </div>
+                        <h5 class="fw-bold text-white">Modern Facilities</h5>
+                        <p class="mb-0 text-white" style="opacity:0.9;">
+                            Advanced labs, digital library, smart classrooms, and collaborative learning spaces.
+                        </p>
+                    </div>
+                </a>
             </div>
 
         </div>
+<section class="campus-gallery-section">
 
+  <!-- ===== INLINE STYLES (SELF-CONTAINED) ===== -->
+  <style>
+    .campus-gallery-container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    /* Header */
+    .campus-gallery-header {
+      max-width: 1200px;
+      margin-bottom: 60px;
+    }
+
+    .campus-gallery-header h2 {
+      font-size: 38px;
+      font-weight: 800;
+      margin-bottom: 12px;
+      color: #111;
+    }
+
+    .campus-gallery-header p {
+      font-size: 17px;
+      line-height: 1.7;
+      color: #555;
+    }
+
+    /* Grid */
+    .campus-gallery-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      grid-auto-rows: 260px;
+      gap: 20px;
+    }
+
+    /* Items */
+    .gallery-item {
+      position: relative;
+      overflow: hidden;
+      border-radius: 16px;
+      cursor: pointer;
+      animation: fadeUp 0.9s ease both;
+    }
+
+    .gallery-item img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 0.6s ease;
+    }
+
+    /* Overlay */
+    .gallery-overlay {
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(
+        to top,
+        rgba(0,0,0,0.65),
+        rgba(0,0,0,0.15)
+      );
+      display: flex;
+      align-items: flex-end;
+      padding: 18px;
+      opacity: 0;
+      transition: opacity 0.4s ease;
+    }
+
+    .gallery-overlay span {
+      color: #fff;
+      font-weight: 600;
+      letter-spacing: 0.3px;
+      font-size: 15px;
+    }
+
+    /* Hover */
+    .gallery-item:hover img {
+      transform: scale(1.08);
+    }
+
+    .gallery-item:hover .gallery-overlay {
+      opacity: 1;
+    }
+
+    /* Featured */
+    .gallery-item.featured {
+      grid-column: span 2;
+      grid-row: span 2;
+    }
+
+    /* Animation */
+    @keyframes fadeUp {
+      from {
+        opacity: 0;
+        transform: translateY(30px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    /* Responsive */
+    @media (max-width: 992px) {
+      .campus-gallery-grid {
+        grid-template-columns: repeat(2, 1fr);
+        grid-auto-rows: 220px;
+      }
+
+      .gallery-item.featured {
+        grid-column: span 2;
+        grid-row: span 1;
+      }
+    }
+
+    @media (max-width: 576px) {
+      .campus-gallery-grid {
+        grid-template-columns: 1fr;
+        grid-auto-rows: 220px;
+      }
+
+      .gallery-item.featured {
+        grid-column: span 1;
+      }
+    }
+  </style>
+  
+
+  <!-- ===== CONTENT ===== -->
+  <div class="campus-gallery-container">
+
+    <div class="campus-gallery-header text-center mt-3">
+     <h2 class="text-white">Campus Gallery</h2>
+<p class="text-white">
+  A collection of moments that reflect learning, creativity, collaboration,
+  and everyday life within the Maya Devi University campus.
+</p>
+
+    </div>
+
+    <div class="campus-gallery-grid">
+
+      <!-- Featured Image -->
+      <div class="gallery-item featured">
+        <img src="assets/uploads/campus-9.jpeg" alt="Campus Life">
+        <div class="gallery-overlay">
+          <span>Campus Life</span>
+        </div>
+      </div>
+
+      <div class="gallery-item">
+        <img src="assets/uploads/ai.jpeg" alt="Student Activities">
+        <div class="gallery-overlay"><span>Advance AI Labs</span></div>
+      </div>
+
+      <div class="gallery-item">
+        <img src="assets/uploads/library-2.jpeg" alt="Library">
+        <div class="gallery-overlay"><span>Central Library</span></div>
+      </div>
+
+      <div class="gallery-item">
+        <img src="assets/uploads/robots.jpeg" alt="Laboratories">
+        <div class="gallery-overlay"><span>Advanced Laboratories</span></div>
+      </div>
+
+      <div class="gallery-item">
+        <img src="assets/uploads/hostel.jpg" alt="Hostel Life">
+        <div class="gallery-overlay"><span>Hostel Life</span></div>
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
         <!-- Button -->
         <div class="text-center mt-5">
             <a href="campus-life.php" class="btn btn-lg px-4"
@@ -346,6 +533,8 @@ $('.slider-active').owlCarousel({
 
     </div>
 </section>
+
+
 
 <section class="mdu-facility-immersive">
 
@@ -598,16 +787,6 @@ $('.slider-active').owlCarousel({
                         </div>
                     </article>
 
-                    <article class="mduLegacy-item" data-target="8">
-                        <div class="mduLegacy-bubble">8+</div>
-                        <div class="mduLegacy-card">
-                            <div class="mduLegacy-card-head">International Faculty</div>
-                            <p class="mduLegacy-card-desc">
-                                Visiting scholars and collaborative professors from global institutions.
-                            </p>
-                        </div>
-                    </article>
-
                     <article class="mduLegacy-item" data-target="1200">
                         <div class="mduLegacy-bubble">1200+</div>
                         <div class="mduLegacy-card">
@@ -744,6 +923,7 @@ $('.slider-active').owlCarousel({
         background: #fff;
         padding: 16px 18px;
         border-radius: 12px;
+        border: 1px solid #0056b3;
         box-shadow: 0 10px 30px rgba(2, 6, 23, 0.08);
         max-width: 520px;
     }
@@ -909,7 +1089,7 @@ $('.slider-active').owlCarousel({
         <div class="course-slider-active nav-style-1 owl-carousel">
             <div class="single-course">
                 <div class="course-img">
-                    <a href="b.tech-AI-ML.php"><img class="animated" src="assets/uploads/aiml.jpg" alt=""></a>
+                    <a href="b.tech-AI-ML.php"><img class="animated" src="assets/uploads/ai.jpeg" alt=""></a>
 
                 </div>
                 <div class="course-content">
@@ -1235,67 +1415,185 @@ $('.slider-active').owlCarousel({
         background-color: #0056b3;
     }
 </style>
-<section>
-    <div class="container py-2">
-        <div class="row align-items-center">
+<section class="mdu-section">
+  <div class="container">
 
-            <!-- Left Side: Content -->
-            <div class="col-md-6 mb-4">
-                <h1 class="fw-bold" style="color:#00a651;">Best University in Dehradun – Why Maya Devi University Stands Out?</h1>
-                <p class="text-muted fs-5">
-                    At Maya Devi University, Dehradun, we deliver world-class education
-                    through experienced faculty, modern infrastructure, and global exposure.
-                    Our focus on academic excellence and holistic development empowers students
-                    to thrive in their careers and contribute positively to society.
-                </p>
-                <p class="text-muted fs-5">Discover a transformative educational journey at Maya Devi University, recognized as the best university in Dehradun for academic excellence and career-focused programs. Nestled in the heart of Dehradun, our university offers world-class faculty, state-of-the-art infrastructure, and industry-aligned courses to shape future leaders. Whether you aspire for a career in engineering, management, science, or the arts, Maya Devi University provides the perfect launchpad for your success. Join us and unlock endless opportunities for a brighter future!</p>
-            </div>
+    <!-- Header -->
+    <div class="row align-items-center mb-5">
+      <div class="col-lg-6">
+        <h1 class="mdu-title">
+          Best University in Dehradun
+          <span>Why Maya Devi University Stands Out?</span>
+        </h1>
 
-            <!-- Right Side: Cards -->
-            <div class="col-md-6">
-                <div class="row g-3">
+        <p>
+          At Maya Devi University, Dehradun, we deliver world-class education
+          through experienced faculty, modern infrastructure, and global exposure.
+          Our focus on academic excellence and holistic development empowers students
+          to thrive in their careers and contribute positively to society.
+        </p>
 
-                    <div class="col-6">
-                        <div class="p-3 text-white rounded text-center h-100" style="background-color:#00a651;">
-                            <img src="assets/uploads/world-edu.png" alt="Icon" class="mb-2" style="width: 60px;">
-                            <h4 class="fw-bold text-warning">World-Class Education</h4>
-                            <p class="text-white">Cutting-edge curriculum designed to meet global academic standards.</p>
-                        </div>
-                    </div>
+        <p>
+          Discover a transformative educational journey with industry-aligned programs,
+          global collaborations, and career-focused learning.
+        </p>
 
-                    <div class="col-6">
-                        <div class="p-3 text-white rounded text-center h-100" style="background-color:#00a651;">
-                            <img src="assets/uploads/e-faculty.jpg" alt="Icon" class="mb-2" style="width: 60px;">
-                            <h4 class="fw-bold text-warning">Expert Faculty</h4>
-                            <p class="text-white">Learn from experienced professors and industry leaders.</p>
-                        </div>
-                    </div>
+        <a href="https://admission.maya.edu.in/" class="mdu-btn">
+          Apply Now
+        </a>
+      </div>
 
-                    <div class="col-6">
-                        <div class="p-3 text-white rounded text-center h-100" style="background-color:#00a651;">
-                            <img src="assets/uploads/m-infra.png" alt="Icon" class="mb-2" style="width: 60px;">
-                            <h4 class="fw-bold text-warning">Modern Infrastructure</h4>
-                            <p class="text-white ">State-of-the-art labs, classrooms, and research facilities.</p>
-                        </div>
-                    </div>
+      <!-- Feature Cards -->
+      <div class="col-lg-6">
+        <div class="feature-grid">
 
-                    <div class="col-6">
-                        <div class="p-3 text-white rounded text-center h-100" style="background-color:#00a651;">
-                            <img src="assets/uploads/global.png" alt="Icon" class="mb-2" style="width: 60px;">
-                            <h4 class="fw-bold text-warning">Global Opportunities</h4>
-                            <p class="text-white">Collaborations and internships with international institutions.</p>
-                        </div>
-                    </div>
+          <div class="feature-card">
+            <img src="assets/uploads/world-edu.png" alt="">
+            <h4>World-Class Education</h4>
+            <p>Cutting-edge curriculum aligned with global standards.</p>
+          </div>
 
-                </div>
-            </div>
+          <div class="feature-card">
+            <img src="assets/uploads/e-faculty.jpg" alt="">
+            <h4>Expert Faculty</h4>
+            <p>Learn from experienced academicians and professionals.</p>
+          </div>
+
+          <div class="feature-card">
+            <img src="assets/uploads/m-infra.png" alt="">
+            <h4>Modern Infrastructure</h4>
+            <p>Advanced labs, smart classrooms, and research centers.</p>
+          </div>
+
+          <div class="feature-card">
+            <img src="assets/uploads/global.png" alt="">
+            <h4>Global Opportunities</h4>
+            <p>International exposure, internships & collaborations.</p>
+          </div>
 
         </div>
+      </div>
     </div>
-    <div class="course-button pb-30">
-        <a href="https://admission.maya.edu.in/" class="button-link">Apply Now</a>
+
+    <!-- Hexagonal Gallery -->
+    <div class="hex-gallery">
+      <div class="hex"><img src="assets/uploads/maya-1.jpeg"></div>
+      <div class="hex"><img src="assets/uploads/maya-2.jpeg"></div>
+       <div class="hex"><img src="assets/uploads/maya-3.jpeg"></div>
+      <div class="hex"><img src="assets/uploads/maya-4.jpeg"></div>
+      <div class="hex"><img src="assets/uploads/maya-5.jpeg"></div>
+      <div class="hex"><img src="assets/uploads/maya-6.jpeg"></div>
+      <div class="hex"><img src="assets/uploads/maya-7.jpeg"></div>
+      <div class="hex"><img src="assets/uploads/maya-8.jpeg"></div>
+      <div class="hex"><img src="assets/uploads/maya-9.jpeg"></div>
+      <div class="hex"><img src="assets/uploads/maya-10.jpeg"></div>
     </div>
+
+  </div>
 </section>
+<style>
+    .mdu-section {
+  padding: 80px 0;
+  background: linear-gradient(135deg, #f8fff9, #e9f7ef);
+}
+
+.mdu-title {
+  font-size: 40px;
+  font-weight: 800;
+  color: #00a651;
+}
+
+.mdu-title span {
+  display: block;
+  font-size: 22px;
+  color: #333;
+  margin-top: 10px;
+}
+
+.mdu-section p {
+  font-size: 17px;
+  color: #555;
+}
+
+.mdu-btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 14px 32px;
+  background: #00a651;
+  color: #fff;
+  border-radius: 50px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: 0.3s;
+}
+
+.mdu-btn:hover {
+  background: #008f45;
+}
+
+/* Feature Cards */
+.feature-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+
+.feature-card {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(8px);
+  border-radius: 20px;
+  padding: 25px;
+  text-align: center;
+  transition: 0.4s;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+}
+
+.feature-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 20px 40px rgba(0,166,81,0.25);
+}
+
+.feature-card img {
+  width: 60px;
+  margin-bottom: 15px;
+}
+
+.feature-card h4 {
+  color: #00a651;
+  font-weight: 700;
+}
+
+/* Hexagonal Gallery */
+.hex-gallery {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.hex {
+  width: 220px;
+  height: 250px;
+  clip-path: polygon(
+    50% 0%, 100% 25%, 100% 75%,
+    50% 100%, 0% 75%, 0% 25%
+  );
+  overflow: hidden;
+  transition: 0.4s;
+  box-shadow: 0 15px 35px rgba(0,0,0,0.2);
+}
+
+.hex img {
+  width: 100%;
+  height: 100%;
+  object-fit:cover;
+}
+
+.hex:hover {
+  transform: scale(1.08) rotate(1deg);
+}
+
+    </style>
 <?php require "placement.php" ?>
 <section class="my-stats-section">
     <div class="my-stats-container">
@@ -1715,20 +2013,20 @@ $latestBlogs = array_slice(array_reverse($blogs, true), 0, 3, true);
             <!-- Upcoming Events Section (unchanged) -->
             <div class="col-lg-6">
                 <div class="section-title-3 mb-45 ml-70">
-                    <p>Children's Day Celebration 2025</p>
+                   <h2>Upcoming <span>Event</span></h2>
                 </div>
                 <div class="event-active-2 ml-70">
                     <div class="single-event single-event-2">
                         <div class="event-img">
-                            <a href="#"><img src="assets/uploads/children.webp" alt="Logo"></a>
+                            <a href="#"><img src="assets/uploads/republic.webp" alt="Logo"></a>
                             <div class="event-date-wrap">
-                                <span class="event-date">14</span>
-                                <span>November</span>
+                                <span class="event-date">26</span>
+                                <span>January</span>
                             </div>
                         </div>
                         <div class="event-content">
-                            <h3><a href="#">Children's Day Celebration 2025</a></h3>
-                            <p>Inspiring Young Dreams, Celebrating the Spirit of Childhood.</p>
+                            <h3><a href="#">Republic Day Celebration 2026</a></h3>
+                            <p>India's Republic Day, celebrated on January 26th, commemorates the adoption of the Constitution of India and the nation becoming a sovereign, democratic republic in 1950, marking the day the government "of the people, by the people, for the people" was established, with grand parades in New Delhi and patriotic events nationwide. </p>
                             <div class="event-meta-wrap">
                                 <div class="event-meta">
                                     <i class="fa fa-location-arrow"></i>

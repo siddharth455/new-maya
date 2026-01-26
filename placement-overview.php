@@ -162,7 +162,7 @@
             </div>
             <div class="col-6">
               <i class="fa-solid fa-sack-dollar fa-2x mb-2" style="color:#00a651;"></i>
-              <h3 class="fw-bold" style="color:#00a651;">₹<span class="counter" data-target="12">0</span> LPA</h3>
+              <h3 class="fw-bold" style="color:#00a651;">₹<span class="counter" data-target="5.48">0</span> LPA</h3>
               <p class="small text-muted mb-0">Average Package</p>
             </div>
             <div class="col-6">

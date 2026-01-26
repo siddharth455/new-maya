@@ -165,7 +165,7 @@ document.addEventListener("DOMContentLoaded", () => {
             </div>
             <div class="single-course">
                 <div class="course-img">
-              <a href="bachelor-of-computer-application-AI-&-ML.php"><img class="animated" src="assets/uploads/aiml.jpg" alt=""></a>
+              <a href="bachelor-of-computer-application-AI-&-ML.php"><img class="animated" src="assets/uploads/ai.jpeg" alt=""></a>
                 </div>
                 <div class="course-content">
                     <h4><a href="bachelor-of-computer-application-AI-&-ML.php">Bachelor of Computer Application in AI & ML</a></h4>
@@ -333,7 +333,7 @@ document.addEventListener("DOMContentLoaded", () => {
             </div>
             <div class="single-course">
                 <div class="course-img">
-                <a href="b.tech-AI-ML.php"><img class="animated" src="assets/uploads/aiml.jpg" alt=""></a>
+                <a href="b.tech-AI-ML.php"><img class="animated" src="assets/uploads/ai.jpeg" alt=""></a>
                 </div>
                 <div class="course-content">
                     <h4><a href="b.tech-AI-ML.php">B.Tech AI & ML  </a></h4>

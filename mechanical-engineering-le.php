@@ -118,7 +118,7 @@
                             </div>
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="b.tech-mechatronics-and-robotics.php"><img class="animated" src="assets/uploads/b.tech-mechanic-2.webp" alt=""></a>
+                                    <a href="b.tech-mechatronics-and-robotics.php"><img class="animated" src="assets/uploads/robots.jpeg" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                 <h4><a href="b.tech-mechatronics-and-robotics.php">B.Tech Mechanical Engineering (Mechatronics)

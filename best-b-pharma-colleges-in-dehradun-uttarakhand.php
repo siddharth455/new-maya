@@ -3,7 +3,7 @@
     <div class="breadcrumb-top default-overlay bg-img breadcrumb-overly-2 pt-100 pb-95" style="background-image:url(assets/uploads/pharmacy.webp);">
         <div class="container">
             <h2>Bachelor of Pharmacy</h2>
-            <p>The Bachelor of Pharmacy (B.Pharm) is a 4-year undergraduate professional degree in pharmaceutical sciences.Approved by Pharmacy Council of Pharmacy(PCI), New Delhi.</p>
+            <p>Bachelor of Pharmacy (B.Pharm) is a 4-year undergraduate professional degree in Pharmacy, Approved by Pharmacy Council of India (PCI), New Delhi.</p>
         </div>
     </div>
     <div class="breadcrumb-bottom">
@@ -30,7 +30,7 @@
                             <div class="over-view-content">
                                 <h4>COURSE  DETAILS</h4>
                             <h5>Course Name : Bachelor in Pharmacy</h5>
-                            <p>Our Bachelor in Pharmacy (B.Pharm) program at Maya Devi University is designed to meet the evolving needs of the healthcare and pharmaceutical industry. Students gain in-depth knowledge and practical skills in pharmaceutical sciences, drug development, and patient care.</p>
+                            <p>Our Bachelor in Pharmacy (B.Pharm) program at Maya Devi University is designed to meet the evolving needs of the healthcare and pharmaceutical industry. Students gain in-depth knowledge and practical skills in pharmacy, drug development, and patient care.</p>
 <p>A B.Pharm provides a strong foundation for careers in community and hospital pharmacies, pharmaceutical research and development, regulatory affairs, and healthcare organizations. Core subjects such as Pharmacology, Pharmaceutics, Pharmaceutical Chemistry, Pharmacognosy, and Clinical Pharmacy form the backbone of the program and prepare students for professional practice in pharmacy.</p>
 
 
@@ -42,7 +42,7 @@
                                             <i class="fa fa-check"></i> .
                                         </div>
                                         <div class="course-list-content">
-                                            <p>Minimum age: 17 years as of 31st December.</p>
+                                            <p><strong>Minimum age:</strong> 17 years as of 31st December.</p>
                                         </div>
                                     </div>
                                     <div class="sin-over-view-list">
@@ -66,7 +66,7 @@
                                             <i class="fa fa-check"></i> .
                                         </div>
                                         <div class="course-list-content">
-                                            <p>General Category: Minimum 50% marks.</p>
+                                            <p><strong>General Category:</strong> Minimum 50% marks.</p>
                                         </div>
                                     </div>
                                     <div class="sin-over-view-list">
@@ -74,7 +74,7 @@
                                             <i class="fa fa-check"></i> .
                                         </div>
                                         <div class="course-list-content">
-                                            <p> SC/ST Category: Minimum 45% marks.</p>
+                                            <p> <strong>SC/ST Category:</strong> Minimum 45% marks.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -82,21 +82,14 @@
                                 <div class="course-summary-wrap mt-4">
                                     
                                     <div class="single-course-summary">
-                                        <h4>Total Students</h4>
-                                        <span><i class="fa fa-user"></i> 60</span>
+                                        <h4>Approved Seats- 2026-27</h4>
+                                        <span><i class="fa fa-user"></i> 100</span>
                                     </div>
                                     <div class="single-course-summary">
-                                        <h4>Course Duration</h4>
-                                        <span><i class="fa fa-clock-o"></i> 4years</span>
+                                        <h4>Program Duration</h4>
+                                        <span><i class="fa fa-clock-o"></i> 4years/8semester</span>
                                     </div>
-                                    <div class="single-course-summary">
-                                        <h4>Course Credits</h4>
-                                        <span><i class="fa fa-diamond"></i> 125</span>
-                                    </div>
-                                    <div class="single-course-summary">
-                                        <h4>Total Semester</h4>
-                                        <span><i class="fa fa-book"></i> 8</span>
-                                    </div>
+                                    
                                 </div>
                                 
                             </div>
@@ -195,7 +188,7 @@
                         <div class="sidebar-title mb-15">
                             <h4>About Us</h4>
                         </div>
-                        <p>Maya Devi University’s Bachelor in Pharmacy (B.Pharm) program provides in-depth knowledge and practical training in pharmacology, pharmaceutical chemistry, pharmaceutics, and clinical pharmacy. Graduates are prepared for careers in community and hospital pharmacies, pharmaceutical research and development, regulatory affairs, and healthcare management, contributing to safe and effective medication use and pharmaceutical innovation.</p>
+                        <p>Maya Devi University’s Bachelor in Pharmacy (B.Pharm) program provides in-depth knowledge and practical training in pharmacology, pharmaceutical chemistry, pharmaceutics, and clinical pharmacy. Graduates are prepared for careers in community & hospital pharmacies, pharmaceutical Research & Development, regulatory affairs and health care management contributing to safe & effective use of medication & pharmaceutical innovation.</p>
 
                     </div>
                     
@@ -319,47 +312,45 @@
     <div class="container">
         <h2 class="text-center mt-3 mb-3">Industry Partner</h2>
         <div class="brand-logo-active owl-carousel">
+           
             <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/1.webp" alt="">
+                <img src="assets/img/brand-logo/15.webp" alt="">
             </div>
             <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/2.webp" alt="">
-            </div>
-            <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/3.webp" alt="">
+                <img src="assets/img/brand-logo/16.webp" alt="">
             </div>
             <div class="single-brand-logo">
                 <img src="assets/img/brand-logo/4.webp" alt="">
             </div>
             <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/5.webp" alt="">
+                <img src="assets/img/brand-logo/17.webp" alt="">
             </div>
             <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/6.webp" alt="">
+                <img src="assets/img/brand-logo/18.webp" alt="">
             </div>
             <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/7.webp" alt="">
+                <img src="assets/img/brand-logo/19.webp" alt="">
             </div>
             <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/8.webp" alt="">
+                <img src="assets/img/brand-logo/20.webp" alt="">
             </div>
             <div class="single-brand-logo">
                 <img src="assets/img/brand-logo/9.webp" alt="">
             </div>
             <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/10.webp" alt="">
+                <img src="assets/img/brand-logo/21.webp" alt="">
             </div>
             <div class="single-brand-logo">
                 <img src="assets/img/brand-logo/11.webp" alt="">
             </div>
-            <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/12.webp" alt="">
+             <div class="single-brand-logo">
+                <img src="assets/img/brand-logo/1.webp" alt="">
             </div>
             <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/13.webp" alt="">
+                <img src="assets/img/brand-logo/22.webp" alt="">
             </div>
             <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/14.webp" alt="">
+                <img src="assets/img/brand-logo/23.webp" alt="">
             </div>
         </div>
     </div>

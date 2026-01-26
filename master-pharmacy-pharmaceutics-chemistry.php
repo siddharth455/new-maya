@@ -30,8 +30,8 @@
                             <div class="over-view-content">
                                 <h4>COURSE  DETAILS</h4>
                             <h5>Course Name : M.Pharm – Pharmaceutical Chemistry</h5>
-                            <p>The Department of Pharmaceutical Chemistry at Maya Devi University focuses on the design, synthesis, and analysis of pharmaceutical compounds, ensuring drug safety, efficacy, and quality through advanced research and chemical evaluation techniques.</p>
-<p>An M.Pharm in Pharmaceutical Chemistry provides advanced training for careers in pharmaceutical research, drug development, quality control, regulatory affairs, and academia. Core subjects such as Advanced Pharmacology, Pharmaceutics, Pharmaceutical Chemistry, Pharmacognosy, and Clinical Pharmacy form the backbone of the program and prepare students for specialized professional practice in pharmacy.</p>
+                            <p>M.Pharm Pharmaceutical Chemistry focuses on the advanced study of drug design, synthesis, and structural modification of pharmaceutical compounds. The course emphasizes medicinal chemistry, advanced organic synthesis, and structure–activity relationship (SAR) studies, enabling students to understand how chemical structure influences biological activity.</p>
+<p>The program also covers spectral characterization techniques, modern analytical tools, and research methodology, along with a research project/dissertation, preparing graduates for careers in pharmaceutical R&D, quality control, academia, and regulatory research.</p>
 
                                 <div class="over-view-list">
                                 <h2>Eligibility Criteria</h2>
@@ -58,12 +58,12 @@
                                 <div class="course-summary-wrap mt-4">
                                     
                                     <div class="single-course-summary">
-                                        <h4>Total Students</h4>
-                                        <span><i class="fa fa-user"></i> 60</span>
+                                        <h4>Approved seats –for session 2026-2027 </h4>
+                                        <span><i class="fa fa-user"></i> 15</span>
                                     </div>
                                     <div class="single-course-summary">
                                         <h4>Course Duration</h4>
-                                        <span><i class="fa fa-clock-o"></i> 2years</span>
+                                        <span><i class="fa fa-clock-o"></i> 2years/4sem</span>
                                     </div>
                                     <div class="single-course-summary">
                                         <h4>Course Credits</h4>
@@ -310,47 +310,45 @@
     <div class="container">
         <h2 class="text-center mt-3 mb-3">Industry Partner</h2>
         <div class="brand-logo-active owl-carousel">
+           
             <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/1.webp" alt="">
+                <img src="assets/img/brand-logo/15.webp" alt="">
             </div>
             <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/2.webp" alt="">
-            </div>
-            <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/3.webp" alt="">
+                <img src="assets/img/brand-logo/16.webp" alt="">
             </div>
             <div class="single-brand-logo">
                 <img src="assets/img/brand-logo/4.webp" alt="">
             </div>
             <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/5.webp" alt="">
+                <img src="assets/img/brand-logo/17.webp" alt="">
             </div>
             <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/6.webp" alt="">
+                <img src="assets/img/brand-logo/18.webp" alt="">
             </div>
             <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/7.webp" alt="">
+                <img src="assets/img/brand-logo/19.webp" alt="">
             </div>
             <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/8.webp" alt="">
+                <img src="assets/img/brand-logo/20.webp" alt="">
             </div>
             <div class="single-brand-logo">
                 <img src="assets/img/brand-logo/9.webp" alt="">
             </div>
             <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/10.webp" alt="">
+                <img src="assets/img/brand-logo/21.webp" alt="">
             </div>
             <div class="single-brand-logo">
                 <img src="assets/img/brand-logo/11.webp" alt="">
             </div>
-            <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/12.webp" alt="">
+             <div class="single-brand-logo">
+                <img src="assets/img/brand-logo/1.webp" alt="">
             </div>
             <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/13.webp" alt="">
+                <img src="assets/img/brand-logo/22.webp" alt="">
             </div>
             <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/14.webp" alt="">
+                <img src="assets/img/brand-logo/23.webp" alt="">
             </div>
         </div>
     </div>

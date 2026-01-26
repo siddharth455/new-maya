@@ -59,20 +59,16 @@
                                 <div class="course-summary-wrap mt-4">
                                     
                                     <div class="single-course-summary">
-                                        <h4>Total Students</h4>
-                                        <span><i class="fa fa-user"></i> 60</span>
+                                        <h4>Approved Seats-2026-27</h4>
+                                        <span><i class="fa fa-user"></i> 10</span>
                                     </div>
                                     <div class="single-course-summary">
                                         <h4>Course Duration</h4>
-                                        <span><i class="fa fa-clock-o"></i> 3 Years (Lateral Entry into 2nd Year)</span>
+                                        <span><i class="fa fa-clock-o"></i> 3 Years/6 Sem (Lateral Entry into 2nd Year)</span>
                                     </div>
                                     <div class="single-course-summary">
-                                        <h4>Course Credits</h4>
-                                        <span><i class="fa fa-diamond"></i> 125</span>
-                                    </div>
-                                    <div class="single-course-summary">
-                                        <h4>Total Semester</h4>
-                                        <span><i class="fa fa-book"></i> 6</span>
+                                        <h4>Reserved Seats Available for</h4>
+                                        <span><i class="fa fa-diamond"></i> J& k, Leh Ladakh quota & ex-army category</span>
                                     </div>
                                 </div>
                                 
@@ -296,47 +292,45 @@
     <div class="container">
         <h2 class="text-center mt-3 mb-3">Industry Partner</h2>
         <div class="brand-logo-active owl-carousel">
+           
             <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/1.webp" alt="">
+                <img src="assets/img/brand-logo/15.webp" alt="">
             </div>
             <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/2.webp" alt="">
-            </div>
-            <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/3.webp" alt="">
+                <img src="assets/img/brand-logo/16.webp" alt="">
             </div>
             <div class="single-brand-logo">
                 <img src="assets/img/brand-logo/4.webp" alt="">
             </div>
             <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/5.webp" alt="">
+                <img src="assets/img/brand-logo/17.webp" alt="">
             </div>
             <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/6.webp" alt="">
+                <img src="assets/img/brand-logo/18.webp" alt="">
             </div>
             <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/7.webp" alt="">
+                <img src="assets/img/brand-logo/19.webp" alt="">
             </div>
             <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/8.webp" alt="">
+                <img src="assets/img/brand-logo/20.webp" alt="">
             </div>
             <div class="single-brand-logo">
                 <img src="assets/img/brand-logo/9.webp" alt="">
             </div>
             <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/10.webp" alt="">
+                <img src="assets/img/brand-logo/21.webp" alt="">
             </div>
             <div class="single-brand-logo">
                 <img src="assets/img/brand-logo/11.webp" alt="">
             </div>
-            <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/12.webp" alt="">
+             <div class="single-brand-logo">
+                <img src="assets/img/brand-logo/1.webp" alt="">
             </div>
             <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/13.webp" alt="">
+                <img src="assets/img/brand-logo/22.webp" alt="">
             </div>
             <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/14.webp" alt="">
+                <img src="assets/img/brand-logo/23.webp" alt="">
             </div>
         </div>
     </div>

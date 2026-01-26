@@ -140,6 +140,54 @@ document.addEventListener("DOMContentLoaded", () => {
 practical skills to prepare students for future success.</p>
         </div>
         <div class="course-slider-active-3">
+          <div class="single-course">
+                                <div class="course-img">
+                                    <a href="diploma-in-confectionary.php"><img class="animated" src="assets/uploads/bakery.webp" alt=""></a>
+                                </div>
+                                <div class="course-content">
+                                    <h4><a href="diploma-in-confectionary.php">Diploma in Bakery & Confectionary</a></h4>
+                                    <p>The Diploma in Bakery and Confectionery program is a two-year course focusing on baking techniques, pastry arts, confectionery production, and dessert presentation.</p>
+                                </div>
+                                <div class="course-position-content">
+                                    <div class="credit-duration-wrap">
+                                        <div class="sin-credit-duration">
+                                            <i class="fa fa-diamond"></i>
+                                            <span>Credits : 125</span>
+                                        </div>
+                                        <div class="sin-credit-duration">
+                                            <i class="fa fa-clock-o"></i>
+                                            <span>Duration : 2yrs</span>
+                                        </div>
+                                    </div>
+                                    <div class="course-btn">
+                                        <a class="default-btn" href="diploma-in-confectionary.php">APPLY NOW</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="single-course">
+                                <div class="course-img">
+                                    <a href="diploma-in-food-production.php"><img class="animated" src="assets/uploads/dhm.webp" alt=""></a>
+                                </div>
+                                <div class="course-content">
+                                    <h4><a href="diploma-in-food-production.php">Diploma in Food Production</a></h4>
+                                    <p>The Diploma in Food Production is a two-year program focusing on culinary techniques, kitchen operations, food preparation, and professional cookery standards.</p>
+                                </div>
+                                <div class="course-position-content">
+                                    <div class="credit-duration-wrap">
+                                        <div class="sin-credit-duration">
+                                            <i class="fa fa-diamond"></i>
+                                            <span>Credits : 125</span>
+                                        </div>
+                                        <div class="sin-credit-duration">
+                                            <i class="fa fa-clock-o"></i>
+                                            <span>Duration : 2yrs</span>
+                                        </div>
+                                    </div>
+                                    <div class="course-btn">
+                                        <a class="default-btn" href="diploma-in-food-production.php">APPLY NOW</a>
+                                    </div>
+                                </div>
+                            </div>
         <div class="single-course">
                                 <div class="course-img">
                                     <a href="bhm-colleges-in-dehradun-uttarakhand.php"><img class="animated" src="assets/uploads/hm-le.webp" alt=""></a>
@@ -236,54 +284,7 @@ practical skills to prepare students for future success.</p>
                                     </div>
                                 </div>
                             </div>
-                            <div class="single-course">
-                                <div class="course-img">
-                                    <a href="diploma-in-confectionary.php"><img class="animated" src="assets/uploads/bakery.webp" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                    <h4><a href="diploma-in-confectionary.php">Diploma in Bakery & Confectionary</a></h4>
-                                    <p>The Diploma in Bakery and Confectionery program is a two-year course focusing on baking techniques, pastry arts, confectionery production, and dessert presentation.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 2yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="diploma-in-confectionary.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="single-course">
-                                <div class="course-img">
-                                    <a href="diploma-in-food-production.php"><img class="animated" src="assets/uploads/dhm.webp" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                    <h4><a href="diploma-in-food-production.php">Diploma in Food Production</a></h4>
-                                    <p>The Diploma in Food Production is a two-year program focusing on culinary techniques, kitchen operations, food preparation, and professional cookery standards.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 2yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="diploma-in-food-production.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
+                            
                             <div class="single-course">
                                 <div class="course-img">
                                     <a href="master-of-hotel-management.php"><img class="animated" src="assets/uploads/mhm.webp" alt=""></a>

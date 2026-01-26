@@ -43,11 +43,7 @@
 /*-- Google Font --*/
 @import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900");
 /*-- Common Style --*/
-@media only screen and (min-width: 1200px) {
-  .container {
-    max-width: 1200px;
-  }
-}
+
 .row {
   margin-right: calc(var(--bs-gutter-x) * -.6);
   margin-left: calc(var(--bs-gutter-x) * -.6);
@@ -1779,7 +1775,7 @@ textarea:focus {
 }
 
 .mobile-menu .mean-nav ul.menu-overflow {
-  height: 355px;
+  height: 310px;
   margin-top: 10;
   overflow-y: auto;
 }
@@ -1890,8 +1886,7 @@ textarea:focus {
   width: 100%;
   height: 44px;
   content: "";
-  background-color: #00a651;
-  opacity: 0.8;
+  background-color: #10c45c;
 }
 @media only screen and (max-width: 767px) {
   .header-top:before {
@@ -2102,7 +2097,6 @@ textarea:focus {
   font-weight: 400;
   line-height: 32px;
   text-align: left;
-  text-transform: capitalize;
   padding-top: 0px;
 }
 .main-menu nav ul li ul.submenu li a:hover {
@@ -2142,7 +2136,6 @@ textarea:focus {
 .main-menu nav ul li a {
   font-size: 14px;
   color: #333;
-  text-transform: uppercase;
   display: inline-block;
   line-height: 87px;
 }
@@ -2213,7 +2206,6 @@ textarea:focus {
   font-weight: 400;
   line-height: 32px;
   text-align: left;
-  text-transform: capitalize;
   padding-top: 0px;
 }
 .main-menu nav ul li.mega-menu-position ul.mega-menu > li ul li a:hover {

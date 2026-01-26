@@ -49,6 +49,7 @@
                             <ul>
                                 <li><a href="contact.php">Contact us</a></li>
                                 <li><a href="university-recognition.php">University Recognition</a></li>
+                                <li><a href="blog.php"> BLOG </a></li>
                             </ul>
                         </div>
                     </div>
@@ -73,20 +74,23 @@
                                         <li><a href="index.php"> HOME </a>
 
                                         </li>
-                                        <li><a href="#"> About Us <i class="fa fa-angle-down"></i> </a>
+                                        <li><a href="#"> ABOUT US <i class="fa fa-angle-down"></i> </a>
                                             <ul class="submenu">
-                                                <li><a href="about-us.php">About MDU</a></li>
+                                                <li><a href="about-us.php">About University</a></li>
                                                 <li><a href="governance.php">About Governance</a></li>
                                                 <li><a href="committees.php">About Committees</a></li>
                                                 <li><a href="offices-services.php">Offices & Services</a></li>
+                                                 <li><a href="leadership.php">Leadership</a></li>
+                                                <li><a href="vision-mission.php">Vision and Mission</a></li>
+                                                <li><a href="approval-accredetion-membership-ranking.php">Approval, Accredetions & Ranking</a></li>
                                             </ul>
                                         </li>
-                                        <li class="mega-menu-position top-hover"><a href="#"> Our Schools <i class="fa fa-angle-down"></i> </a>
+                                        <li class="mega-menu-position top-hover"><a href="#"> OUR SCHOOLS <i class="fa fa-angle-down"></i> </a>
                                             <ul class="mega-menu">
                                                 <li>
                                                     <ul>
                                                         <li><a href="best-computer-engineering-college-in-dehradun-uttarakhand.php">School of Computer Engineering & Applications</a></li>
-                                                        <li><a href="best-engineering-college-in-dehradun-Uttarakhand.php">School of Engineering</a></li>
+                                                        <li><a href="best-engineering-college-in-dehradun-uttarakhand.php">School of Engineering</a></li>
                                                         <li><a href="pharmacy.php">School of Pharmacy</a></li>
                                                         <li><a href="management-and-commerce.php">School of Commerce & Management</a></li>
                                                         <li><a href="hotel-management-and-tourism.php">School of Hotel Management & Tourism</a></li>
@@ -113,7 +117,7 @@
 
                                             </ul>
                                         </li>
-                                        <li><a href="#"> Admission <i class="fa fa-angle-down"></i> </a>
+                                        <li><a href="#"> ADMISSION <i class="fa fa-angle-down"></i> </a>
                                             <ul class="submenu">
                                                 <li><a href="assets/uploads/pdf/MDU_COMBINED_Brochure.pdf" download="MDU_COMBINED_Brochure.pdf">MDU Brocure</a></li>
                                                 <li><a href="assets/uploads/pdf/MDU_Fee_Structure.pdf" download="MDU_Fee_Structure.pdf">Fee Structure (2025-26)</a></li>
@@ -124,16 +128,28 @@
                                                 <li><a href="refund-policy.php">Refund Policy</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="#"> Courses/Programmes <i class="fa fa-angle-down"></i> </a>
+                                         <!-- <li><a href="#"> ACADEMICS <i class="fa fa-angle-down"></i> </a>
+                                            <ul class="submenu">
+                                                <li><a href="assets/uploads/pdf/MDU_COMBINED_Brochure.pdf" download="MDU_COMBINED_Brochure.pdf">MDU Brocure</a></li>
+                                                <li><a href="assets/uploads/pdf/MDU_Fee_Structure.pdf" download="MDU_Fee_Structure.pdf">Fee Structure (2025-26)</a></li>
+                                                <li><a href="https://admission.maya.edu.in/" target="_blank">Apply Now</a></li>
+                                                <li><a href="campus-life.php">Campus Life</a></li>
+                                                <li><a href="assets/uploads/pdf/List_of_Holidays_2025.pdf" download="List_of_Holidays_2025.pdf">List of Holidays</a></li>
+                                                <li><a href="assets/uploads/pdf/Academic_Calender_Even_Sem_2024-25.pdf" download="Academic_Calender_Even_Sem_2024-25.pdf">Academic Calender Even Sem 2024-25</a></li>
+                                                <li><a href="refund-policy.php">Refund Policy</a></li>
+                                            </ul>
+                                        </li> -->
+                                        <li><a href="#"> COURSES/PROGRAMMES <i class="fa fa-angle-down"></i> </a>
                                             <ul class="submenu">
                                                 <li><a href="diploma-course.php">Diploma Courses</a></li>
                                                 <li><a href="undergraduate-course.php">Undergraduate Courses</a></li>
                                                 <li><a href="post-graduate.php">Post Graduate Courses</a></li>
+                                                 <li><a href="best-university-for-phd-in-dehradun-uttarakhand.php">PHD</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="blog.php"> BLOG </a>
-                                        </li>
-                                        <li><a href="placement-overview.php"> Placement </a></li>
+                                          <li><a href="research.php">RESEARCH</a></li>
+                                        
+                                        <li><a href="placement-overview.php"> PLACEMENT </a></li>
                                     </ul>
                                 </nav>
                             </div>
@@ -147,15 +163,19 @@
                             <ul class="menu-overflow">
                                 <li><a href="index.php">HOME</a>
                                 </li>
-                                <li><a href="#"> About Us <i class="fa fa-angle-down"></i> </a>
+                                <li>
+                                   <a href="#">ABOUT US<i class="fa fa-angle-down"></i></a>
                                             <ul class="submenu">
-                                                <li><a href="about-us.php">About MDU</a></li>
+                                                <li><a href="about-us.php">About University</a></li>
                                                 <li><a href="governance.php">About Governance</a></li>
                                                 <li><a href="committees.php">About Committees</a></li>
                                                 <li><a href="offices-services.php">Offices & Services</a></li>
+                                                 <li><a href="leadership.php">Leadership</a></li>
+                                                <li><a href="vision-mission.php">Vision and Mission</a></li>
+                                                <li><a href="approval-accredetion-membership-ranking.php">Approval, Accredetions & Ranking</a></li>
                                             </ul>
                                         </li>
-                                <li><a href="#"> Our Schools <i class="fa fa-angle-down"></i> </a>
+                                <li><a href="#"> OUR SCHOOLS <i class="fa fa-angle-down"></i> </a>
                                     <ul class="submenu">
                                         <li><a href="best-computer-engineering-college-in-dehradun-uttarakhand.php">School of Computer Engineering & Applications</a></li>
                                         <li><a href="best-engineering-college-in-dehradun-uttarakhand.php">School of Engineering</a></li>
@@ -174,7 +194,7 @@
                                         <li><a href="School-Of-Rehabilitation-Sciences.php">Ashtvakra School of Rehabilitation</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="#"> Admission <i class="fa fa-angle-down"></i> </a>
+                                <li><a href="#"> ADMISSION <i class="fa fa-angle-down"></i> </a>
                                     <ul class="submenu">
                                         <li><a href="assets/uploads/pdf/MDU_COMBINED_Brochure.pdf" download="MDU_COMBINED_Brochure.pdf">MDU Brocure</a></li>
                                         <li><a href="assets/uploads/pdf/MDU_Fee_Structure.pdf" download="MDU_Fee_Structure.pdf">Fee Structure (2025-26)</a></li>
@@ -186,17 +206,17 @@
                                     </ul>
                                 </li>
 
-                                <li><a href="about-us.php">About us</a></li>
-                                <li><a href="#"> Courses/Programmes <i class="fa fa-angle-down"></i> </a>
+                                <li><a href="#"> COURSES/PROGRAMMES <i class="fa fa-angle-down"></i> </a>
                                             <ul class="submenu">
                                                 <li><a href="Diploma.php">Diploma Courses</a></li>
                                                 <li><a href="undergraduate-course.php">Undergraduate Courses</a></li>
                                                 <li><a href="post-graduate.php">Post Graduate Courses</a></li>
                                             </ul>
                                         </li>
-                                <li><a href="blog.php">Blog</a>
+                                        <li><a href="research.php">RESEARCH</a></li>
+                                <li><a href="blog.php">BLOG</a>
                                 </li>
-                                <li><a href="placement-overview.php">Placement</a></li>
+                                <li><a href="placement-overview.php">PLACEMENT</a></li>
                             </ul>
                         </nav>
                     </div>
@@ -204,6 +224,52 @@
             </div>
         </div>
     </header>
+   <script>
+(function () {
+
+  function activateMobileMenu() {
+
+    const menu = document.querySelector('.mobile-menu-area');
+    if (!menu) return;
+
+    // CAPTURE phase → runs before theme/plugin JS
+    menu.addEventListener('click', function (e) {
+
+      const link = e.target.closest('a');
+      if (!link) return;
+
+      const li = link.closest('li');
+      if (!li) return;
+
+      const submenu = li.querySelector('ul');
+      if (!submenu) return;
+
+      // Stop EVERYTHING else
+      e.preventDefault();
+      e.stopImmediatePropagation();
+
+      // Close other open menus
+      menu.querySelectorAll('li.force-open').forEach(el => {
+        if (el !== li) el.classList.remove('force-open');
+      });
+
+      // Toggle current
+      li.classList.toggle('force-open');
+
+    }, true); // 👈 CAPTURE PHASE (KEY)
+
+  }
+
+  // Run immediately
+  activateMobileMenu();
+
+  // ALSO watch for menu re-render by plugins.js
+  const observer = new MutationObserver(activateMobileMenu);
+  observer.observe(document.body, { childList: true, subtree: true });
+
+})();
+</script>
+
     <style>
         /* ===== FIX DESKTOP CLICK ISSUE CAUSED BY STICKY HEADER ===== */
 
@@ -226,5 +292,20 @@
 .header-bottom::after {
   pointer-events: none;
 }
+/* ==============================
+   MOBILE MENU – FORCE DROPDOWN
+/* ===============================
+   MOBILE MENU – FORCE OPEN
+   =============================== */
+@media (max-width: 991px) {
 
-    </style>
+  .mobile-menu-area ul ul {
+    display: none !important;
+  }
+
+  .mobile-menu-area li.force-open > ul {
+    display: block !important;
+  }
+
+}
+ </style>

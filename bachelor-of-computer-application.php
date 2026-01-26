@@ -95,7 +95,7 @@
                         <div class="related-slider-active">
                         <div class="single-course">
                                 <div class="course-img">
-                                    <a href="bachelor-of-computer-application-AI-&-ML.php"><img class="animated" src="assets/uploads/aiml.jpg" alt=""></a>
+                                    <a href="bachelor-of-computer-application-AI-&-ML.php"><img class="animated" src="assets/uploads/ai.jpeg" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="bachelor-of-computer-application-AI-&-ML.php">BCA with Specialization in AI and ML (AIML)</a></h4>

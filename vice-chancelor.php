@@ -9,7 +9,7 @@
 
     <div class="maya-president-content">
       <div class="maya-president-photo">
-        <img src="assets/uploads/vice.png" alt="President - Maya Devi University">
+        <img src="assets/uploads/vc-2.jpeg" alt="President - Maya Devi University">
       </div>
       <div class="maya-president-text">
         <p>

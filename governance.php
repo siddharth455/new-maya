@@ -243,7 +243,7 @@
         </tr>
         <tr>
             <td>14</td>
-            <td>Mr. Vijay Kumar</td>
+            <td>Mrs. Ambika Juyal</td>
             <td>Registrar</td>
             <td>Member Secretary</td>
         </tr>

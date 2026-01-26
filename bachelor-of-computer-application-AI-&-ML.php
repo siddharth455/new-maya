@@ -1,6 +1,6 @@
 <?php require "common/header.php"?>
 <div class="breadcrumb-area">
-    <div class="breadcrumb-top default-overlay bg-img breadcrumb-overly-2 pt-100 pb-95" style="background-image:url(assets/uploads/aiml.jpg);">
+    <div class="breadcrumb-top default-overlay bg-img breadcrumb-overly-2 pt-100 pb-95" style="background-image:url(assets/uploads/ai.jpeg);">
         <div class="container">
             <h2>BCA with Specialization in AI and ML (AIML)</h2>
             <p>The Bachelor of Computer Applications (BCA) with a Specialization in Artificial Intelligence and Machine Learning (AIML) is a cutting-edge undergraduate program designed to meet the growing demand for intelligent technologies. This three-year course equips students with a strong foundation in computer applications while providing in-depth knowledge and practical skills in AI and ML.</p>
@@ -20,7 +20,7 @@
             <div class="col-xl-9 col-lg-8">
                 <div class="course-left-wrap mr-40">
                     <div class="apply-area">
-                        <img src="assets/uploads/aiml.jpg" alt="">
+                        <img src="assets/uploads/ai.jpeg" alt="">
                         <div class="course-apply-btn">
                             <a href="https://admission.maya.edu.in/" class="default-btn">APPLY NOW</a>
                         </div>

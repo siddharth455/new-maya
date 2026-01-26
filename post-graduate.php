@@ -137,7 +137,8 @@
 }
 
 .courses-list li {
-  background-color: #fff;
+  background-color: #004080;
+  color: #fff;
   padding: 10px 15px;
   border-radius: 8px;
   transition: all 0.3s ease;
@@ -145,9 +146,8 @@
   text-align: center;
 }
 .courses-list li:hover {
-  background-color: #004080;
+  background-color: #00a651;
 }
-
 .courses-list li:hover a {
   color: #fff;
 }

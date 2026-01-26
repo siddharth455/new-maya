@@ -70,7 +70,7 @@
       </div>
 
       <div class="pa-cta-row">
-        <a class="btn btn-primary" href="https://admission.maya.edu.in/" target="_blank" rel="noopener">Apply Now</a>
+        <a class="btn btn-primary" href="https://admissions.maya.edu.in/" target="_blank" rel="noopener">Apply Now</a>
       </div>
     </div>
 
@@ -94,27 +94,72 @@
   </div>
 
   <!-- Partners strip -->
-  <div class="placement-partners">
-    <div class="partners-inner">
-      <img src="assets/uploads/icon/pfizer.webp" alt="Pfizer">
-      <img src="assets/uploads/icon/glenmark.webp" alt="Glenmark">
-      <img src="assets/uploads/icon/cisco.jpg" alt="Cisco">
-      <img src="assets/uploads/icon/ibm.jpg" alt="IBM">
-      <img src="assets/uploads/icon/amazon.jpg" alt="Amazon">
-      <img src="assets/uploads/icon/tata.jpg" alt="Tata">
-      <img src="assets/uploads/icon/accenture.jpg" alt="Accenture">
-      <img src="assets/img/brand-logo/11.webp" alt="">
-                <img src="assets/img/brand-logo/12.webp" alt="">
-                <img src="assets/img/brand-logo/13.webp" alt="">
-                <img src="assets/img/brand-logo/14.webp" alt="">
-                <img src="assets/img/brand-logo/7.webp" alt="">
-                <img src="assets/img/brand-logo/8.webp" alt="">
-    </div>
+  <div class="placement-partners swiper">
+  <div class="swiper-wrapper">
+
+    <div class="swiper-slide"><img src="assets/uploads/icon/pfizer.webp" alt="Pfizer"></div>
+    <div class="swiper-slide"><img src="assets/uploads/icon/glenmark.webp" alt="Glenmark"></div>
+    <div class="swiper-slide"><img src="assets/uploads/icon/cisco.jpg" alt="Cisco"></div>
+    <div class="swiper-slide"><img src="assets/uploads/icon/ibm.jpg" alt="IBM"></div>
+    <div class="swiper-slide"><img src="assets/uploads/icon/amazon.jpg" alt="Amazon"></div>
+    <div class="swiper-slide"><img src="assets/uploads/icon/tata.jpg" alt="Tata"></div>
+    <div class="swiper-slide"><img src="assets/uploads/icon/accenture.jpg" alt="Accenture"></div>
+    <div class="swiper-slide"><img src="assets/img/brand-logo/11.webp"></div>
+    <div class="swiper-slide"><img src="assets/img/brand-logo/12.webp"></div>
+    <div class="swiper-slide"><img src="assets/img/brand-logo/13.webp"></div>
+    <div class="swiper-slide"><img src="assets/img/brand-logo/14.webp"></div>
+    <div class="swiper-slide"><img src="assets/img/brand-logo/7.webp"></div>
+    <div class="swiper-slide"><img src="assets/img/brand-logo/8.webp"></div>
+
   </div>
+</div>
+
 </section>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  new Swiper('.placement-partners', {
+    loop: true,
+    slidesPerView: 'auto',   // 👈 required for logo line
+    spaceBetween: 24,
+    speed: 3000,
+    autoplay: {
+      delay: 0,
+      disableOnInteraction: false
+    },
+    allowTouchMove: false
+  });
+});
+</script>
+
 
 <!-- Scoped CSS: drop into your stylesheet -->
 <style>
+  /* ===== PARTNERS SLIDER FIX ===== */
+.placement-partners {
+  margin-top: 18px;
+  padding-top: 12px;
+  border-top: 1px dashed rgba(255,255,255,0.04);
+  overflow: hidden;
+}
+
+.placement-partners .swiper-slide {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+   width: auto !important;   /* 👈 KEY FIX */
+}
+
+.placement-partners img {
+  height: 52px;
+  object-fit: contain;
+  background: #fff;
+  padding: 6px;
+  border-radius: 8px;
+  box-shadow: 0 8px 30px rgba(0,0,0,0.25);
+}
+
   /* theme */
   #placement-alt { --g1: #0A1121; --g2: #03516B; --green: #00a651; font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial; }
   .placement-alt-wrap { max-width:1200px; margin:0 auto; display:grid; grid-template-columns: 1fr 460px 320px; gap:24px; align-items:start; }

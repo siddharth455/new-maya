@@ -2,7 +2,7 @@
 <section class="ug-courses-section">
   <div class="container">
   <div class="section-title  pb-20">
-    <h2>Postgraduate <span>Course</h2>
+    <h2>Diploma <span>Course</h2>
     </div>
 
    
@@ -77,7 +77,8 @@
 }
 
 .courses-list li {
-  background-color: #fff;
+  background-color: #004080;
+  color: #fff;
   padding: 10px 15px;
   border-radius: 8px;
   transition: all 0.3s ease;
@@ -85,7 +86,7 @@
   text-align: center;
 }
 .courses-list li:hover {
-  background-color: #004080;
+  background-color: #00a651;
 }
 
 .courses-list li:hover a {

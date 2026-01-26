@@ -141,6 +141,30 @@
 practical skills to prepare students for future success.</p>
     </div>
     <div class="course-slider-active-3">
+       <div class="single-course">
+        <div class="course-img">
+          <a href="dialysis-technology.php"><img class="animated" src="assets/uploads/dialysis.webp" alt=""></a>
+        </div>
+        <div class="course-content">
+          <h4><a href="dialysis-technology.php">Diploma in Dialysis Technology</a></h4>
+          <p>The Diploma in Dialysis program is a two-year course focusing on human anatomy, dialysis technology, patient care, and clinical procedures.</p>
+        </div>
+        <div class="course-position-content">
+          <div class="credit-duration-wrap">
+            <div class="sin-credit-duration">
+              <i class="fa fa-diamond"></i>
+              <span>Credits : 125</span>
+            </div>
+            <div class="sin-credit-duration">
+              <i class="fa fa-clock-o"></i>
+              <span>Duration : 2yrs</span>
+            </div>
+          </div>
+          <div class="course-btn">
+            <a class="default-btn" href="dialysis-technology.php">APPLY NOW</a>
+          </div>
+        </div>
+      </div>
       <div class="single-course">
         <div class="course-img">
           <a href="bpt.php"><img class="animated" src="assets/uploads/bpt.webp" alt=""></a>
@@ -238,30 +262,7 @@ practical skills to prepare students for future success.</p>
           </div>
         </div>
       </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="dialysis-technology.php"><img class="animated" src="assets/uploads/dialysis.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="dialysis-technology.php">Diploma in Dialysis Technology</a></h4>
-          <p>The Diploma in Dialysis program is a two-year course focusing on human anatomy, dialysis technology, patient care, and clinical procedures.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 2yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="dialysis-technology.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
+     
     </div>
   </div>
 </div>

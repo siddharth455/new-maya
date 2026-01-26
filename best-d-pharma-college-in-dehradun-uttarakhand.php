@@ -3,7 +3,7 @@
     <div class="breadcrumb-top default-overlay bg-img breadcrumb-overly-2 pt-100 pb-95" style="background-image:url(assets/uploads/d.pharmacy.jpeg);">
         <div class="container">
             <h2>Diploma in Pharmacy</h2>
-            <p>School of Pharmacy at Maya Devi University is running a two year full time Diploma course divided into two annual sessions, Approved by Pharmacy Council of Pharmacy(PCI), New Delhi.</p>
+            <p>School of Pharmacy at Maya Devi University is running a two year full time Diploma course divided into two annual sessions, Approved by Pharmacy Council of India(PCI), New Delhi.</p>
         </div>
     </div>
     <div class="breadcrumb-bottom">
@@ -81,20 +81,12 @@
                                 <div class="course-summary-wrap mt-4">
                                     
                                     <div class="single-course-summary">
-                                        <h4>Total Students</h4>
+                                        <h4>Approved seats –for session 2026-2027 </h4>
                                         <span><i class="fa fa-user"></i> 60</span>
                                     </div>
                                     <div class="single-course-summary">
-                                        <h4>Course Duration</h4>
-                                        <span><i class="fa fa-clock-o"></i> 2years</span>
-                                    </div>
-                                    <div class="single-course-summary">
-                                        <h4>Course Credits</h4>
-                                        <span><i class="fa fa-diamond"></i> 125</span>
-                                    </div>
-                                    <div class="single-course-summary">
-                                        <h4>Total Semester</h4>
-                                        <span><i class="fa fa-book"></i> 4</span>
+                                        <h4>Program duration</h4>
+                                        <span><i class="fa fa-clock-o"></i> 2years/4sem</span>
                                     </div>
                                 </div>
                                 
@@ -171,7 +163,7 @@
                         <div class="sidebar-title mb-15">
                             <h4>About Us</h4>
                         </div>
-                        <p>Maya Devi University’s Diploma in Pharmacy program provides comprehensive knowledge and practical training in pharmacology, pharmaceutical chemistry, and drug formulation. Graduates are prepared for careers in community and hospital pharmacies, pharmaceutical research, and healthcare management, contributing to safe and effective medication use and healthcare innovation.</p>
+                        <p>Maya Devi University’s Diploma in Pharmacy program provides comprehensive knowledge and practical training in pharmacology, pharmaceutical chemistry, and drug formulation. Diploma Holders are prepared for careers in community and hospital pharmacies, pharmaceutical research, and healthcare management, contributing to safe and effective medication use and healthcare innovation.</p>
 
                     </div>
                     
@@ -248,7 +240,7 @@
                                             <i class="fa fa-check"></i> .
                                         </div>
                                         <div class="course-list-content">
-                                            <p>Hospital Pharmacist/p>
+                                            <p>Hospital Pharmacist</p>
                                         </div>
                                     </div>
                                     <div class="sin-over-view-list">

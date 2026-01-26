@@ -14,7 +14,7 @@
       <div class="maya-president-text">
       <p> At Maya Devi University, the Office of the Controller of Examinations is dedicated to upholding the integrity, transparency, and efficiency of our evaluation system. We believe that fair and timely assessments are essential to maintaining the academic excellence and credibility of the university. </p> <p> Our goal is to ensure a seamless examination process — from registration to result declaration — supported by modern technology and efficient coordination. We continuously work toward enhancing examination reforms, implementing digital systems, and fostering an environment of trust and accountability. </p> <p> Through a student-centric approach, we strive to make evaluations not just a measure of performance but a meaningful part of the learning journey, reflecting both academic growth and holistic development. </p>
         <div class="maya-president-info">
-          <h3 class="maya-president-name">Dr. Khoob Singh</h3>
+          <h3 class="maya-president-name">Krishna Ballabh Pokhriyal</h3>
           <p class="maya-president-designation">Controller of Examinations, Maya Devi University</p>
         </div>
       </div>

@@ -456,7 +456,7 @@
       <div class="col-lg-12">
         <div class="leadership-card d-flex align-items-stretch shadow-sm rounded overflow-hidden">
           <div class="leadership-img col-lg-5 p-0">
-            <img src="assets/uploads/vice.png" alt="Vice Chancellor" class="img-fluid w-100 h-100 object-fit-cover">
+            <img src="assets/uploads/vc-2.jpeg" alt="Vice Chancellor" class="img-fluid w-100 h-100 object-fit-cover">
           </div>
           <div class="leadership-content col-lg-7 p-4 bg-light position-relative">
             <p>
@@ -564,10 +564,10 @@
       <div class="col-md-4 col-sm-6">
         <div class="teacher-card">
           <div class="teacher-img">
-            <img src="assets/uploads/registrar.jpg" alt="Mr. Vijay Kumar">
+            <img src="assets/uploads/registrar.jpeg" alt="Mrs. Ambika Juyal">
           </div>
           <div class="teacher-overlay">
-            <h4>Mr. Vijay Kumar</h4>
+            <h4>Mrs. Ambika Juyal</h4>
             <h5>Registrar</h5>
           </div>
         </div>
@@ -577,10 +577,10 @@
       <div class="col-md-4 col-sm-6">
         <div class="teacher-card">
           <div class="teacher-img">
-            <img src="assets/uploads/coe.jpg" alt="Dr. Khoob Singh">
+            <img src="assets/uploads/coe.jpg" alt="Krishna Ballabh Pokhriyal">
           </div>
           <div class="teacher-overlay">
-            <h4>Dr. Khoob Singh</h4>
+            <h4>Krishna Ballabh Pokhriyal</h4>
             <h5>Controller of Examination</h5>
           </div>
         </div>

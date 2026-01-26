@@ -300,7 +300,7 @@
                     </tr>
                     <tr>
                         <td>4</td>
-                        <td>Dr. Khoob Singh</td>
+                        <td>Krishna Ballabh Pokhriyal</td>
                         <td>Dean, SoE</td>
                     </tr>
                     <tr>

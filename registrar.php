@@ -9,12 +9,12 @@
 
     <div class="maya-president-content">
       <div class="maya-president-photo">
-        <img src="assets/uploads/registrar.jpg" alt="President - Maya Devi University">
+        <img src="assets/uploads/registrar.jpeg" alt="President - Maya Devi University">
       </div>
       <div class="maya-president-text">
       <p> As the Registrar of Maya Devi University, I take great pride in contributing to an institution dedicated to academic integrity, innovation, and holistic student development. Our university stands committed to creating an environment where knowledge meets purpose and every student is empowered to achieve excellence. </p> <p> The Office of the Registrar ensures that every academic and administrative process is carried out with transparency, efficiency, and care. From admissions to graduation, our focus remains on supporting students, faculty, and staff through seamless coordination and a commitment to quality. </p> <p> At Maya Devi University, we strive to uphold the highest standards of governance and service, ensuring that our academic community continues to grow with discipline, dedication, and distinction. </p>
         <div class="maya-president-info">
-          <h3 class="maya-president-name">Mr. Vijay Kumar</h3>
+          <h3 class="maya-president-name">Mrs. Ambika Juyal</h3>
           <p class="maya-president-designation">Registrar, Maya Devi University</p>
         </div>
       </div>

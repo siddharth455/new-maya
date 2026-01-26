@@ -138,30 +138,7 @@ document.addEventListener("DOMContentLoaded", () => {
             <p>Comprehensive programs designed to equip students with the knowledge,<br> skills, and confidence for rewarding careers in healthcare.</p>
         </div>
         <div class="course-slider-active-3">
-        <div class="single-course">
-                                <div class="course-img">
-                                    <a href="bsc-nursing.php"><img class="animated" src="assets/uploads/nursing-1.jpg" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                <h4><a href="bsc-nursing.php">B.Sc Nursing</a></h4>
-                                    <p>The B.Sc. Nursing program is a four-year degree course for training students in professional nursing care skills.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 4yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="bsc-nursing.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
+       
                             <div class="single-course">
                                 <div class="course-img">
                                     <a href="gnm.php"><img class="animated" src="assets/uploads/gnm.webp" alt=""></a>
@@ -210,7 +187,30 @@ document.addEventListener("DOMContentLoaded", () => {
                                     </div>
                                 </div>
                             </div>
-           
+            <div class="single-course">
+                                <div class="course-img">
+                                    <a href="bsc-nursing.php"><img class="animated" src="assets/uploads/nursing-1.jpg" alt=""></a>
+                                </div>
+                                <div class="course-content">
+                                <h4><a href="bsc-nursing.php">B.Sc Nursing</a></h4>
+                                    <p>The B.Sc. Nursing program is a four-year degree course for training students in professional nursing care skills.</p>
+                                </div>
+                                <div class="course-position-content">
+                                    <div class="credit-duration-wrap">
+                                        <div class="sin-credit-duration">
+                                            <i class="fa fa-diamond"></i>
+                                            <span>Credits : 125</span>
+                                        </div>
+                                        <div class="sin-credit-duration">
+                                            <i class="fa fa-clock-o"></i>
+                                            <span>Duration : 4yrs</span>
+                                        </div>
+                                    </div>
+                                    <div class="course-btn">
+                                        <a class="default-btn" href="bsc-nursing.php">APPLY NOW</a>
+                                    </div>
+                                </div>
+                            </div>
         </div>
     </div>
 </div>

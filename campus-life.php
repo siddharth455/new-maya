@@ -370,6 +370,14 @@
             <div class="col-md-3"><img src="assets/uploads/transport.webp"></div>
             <div class="col-md-3"><img src="assets/uploads/auditorium.jpg"></div>
             <div class="col-md-3"><img src="assets/uploads/ba-7.webp"></div>
+            <div class="col-md-3"><img src="assets/uploads/ai.jpeg"></div>
+            <div class="col-md-3"><img src="assets/uploads/campus-3.jpeg"></div>
+            <div class="col-md-3"><img src="assets/uploads/campus-4.jpeg"></div>
+            <div class="col-md-3"><img src="assets/uploads/campus-5.jpeg"></div>
+             <div class="col-md-3"><img src="assets/uploads/campus-6.jpeg"></div>
+            <div class="col-md-3"><img src="assets/uploads/campus-7.jpeg"></div>
+            <div class="col-md-3"><img src="assets/uploads/campus-8.jpeg"></div>
+            <div class="col-md-3"><img src="assets/uploads/campus-9.jpeg"></div>
         </div>
     </div>
 </section>

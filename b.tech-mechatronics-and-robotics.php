@@ -20,7 +20,7 @@
             <div class="col-xl-9 col-lg-8">
                 <div class="course-left-wrap mr-40">
                     <div class="apply-area">
-                        <img src="assets/uploads/b.tech-mechanic-2.webp" alt="">
+                        <img src="assets/uploads/robots.jpeg" alt="">
                         <div class="course-apply-btn">
                             <a href="https://admission.maya.edu.in/" class="default-btn">APPLY NOW</a>
                         </div>

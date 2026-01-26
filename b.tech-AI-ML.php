@@ -1,6 +1,6 @@
 <?php require "common/header.php"?>
 <div class="breadcrumb-area">
-    <div class="breadcrumb-top default-overlay bg-img breadcrumb-overly-2 pt-100 pb-95" style="background-image:url(assets/uploads/aiml.jpg);">
+    <div class="breadcrumb-top default-overlay bg-img breadcrumb-overly-2 pt-100 pb-95" style="background-image:url(assets/uploads/ai.jpeg);">
         <div class="container">
             <h2>B.Tech CSE with Specialization AI & ML</h2>
             <p>Industry-integrated B.Tech in Artificial Intelligence & Machine Learning designed to equip students with cutting-edge technical knowledge and practical skills, enabling hands-on experience in AI tools, frameworks, and methodologies.</p>
@@ -20,7 +20,7 @@
             <div class="col-xl-9 col-lg-8">
                 <div class="course-left-wrap mr-40">
                     <div class="apply-area">
-                        <img src="assets/uploads/aiml.jpg" alt="">
+                        <img src="assets/uploads/ai.jpeg" alt="">
                         <div class="course-apply-btn">
                             <a href="https://admission.maya.edu.in/" class="default-btn">APPLY NOW</a>
                         </div>
@@ -114,7 +114,7 @@ This program nurtures critical thinking, analytical skills, and ethical awarenes
                         <div class="related-slider-active">
                             <div class="single-course">
                                 <div class="course-img">
-                                    <a href="b.tech-AI-ML.php"><img class="animated" src="assets/uploads/aiml.jpg" alt=""></a>
+                                    <a href="b.tech-AI-ML.php"><img class="animated" src="assets/uploads/ai.jpeg" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="b.tech-AI-ML.php">B.Tech. Computer Science & Engineering (AIML) with IBM</a></h4>

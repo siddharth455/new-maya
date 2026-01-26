@@ -96,7 +96,7 @@
                         <div class="related-slider-active">
                         <div class="single-course">
                                 <div class="course-img">
-                                    <a href="b.tech-AI-ML.php"><img class="animated" src="assets/uploads/aiml.jpg" alt=""></a>
+                                    <a href="b.tech-AI-ML.php"><img class="animated" src="assets/uploads/ai.jpeg" alt=""></a>
                                 </div>
                                 <div class="course-content">
                                     <h4><a href="b.tech-AI-ML.php">B.Tech. Computer Science & Engineering (AI & ML)</a></h4>

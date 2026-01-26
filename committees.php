@@ -251,7 +251,7 @@
                 </tr>
                 <tr>
                     <td>9</td>
-                    <td>Mr. Vijay Kumar</td>
+                    <td>Mrs. Ambika Juyal</td>
                     <td>Registrar</td>
                     <td>Member Secretary</td>
                 </tr>
@@ -391,7 +391,7 @@
                 </tr>
                 <tr>
                     <td>20</td>
-                    <td>Mr. Vijay Kumar</td>
+                    <td>Mrs. Ambika Juyal</td>
                     <td>Registrar</td>
                     <td>Member</td>
                 </tr>
@@ -457,7 +457,7 @@
         </tr>
         <tr>
           <td>8</td>
-          <td>Mr. Vijay Kumar</td>
+          <td>Mrs. Ambika Juyal</td>
           <td>Registrar</td>
           <td>Member</td>
         </tr>
@@ -542,7 +542,7 @@
         </tr>
         <tr>
           <td>9</td>
-          <td>Mr. Vijay Kumar</td>
+          <td>Mrs. Ambika Juyal</td>
           <td>Registrar</td>
           <td>Member Secretary</td>
         </tr>
@@ -601,7 +601,7 @@
         </tr>
         <tr>
           <td>7</td>
-          <td>Mr. Vijay Kumar</td>
+          <td>Mrs. Ambika Juyal</td>
           <td>Registrar</td>
           <td>Member</td>
         </tr>
@@ -660,7 +660,7 @@
         </tr>
         <tr>
           <td>6</td>
-          <td>Mr. Vijay Kumar</td>
+          <td>Mrs. Ambika Juyal</td>
           <td>Registrar</td>
           <td>Member</td>
         </tr>
@@ -914,7 +914,7 @@
     </tr>
     <tr>
       <td>4</td>
-      <td>Dr. Khoob Singh</td>
+      <td>Krishna Ballabh Pokhriyal</td>
       <td>Dean, SoE</td>
       <td>Member</td>
     </tr>
@@ -979,7 +979,7 @@
   <tbody>
     <tr>
       <td>1</td>
-      <td>Dr. Khoob Singh</td>
+      <td>Krishna Ballabh Pokhriyal</td>
       <td>Dean, SoEG</td>
       <td>Chief Proctor</td>
     </tr>

@@ -86,7 +86,7 @@
         <tr>
           <td>Registrar</td>
           <td>
-            Name: Mr. Vijay Kumar | Email: ro@maya.edu.in | Mobile: 9411715954 | Profile:
+            Name: Mrs. Ambika Juyal | Email: ro@maya.edu.in | Mobile: 9411715954 | Profile:
             <a href="registrar.php" target="_blank">https://maya.edu.in/registrar</a>
           </td>
         </tr>
@@ -362,7 +362,7 @@
           <td rowspan="9"><strong>Information Corner</strong></td>
           <td>RTI: Details of Central Public Information Officer (CPIO) and Appellate Authority (wherever applicable)</td>
           <td>
-          Name: Mr. Vijay Kumar | Email: ro@maya.edu.in | Mobile: 9411715954
+          Name: Mrs. Ambika Juyal | Email: ro@maya.edu.in | Mobile: 9411715954
           </td>
         </tr>
         <tr>

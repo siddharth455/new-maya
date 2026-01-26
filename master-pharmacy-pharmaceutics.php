@@ -2,7 +2,7 @@
 <div class="breadcrumb-area">
     <div class="breadcrumb-top default-overlay bg-img breadcrumb-overly-2 pt-100 pb-95" style="background-image:url(assets/uploads/mpharm.jpg);">
         <div class="container">
-            <h2>Master of Pharmacy</h2>
+            <h2>Master of Pharmacy (Pharmaceutics)</h2>
             <p>The M.Pharm in Pharmaceutics is a postgraduate program focused on the design, development, formulation, and evaluation of pharmaceutical dosage forms.</p>
         </div>
     </div>
@@ -57,20 +57,12 @@
                                 <div class="course-summary-wrap mt-4">
                                     
                                     <div class="single-course-summary">
-                                        <h4>Total Students</h4>
+                                        <h4>Approved seats - 2026-27</h4>
                                         <span><i class="fa fa-user"></i> 60</span>
                                     </div>
                                     <div class="single-course-summary">
                                         <h4>Course Duration</h4>
-                                        <span><i class="fa fa-clock-o"></i> 2years</span>
-                                    </div>
-                                    <div class="single-course-summary">
-                                        <h4>Course Credits</h4>
-                                        <span><i class="fa fa-diamond"></i> 125</span>
-                                    </div>
-                                    <div class="single-course-summary">
-                                        <h4>Total Semester</h4>
-                                        <span><i class="fa fa-book"></i> 4</span>
+                                        <span><i class="fa fa-clock-o"></i> 2years/4 Sem</span>
                                     </div>
                                 </div>
                                 
@@ -170,7 +162,7 @@
                         <div class="sidebar-title mb-15">
                             <h4>About Us</h4>
                         </div>
-                        <p>Maya Devi University’s Master in Pharmacy (M.Pharm) program provides advanced knowledge and practical training in pharmacology, pharmaceutical chemistry, pharmaceutics, and clinical pharmacy. Graduates are prepared for careers in pharmaceutical research, clinical pharmacy, regulatory affairs, and academia, contributing to innovation and excellence in healthcare and pharmaceutical sciences.</p>
+                        <p>Maya Devi University’s Master in Pharmacy (M.Pharm-Pharmaceutics) program provides advanced knowledge & practical Training in Pharmaceutics. Graduates are prepared for careers in pharmaceutical research, clinical pharmacy, regulatory affairs, and academia, contributing to innovation and excellence in healthcare and pharmaceutical sciences.</p>
 
                     </div>
                     
@@ -295,47 +287,45 @@
     <div class="container">
         <h2 class="text-center mt-3 mb-3">Industry Partner</h2>
         <div class="brand-logo-active owl-carousel">
+           
             <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/1.webp" alt="">
+                <img src="assets/img/brand-logo/15.webp" alt="">
             </div>
             <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/2.webp" alt="">
-            </div>
-            <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/3.webp" alt="">
+                <img src="assets/img/brand-logo/16.webp" alt="">
             </div>
             <div class="single-brand-logo">
                 <img src="assets/img/brand-logo/4.webp" alt="">
             </div>
             <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/5.webp" alt="">
+                <img src="assets/img/brand-logo/17.webp" alt="">
             </div>
             <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/6.webp" alt="">
+                <img src="assets/img/brand-logo/18.webp" alt="">
             </div>
             <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/7.webp" alt="">
+                <img src="assets/img/brand-logo/19.webp" alt="">
             </div>
             <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/8.webp" alt="">
+                <img src="assets/img/brand-logo/20.webp" alt="">
             </div>
             <div class="single-brand-logo">
                 <img src="assets/img/brand-logo/9.webp" alt="">
             </div>
             <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/10.webp" alt="">
+                <img src="assets/img/brand-logo/21.webp" alt="">
             </div>
             <div class="single-brand-logo">
                 <img src="assets/img/brand-logo/11.webp" alt="">
             </div>
-            <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/12.webp" alt="">
+             <div class="single-brand-logo">
+                <img src="assets/img/brand-logo/1.webp" alt="">
             </div>
             <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/13.webp" alt="">
+                <img src="assets/img/brand-logo/22.webp" alt="">
             </div>
             <div class="single-brand-logo">
-                <img src="assets/img/brand-logo/14.webp" alt="">
+                <img src="assets/img/brand-logo/23.webp" alt="">
             </div>
         </div>
     </div>
