@@ -133,260 +133,232 @@
 </script>
 
 <!-- Courses Section -->
-<div class="course-area bg-img pt-40">
+<div class="course-area bg-light pt-60 pb-60">
   <div class="container">
-    <div class="section-title mb-75 course-mrg-small">
-      <h2>Our <span>Programs</span></h2>
-      <p>We offer diverse, industry-focused courses that combine knowledge and <br>
-practical skills to prepare students for future success.</p>
-    </div>
-    <div class="course-slider-active-3">
-      <div class="single-course">
-        <div class="course-img">
-          <a href="b.sc-dialysis-technology.php"><img class="animated" src="assets/uploads/dialysis.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="b.sc-dialysis-technology.php">B.Sc. in Dialysis Technology</a></h4>
-          <p>The Diploma in Dialysis program is a three-year course focusing on human anatomy, dialysis technology, patient care, and clinical procedures.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="b.sc-dialysis-technology.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="operation-theatre-technology.php"><img class="animated" src="assets/uploads/ott.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="operation-theatre-technology.php">B.Sc. in Operation Theatre Technology</a></h4>
-          <p>The B.Sc. in Operation Theatre Technology program focuses on surgical procedures, operation theatre management, anesthesia techniques, and patient care.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="operation-theatre-technology.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="medical-lab-technology.php"><img class="animated" src="assets/uploads/mlt.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="medical-lab-technology.php">B.Sc. in Medical Laboratory Technology
-            </a></h4>
-          <p>The B.Sc. MLT program is a three-year course designed to train students in laboratory techniques, diagnostic testing, and clinical healthcare skills.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="medical-lab-technology.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="cardiac-care-technology.php"><img class="animated" src="assets/uploads/cardiac.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="cardiac-care-technology.php">B.Sc. in Cardiac Care Technology</a></h4>
-          <p>The B.Sc. in Cardiac Care Technology program trains students in cardiac diagnostics, monitoring, and patient care during heart procedures.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="cardiac-care-technology.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="radio-imaging-technology.php"><img class="animated" src="assets/uploads/rit.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="radio-imaging-technology.php">B.Sc in Radio Imaging Technology</a></h4>
-          <p>This program is designed to equip students with the technical and clinical skills required to operate advanced imaging equipment and support diagnostic procedures.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="radio-imaging-technology.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="anaesthesia-technology.php"><img class="animated" src="assets/uploads/Anaesthesia.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="anaesthesia-technology.php">B.Sc. in Anaesthesia Technology</a></h4>
-          <p>The B.Sc. in Anaesthesia Technology program focuses on anaesthesia techniques, patient monitoring, and operation theatre assistance during surgeries.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="anaesthesia-technology.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="hospital-administration.php"><img class="animated" src="assets/uploads/bha.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="hospital-administration.php">BHA - Bachelor of Hospital Administration</a></h4>
-          <p>The BHA program focuses on healthcare management, hospital operations, and administrative leadership, preparing students for managerial roles in hospitals and healthcare institutions.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="hospital-administration.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="public-health.php"><img class="animated" src="assets/uploads/bph.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="public-health.php">BPH - Bachelor of Public Health</a></h4>
-          <p>The BPH program focuses on public health, community health management, and healthcare program administration, preparing students for roles in hospitals, NGOs, and public health organizations.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="public-health.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-    <div class="course-img">
-        <a href="master-in-public-health.php"><img class="animated" src="assets/uploads/mph.webp" alt=""></a>
-    </div>
-    <div class="course-content">
-        <h4><a href="master-in-public-health.php">MPH - Master of Public Health</a></h4>
-        <p>The MPH program focuses on public health leadership, health promotion, epidemiology, and healthcare program management, preparing graduates for roles in government, NGOs, and international health organizations.</p>
-    </div>
-    <div class="course-position-content">
-        <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-                <i class="fa fa-diamond"></i>
-                <span>Credits : 60</span>
-            </div>
-            <div class="sin-credit-duration">
-                <i class="fa fa-clock-o"></i>
-                <span>Duration : 2yrs</span>
-            </div>
-        </div>
-        <div class="course-btn">
-            <a class="default-btn" href="master-in-public-health.php">APPLY NOW</a>
-        </div>
-    </div>
-</div>
-<div class="single-course">
-    <div class="course-img">
-        <a href="master-in-hospital-administration.php"><img class="animated" src="assets/uploads/mha.webp" alt=""></a>
-    </div>
-    <div class="course-content">
-        <h4><a href="master-in-hospital-administration.php">MHA - Master of Hospital Administration</a></h4>
-        <p>The MHA program focuses on advanced healthcare management, hospital operations, and leadership skills, preparing graduates for senior managerial roles in hospitals and healthcare organizations.</p>
-    </div>
-    <div class="course-position-content">
-        <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-                <i class="fa fa-diamond"></i>
-                <span>Credits : 60</span>
-            </div>
-            <div class="sin-credit-duration">
-                <i class="fa fa-clock-o"></i>
-                <span>Duration : 2yrs</span>
-            </div>
-        </div>
-        <div class="course-btn">
-            <a class="default-btn" href="master-in-hospital-administration.php">APPLY NOW</a>
-        </div>
-    </div>
-</div>
 
+    <!-- ================= UNDERGRADUATE PROGRAMS ================= -->
+    <div class="section-title text-center mb-50">
+      <h2>Undergraduate <span>Programs</span></h2>
+      <p>Industry-focused undergraduate programs designed for clinical, diagnostic, and healthcare management careers.</p>
+    </div>
+
+    <div class="row">
+
+      <!-- B.Sc Dialysis Technology -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="b.sc-dialysis-technology.php">
+              <img src="assets/uploads/dialysis.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>B.Sc. Dialysis Technology</h4>
+            <p>Focuses on dialysis procedures, patient care, human anatomy, and clinical practices.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>3 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="b.sc-dialysis-technology.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- B.Sc OTT -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="operation-theatre-technology.php">
+              <img src="assets/uploads/ott.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>B.Sc. Operation Theatre Technology</h4>
+            <p>Trains students in surgical procedures, OT management, anesthesia techniques, and patient safety.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>3 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="operation-theatre-technology.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- B.Sc MLT -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="medical-lab-technology.php">
+              <img src="assets/uploads/mlt.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>B.Sc. Medical Laboratory Technology</h4>
+            <p>Focuses on diagnostic testing, laboratory techniques, and clinical healthcare skills.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>3 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="medical-lab-technology.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- B.Sc Cardiac Care -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="cardiac-care-technology.php">
+              <img src="assets/uploads/cardiac.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>B.Sc. Cardiac Care Technology</h4>
+            <p>Trains students in cardiac diagnostics, monitoring systems, and patient care.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>3 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="cardiac-care-technology.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- B.Sc Radio Imaging -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="radio-imaging-technology.php">
+              <img src="assets/uploads/rit.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>B.Sc. Radio Imaging Technology</h4>
+            <p>Equips students with skills to operate advanced diagnostic imaging equipment.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>3 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="radio-imaging-technology.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- B.Sc Anaesthesia -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="anaesthesia-technology.php">
+              <img src="assets/uploads/Anaesthesia.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>B.Sc. Anaesthesia Technology</h4>
+            <p>Focuses on anaesthesia techniques, patient monitoring, and surgical assistance.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>3 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="anaesthesia-technology.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- BHA -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="hospital-administration.php">
+              <img src="assets/uploads/bha.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>Bachelor of Hospital Administration (BHA)</h4>
+            <p>Focuses on hospital operations, healthcare management, and administrative leadership.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>3 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="hospital-administration.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- BPH -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="public-health.php">
+              <img src="assets/uploads/bph.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>Bachelor of Public Health (BPH)</h4>
+            <p>Focuses on community health, public health management, and program administration.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>3 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="public-health.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
 
     </div>
+
+    <!-- ================= POSTGRADUATE PROGRAMS ================= -->
+    <div class="section-title text-center mb-50 mt-40">
+      <h2>Postgraduate <span>Programs</span></h2>
+      <p>Advanced healthcare management and public health programs for leadership roles.</p>
+    </div>
+
+    <div class="row">
+
+      <!-- MPH -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="master-in-public-health.php">
+              <img src="assets/uploads/mph.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>Master of Public Health (MPH)</h4>
+            <p>Focuses on epidemiology, public health leadership, and healthcare program management.</p>
+            <div class="course-meta">
+              <span>Credits: 60</span>
+              <span>2 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="master-in-public-health.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- MHA -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="master-in-hospital-administration.php">
+              <img src="assets/uploads/mha.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>Master of Hospital Administration (MHA)</h4>
+            <p>Advanced training in hospital operations, healthcare leadership, and strategic management.</p>
+            <div class="course-meta">
+              <span>Credits: 60</span>
+              <span>2 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="master-in-hospital-administration.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
   </div>
 </div>
+
 
 <!-- clubs section -->
 <section class="clubs-section py-5">
@@ -551,7 +523,7 @@ practical skills to prepare students for future success.</p>
           Choosing the right place to pursue your education is a life-changing decision—one that shapes not just your academic journey but also your personal and professional future. At the School of Computer Applications, Maya Devi University, we go beyond conventional learning by offering an ecosystem of innovation, creativity, and global opportunities.
         </p>
         <p class="text-muted">Our focus is on preparing students to thrive in a fast-evolving digital world where adaptability, critical thinking, and ethical leadership matter as much as technical expertise. With state-of-the-art infrastructure, hands-on industry exposure, and mentorship from accomplished faculty, we ensure that every learner is equipped to transform ideas into impactful realities.</p>
-        <a href="https://admission.maya.edu.in/" class="btn btn-success btn-lg mt-3">Apply Now →</a>
+        <a href="https://admissions.maya.edu.in" class="btn btn-success btn-lg mt-3">Apply Now →</a>
       </div>
       <div class="col-lg-5 text-center">
         <img src="assets/uploads/computer.jpg"

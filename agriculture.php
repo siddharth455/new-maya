@@ -143,186 +143,169 @@ ICAR.”
 </script>
 
 <!-- Courses Section -->
-<div class="course-area bg-img pt-40">
+<div class="course-area bg-light pt-60 pb-60">
   <div class="container">
-    <div class="section-title mb-75 course-mrg-small">
-      <h2>Our <span>Programs</span></h2>
-      <p>The School of Agriculture offers a range of undergraduate, postgraduate, and doctoral
-academic programmes designed in accordance with the ICAR Sixth Deans’ Committee syllabus and norms. Each programme is structured to develop technical competence,
-analytical ability, and professional skills, preparing students for careers in agriculture,
-research, extension services, agribusiness, and allied sectors while addressing the evolving needs of sustainable agricultural development.
-</p>
+
+    <!-- ================= UNDERGRADUATE PROGRAMS ================= -->
+    <div class="section-title text-center mb-50">
+      <h2>Undergraduate <span>Programs</span></h2>
+      <p>Industry-aligned undergraduate programs designed as per ICAR norms to build strong foundations in agriculture and food sciences.</p>
     </div>
-    <div class="course-slider-active-3">
-      <div class="single-course">
-        <div class="course-img">
-          <a href="bsc-agriculture-colleges-in-dehradun-uttarakhnad.php"><img class="animated" src="assets/uploads/agri.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="bsc-agriculture-colleges-in-dehradun-uttarakhnad.php">B.Sc in Agriculture</a></h4>
-          <p>The Bachelor of Science in Agriculture program focuses on crop production, soil management, and modern farming techniques for a career in agriculture and agribusiness.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 4yrs</span>
-            </div>
+
+    <div class="row">
+
+      <!-- B.Sc Agriculture -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="bsc-agriculture-colleges-in-dehradun-uttarakhnad.php">
+              <img src="assets/uploads/agri.webp" alt="">
+            </a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="bsc-agriculture-colleges-in-dehradun-uttarakhnady.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>B.Sc. in Agriculture</h4>
+            <p>Focuses on crop production, soil management, and modern farming techniques for careers in agriculture and agribusiness.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>4 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="bsc-agriculture-colleges-in-dehradun-uttarakhnad.php">Apply Now</a>
           </div>
         </div>
       </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="food-technology.php"><img class="animated" src="assets/uploads/food.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="food-technology.php">Bachelor in Food Technology</a></h4>
-          <p>The Bachelor of Food Technology program focuses on food processing, preservation, quality control, and production skills for the food industry.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
+
+      <!-- B.Sc Food Technology -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="food-technology.php">
+              <img src="assets/uploads/food.webp" alt="">
+            </a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="food-technology.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>Bachelor in Food Technology</h4>
+            <p>Focuses on food processing, preservation, quality control, and production skills for the food industry.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>3 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="food-technology.php">Apply Now</a>
           </div>
         </div>
       </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="food-technology.php"><img class="animated" src="assets/uploads/food.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="food-technology.php">Bachelor in Food Technology (Hons.)</a></h4>
-          <p>The Bachelor of Food Technology (Hons.) program emphasizes advanced food processing, quality assurance, research, and production skills for the food industry.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
+
+      <!-- B.Sc Food Technology Hons -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="food-technology.php">
+              <img src="assets/uploads/food.webp" alt="">
+            </a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="food-technology.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>Bachelor in Food Technology (Hons.)</h4>
+            <p>Emphasizes advanced food processing, quality assurance, research, and production skills.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>3 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="food-technology.php">Apply Now</a>
           </div>
         </div>
       </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="master-in-agriculture.php"><img class="animated" src="assets/uploads/agriculture.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="master-in-agriculture.php">Master in agriculture</a></h4>
-          <p>The Master in Agriculture program offers advanced training in crop production, soil management, and sustainable farming, preparing graduates for research and leadership roles in agriculture.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 2yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="master-in-agriculture.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="horticulture-colleges-in-dehradun-uttarakhand.php"><img class="animated" src="assets/uploads/horticulture.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="horticulture-colleges-in-dehradun-uttarakhand.php">Master in Horticulture</a></h4>
-          <p>The Master of Science in Horticulture focuses on advanced plant cultivation, crop management, and sustainable horticultural practices for research and professional roles.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 2yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="horticulture-colleges-in-dehradun-uttarakhand.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="genetics-and-plant-breeding.php"><img class="animated" src="assets/uploads/genetics.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="genetics-and-plant-breeding.php">M.Sc. in Genetics and Plant Breeding</a></h4>
-          <p>The M.Sc. in Genetics and Plant Breeding program focuses on advanced plant genetics, crop improvement, and research skills for modern agriculture.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 2yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="genetics-and-plant-breeding.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="master-in-food-technology.php"><img class="animated" src="assets/uploads/food-2.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="master-in-food-technology.php">Master in Food Technology</a></h4>
-          <p>The M.Sc. Food Technology program equips students with in-depth knowledge and hands-on skills in food processing, preservation, quality assurance, and modern food production techniques.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 2yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="master-in-food-technology.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
+
     </div>
+
+    <!-- ================= POSTGRADUATE PROGRAMS ================= -->
+    <div class="section-title text-center mb-50 mt-40">
+      <h2>Postgraduate <span>Programs</span></h2>
+      <p>Advanced programs focused on research, sustainability, and leadership in agriculture and allied sciences.</p>
+    </div>
+
+    <div class="row">
+
+      <!-- M.Sc Agriculture -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="master-in-agriculture.php">
+              <img src="assets/uploads/agriculture.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>Master in Agriculture</h4>
+            <p>Advanced training in crop production, soil management, and sustainable farming for research and leadership roles.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>2 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="master-in-agriculture.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- M.Sc Horticulture -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="horticulture-colleges-in-dehradun-uttarakhand.php">
+              <img src="assets/uploads/horticulture.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>Master in Horticulture</h4>
+            <p>Focuses on advanced plant cultivation, crop management, and sustainable horticultural practices.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>2 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="horticulture-colleges-in-dehradun-uttarakhand.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- M.Sc Genetics & Plant Breeding -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="genetics-and-plant-breeding.php">
+              <img src="assets/uploads/genetics.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>M.Sc. Genetics & Plant Breeding</h4>
+            <p>Focuses on plant genetics, crop improvement, and research skills for modern agriculture.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>2 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="genetics-and-plant-breeding.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- M.Sc Food Technology -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="master-in-food-technology.php">
+              <img src="assets/uploads/food-2.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>Master in Food Technology</h4>
+            <p>Provides in-depth knowledge and hands-on skills in food processing, preservation, and quality assurance.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>2 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="master-in-food-technology.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
   </div>
 </div>
 
@@ -504,7 +487,7 @@ research, extension services, agribusiness, and allied sectors while addressing 
       future of agriculture and tackle global issues like food insecurity.
     </p>
 
-    <a href="https://admission.maya.edu.in/" class="btn btn-success btn-lg mt-3">
+    <a href="https://admissions.maya.edu.in" class="btn btn-success btn-lg mt-3">
       Apply Now →
     </a>
   </div>

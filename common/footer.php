@@ -36,7 +36,7 @@
                                 <li><a href="ugc-mandatory-disclosure.php">UGC Mandatory<br> Disclosure</a></li>
                                 <li><a href="index.php">Home</a></li>
                                 <li><a href="about-us.php">About Us</a></li>
-                                <li><a href="https://admission.maya.edu.in/">Admission</a></li>
+                                <li><a href="https://admissions.maya.edu.in">Admission</a></li>
                                 <li><a href="#">Terms & Conditions</a></li>
                                 <li><a href="blog.php">Blogs</a></li>
                                 <li><a href="https://samadhaan.ugc.ac.in/">UGC Samadhan</a></li>

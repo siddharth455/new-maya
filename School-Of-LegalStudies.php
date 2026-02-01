@@ -131,138 +131,142 @@ document.addEventListener("DOMContentLoaded", () => {
 </script>
 
 <!-- Courses Section -->
-<div class="course-area bg-img pt-40">
-    <div class="container">
-        <div class="section-title mb-75 course-mrg-small">
-            <h2>Our <span>Programs</span></h2>
-            <p>We offer diverse, industry-focused courses that combine knowledge and <br>
-practical skills to prepare students for future success.</p>
-        </div>
-        <div class="course-slider-active-3">
-           <div class="single-course">
-                                <div class="course-img">
-                                    <a href="ba-llb.php"><img class="animated" src="assets/uploads/llb.jpg" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                <h4><a href="ba-llb.php">BA LLB (Hons.)</a></h4>
-                                <p>The BA LL.B program is a five-year integrated degree course designed to train students in social sciences, law, legal reasoning, and professional legal skills.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 5yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="ba-llb.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-        <div class="single-course">
-                                <div class="course-img">
-                                    <a href="bba-llb.php"><img class="animated" src="assets/uploads/llb-2.webp" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                <h4><a href="bba-llb.php">BBA LLB (Hons.)</a></h4>
-                                <p>The BBA LL.B program is a five-year integrated degree course designed to train students in business administration, management, and professional legal skills.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 5yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="bba-llb.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="single-course">
-                                <div class="course-img">
-                                    <a href="llb.php"><img class="animated" src="assets/uploads/llb-3.jpeg" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                    <h4><a href="llb.php">LLB (Bachelor of Law)</a></h4>
-                                    <p>The LL.B program is a three-year professional degree course aimed to the training of the students in the fundamentals of law, justice, and legal practice.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 3yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="llb.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="single-course">
-                                <div class="course-img">
-                                    <a href="llm.php"><img class="animated" src="assets/uploads/llm.jpg" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                    <h4><a href="llm.php">LLM (Master of Law)</a></h4>
-                                    <p>The LL.M program is a one-year postgraduate degree course aimed at advancing students’ expertise in specialized areas of law, legal research, and professional practice.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 1year</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="llm.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="single-course">
-        <div class="course-img">
-          <a href="best-university-for-phd-in-dehradun-uttarakhand.php"><img class="animated" src="assets/uploads/phd.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="best-university-for-phd-in-dehradun-uttarakhand.php">PHD Program</a></h4>
-          <p>Ph.D. Programme is a full-time doctoral research programme focused on advanced study and original research, aimed at developing scholarly expertise and contributing meaningful knowledge to the academic and research community.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 2yrs</span>
-            </div>
+<div class="course-area bg-light pt-60 pb-60">
+  <div class="container">
+
+    <!-- ================= UNDERGRADUATE PROGRAMS ================= -->
+    <div class="section-title text-center mb-50">
+      <h2>Undergraduate <span>Law Programs</span></h2>
+      <p>Integrated and professional law programs designed to build strong legal foundations.</p>
+    </div>
+
+    <div class="row">
+
+      <!-- BA LLB -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="ba-llb.php">
+              <img src="assets/uploads/llb.jpg" alt="">
+            </a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="best-university-for-phd-in-dehradun-uttarakhand.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>BA LLB (Hons.)</h4>
+            <p>Five-year integrated program covering social sciences, law, legal reasoning, and advocacy.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>5 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="ba-llb.php">Apply Now</a>
           </div>
         </div>
       </div>
-           
+
+      <!-- BBA LLB -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="bba-llb.php">
+              <img src="assets/uploads/llb-2.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>BBA LLB (Hons.)</h4>
+            <p>Integrated law program combining business administration, management, and legal studies.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>5 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="bba-llb.php">Apply Now</a>
+          </div>
         </div>
+      </div>
+
+      <!-- LLB -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="llb.php">
+              <img src="assets/uploads/llb-3.jpeg" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>LLB (Bachelor of Law)</h4>
+            <p>Three-year professional law degree focusing on legal principles, justice, and practice.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>3 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="llb.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
     </div>
+
+    <!-- ================= POSTGRADUATE PROGRAMS ================= -->
+    <div class="section-title text-center mb-50 mt-40">
+      <h2>Postgraduate <span>Law Programs</span></h2>
+      <p>Advanced legal education for specialization and professional growth.</p>
+    </div>
+
+    <div class="row">
+
+      <!-- LLM -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="llm.php">
+              <img src="assets/uploads/llm.jpg" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>LLM (Master of Law)</h4>
+            <p>Postgraduate program focused on advanced legal studies, research, and specialization.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>1 Year</span>
+            </div>
+            <a class="default-btn btn-block" href="llm.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ================= DOCTORAL PROGRAM ================= -->
+    <div class="section-title text-center mb-50 mt-40">
+      <h2>Doctoral <span>Program</span></h2>
+      <p>Research-focused doctoral program in legal studies.</p>
+    </div>
+
+    <div class="row">
+
+      <!-- PhD Law -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="best-university-for-phd-in-dehradun-uttarakhand.php">
+              <img src="assets/uploads/phd.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>PhD Program</h4>
+            <p>Doctoral research program focused on advanced legal scholarship and original research.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>2 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="best-university-for-phd-in-dehradun-uttarakhand.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
 </div>
+
  
 <!-- clubs section -->
 <section class="clubs-section py-5">
@@ -431,7 +435,7 @@ practical skills to prepare students for future success.</p>
         Choosing the right place to pursue your education is a life-changing decision—one that shapes not just your academic journey but also your personal and professional future. At the School of Computer Applications, Maya Devi University, we go beyond conventional learning by offering an ecosystem of innovation, creativity, and global opportunities.
         </p>
         <p class="text-muted">Our focus is on preparing students to thrive in a fast-evolving digital world where adaptability, critical thinking, and ethical leadership matter as much as technical expertise. With state-of-the-art infrastructure, hands-on industry exposure, and mentorship from accomplished faculty, we ensure that every learner is equipped to transform ideas into impactful realities.</p>
-        <a href="https://admission.maya.edu.in/" class="btn btn-success btn-lg mt-3">Apply Now →</a>
+        <a href="https://admissions.maya.edu.in" class="btn btn-success btn-lg mt-3">Apply Now →</a>
       </div>
       <div class="col-lg-5 text-center">
         <img src="assets/uploads/computer.jpg" 

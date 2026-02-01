@@ -133,741 +133,126 @@
 </script>
 
 <!-- Courses Section -->
-<div class="course-area bg-img pt-40">
+<div class="course-area bg-light pt-60 pb-60">
   <div class="container">
-    <div class="section-title mb-75 course-mrg-small">
-      <h2>Our <span>Programs</span></h2>
-      <p>We offer diverse, industry-focused courses that combine knowledge and <br>
-        practical skills to prepare students for future success.</p>
+
+    <!-- ================= UNDERGRADUATE PROGRAMS ================= -->
+    <div class="section-title text-center mb-50">
+      <h2>Undergraduate <span>Programs</span></h2>
+      <p>Industry-focused undergraduate science programs with strong theoretical and practical foundations.</p>
     </div>
-    <div class="course-slider-active-3">
-      <div class="single-course">
-        <div class="course-img">
-          <a href="bsc-pcm.php"><img class="animated" src="assets/uploads/bsc-pcm-img1.jpg" alt="logo"></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="bsc-pcm.php">B.Sc. PCM</a></h4>
-          <p>B.Sc. PCM is an undergraduate science program that focuses on developing a strong foundation in Physics, Chemistry, and Mathematics.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
+
+    <div class="row">
+
+      <!-- B.Sc PCM -->
+      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-pcm.php"><img src="assets/uploads/bsc-pcm-img1.jpg"></a></div><div class="course-body"><h4>B.Sc. PCM</h4><p>Strong foundation in Physics, Chemistry, and Mathematics.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-pcm.php">Apply Now</a></div></div></div>
+
+      <!-- B.Sc CBZ -->
+      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-cbz.php"><img src="assets/uploads/cbz.webp"></a></div><div class="course-body"><h4>B.Sc. CBZ</h4><p>Study of Chemistry, Botany, and Zoology.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-cbz.php">Apply Now</a></div></div></div>
+
+      <!-- Environmental Science -->
+      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-environmental-science.php"><img src="assets/uploads/evs.jpg"></a></div><div class="course-body"><h4>B.Sc. Environmental Science</h4><p>Focus on ecology, environment, and sustainability.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-environmental-science.php">Apply Now</a></div></div></div>
+
+      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-environmental-science-hons.php"><img src="assets/uploads/evs-2.webp"></a></div><div class="course-body"><h4>B.Sc. Environmental Science (Hons.)</h4><p>Advanced study of environmental systems and sustainability.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-environmental-science-hons.php">Apply Now</a></div></div></div>
+
+      <!-- Physics -->
+      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-physics.php"><img src="assets/uploads/physics.webp"></a></div><div class="course-body"><h4>B.Sc. Physics</h4><p>Study of matter, energy, and laws of nature.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-physics.php">Apply Now</a></div></div></div>
+
+      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-physics-hons.php"><img src="assets/uploads/physics.webp"></a></div><div class="course-body"><h4>B.Sc. Physics (Hons.)</h4><p>In-depth theoretical and experimental physics.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-physics-hons.php">Apply Now</a></div></div></div>
+
+      <!-- Botany -->
+      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-botany.php"><img src="assets/uploads/botany.webp"></a></div><div class="course-body"><h4>B.Sc. Botany</h4><p>Scientific study of plant life.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-botany.php">Apply Now</a></div></div></div>
+
+      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-botany-hons.php"><img src="assets/uploads/botany-2.webp"></a></div><div class="course-body"><h4>B.Sc. Botany (Hons.)</h4><p>Advanced plant biology and research.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-botany-hons.php">Apply Now</a></div></div></div>
+
+      <!-- Zoology -->
+      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-zoology.php"><img src="assets/uploads/zoology.webp"></a></div><div class="course-body"><h4>B.Sc. Zoology</h4><p>Study of animal structure and life.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-zoology.php">Apply Now</a></div></div></div>
+
+      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-zoology-hons.php"><img src="assets/uploads/zoology.webp"></a></div><div class="course-body"><h4>B.Sc. Zoology (Hons.)</h4><p>Advanced animal biology and genetics.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-zoology-hons.php">Apply Now</a></div></div></div>
+
+      <!-- Chemistry -->
+      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-chemistry.php"><img src="assets/uploads/chemistry.webp"></a></div><div class="course-body"><h4>B.Sc. Chemistry</h4><p>Study of matter, reactions, and properties.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-chemistry.php">Apply Now</a></div></div></div>
+
+      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-chemistry-hons.php"><img src="assets/uploads/chemistry-2.webp"></a></div><div class="course-body"><h4>B.Sc. Chemistry (Hons.)</h4><p>Advanced chemical principles and analysis.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-chemistry-hons.php">Apply Now</a></div></div></div>
+
+      <!-- Math -->
+      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-mathematics.php"><img src="assets/uploads/physics.webp"></a></div><div class="course-body"><h4>B.Sc. Mathematics</h4><p>Core mathematical theories and applications.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-mathematics.php">Apply Now</a></div></div></div>
+
+      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-mathematics-hons.php"><img src="assets/uploads/physics.webp"></a></div><div class="course-body"><h4>B.Sc. Mathematics (Hons.)</h4><p>Advanced theoretical and applied mathematics.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-mathematics-hons.php">Apply Now</a></div></div></div>
+
+      <!-- Applied Sciences -->
+      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-forensic-science.php"><img src="assets/uploads/forensic.webp"></a></div><div class="course-body"><h4>B.Sc. Forensic Science</h4><p>Scientific investigation of crime and evidence.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-forensic-science.php">Apply Now</a></div></div></div>
+
+      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-forensic-hons.php"><img src="assets/uploads/forensic-2.webp"></a></div><div class="course-body"><h4>B.Sc. Forensic Science (Hons.)</h4><p>Advanced forensic analysis and techniques.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-forensic-hons.php">Apply Now</a></div></div></div>
+
+      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-microbiology.php"><img src="assets/uploads/micro.webp"></a></div><div class="course-body"><h4>B.Sc. Microbiology</h4><p>Study of microorganisms and microbes.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-microbiology.php">Apply Now</a></div></div></div>
+
+      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-microbiology-hons.php"><img src="assets/uploads/micro.webp"></a></div><div class="course-body"><h4>B.Sc. Microbiology (Hons.)</h4><p>Advanced microbial studies and research.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-microbiology-hons.php">Apply Now</a></div></div></div>
+
+      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-biotechnology.php"><img src="assets/uploads/biotechnology.webp"></a></div><div class="course-body"><h4>B.Sc. Biotechnology</h4><p>Application of biological systems and technology.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-biotechnology.php">Apply Now</a></div></div></div>
+
+      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-biotechnology-hons.php"><img src="assets/uploads/biotechnology.webp"></a></div><div class="course-body"><h4>B.Sc. Biotechnology (Hons.)</h4><p>Advanced biotechnology and applied research.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-biotechnology-hons.php">Apply Now</a></div></div></div>
+
+    </div>
+
+    <!-- ================= POSTGRADUATE PROGRAMS ================= -->
+    <div class="section-title text-center mb-50 mt-40">
+      <h2>Postgraduate <span>Programs</span></h2>
+      <p>Advanced science programs focused on specialization and research.</p>
+    </div>
+
+    <div class="row">
+
+      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="msc-physics.php"><img src="assets/uploads/physics.webp"></a></div><div class="course-body"><h4>M.Sc. Physics</h4><p>Advanced study in physical sciences.</p><div class="course-meta"><span>Credits: 125</span><span>2 Years</span></div><a class="default-btn btn-block" href="msc-physics.php">Apply Now</a></div></div></div>
+
+      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="msc-chemistry.php"><img src="assets/uploads/chemistry.webp"></a></div><div class="course-body"><h4>M.Sc. Chemistry</h4><p>Advanced chemical sciences and research.</p><div class="course-meta"><span>Credits: 125</span><span>2 Years</span></div><a class="default-btn btn-block" href="msc-chemistry.php">Apply Now</a></div></div></div>
+
+      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="msc-mathematics.php"><img src="assets/uploads/bsc-pcm-img1.jpg"></a></div><div class="course-body"><h4>M.Sc. Mathematics</h4><p>Advanced mathematical sciences.</p><div class="course-meta"><span>Credits: 125</span><span>2 Years</span></div><a class="default-btn btn-block" href="msc-mathematics.php">Apply Now</a></div></div></div>
+
+      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="msc-botany.php"><img src="assets/uploads/botany-3.webp"></a></div><div class="course-body"><h4>M.Sc. Botany</h4><p>Advanced plant sciences.</p><div class="course-meta"><span>Credits: 125</span><span>2 Years</span></div><a class="default-btn btn-block" href="msc-botany.php">Apply Now</a></div></div></div>
+
+      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="msc-zoology.php"><img src="assets/uploads/zoology.webp"></a></div><div class="course-body"><h4>M.Sc. Zoology</h4><p>Advanced animal biology.</p><div class="course-meta"><span>Credits: 125</span><span>2 Years</span></div><a class="default-btn btn-block" href="msc-zoology.php">Apply Now</a></div></div></div>
+
+      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="msc-forensic-science.php"><img src="assets/uploads/forensic-3.webp"></a></div><div class="course-body"><h4>M.Sc. Forensic Science</h4><p>Advanced forensic investigation techniques.</p><div class="course-meta"><span>Credits: 125</span><span>2 Years</span></div><a class="default-btn btn-block" href="msc-forensic-science.php">Apply Now</a></div></div></div>
+
+      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="msc-microbiology.php"><img src="assets/uploads/micro.webp"></a></div><div class="course-body"><h4>M.Sc. Microbiology</h4><p>Advanced microbial sciences.</p><div class="course-meta"><span>Credits: 125</span><span>2 Years</span></div><a class="default-btn btn-block" href="msc-microbiology.php">Apply Now</a></div></div></div>
+
+      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="msc-biotechnology.php"><img src="assets/uploads/biotechnology.webp"></a></div><div class="course-body"><h4>M.Sc. Biotechnology</h4><p>Modern biotechnology and applications.</p><div class="course-meta"><span>Credits: 125</span><span>2 Years</span></div><a class="default-btn btn-block" href="msc-biotechnology.php">Apply Now</a></div></div></div>
+
+      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="msc-environmental-science.php"><img src="assets/uploads/evs-3.webp"></a></div><div class="course-body"><h4>M.Sc. Environmental Science</h4><p>Advanced environmental studies.</p><div class="course-meta"><span>Credits: 125</span><span>2 Years</span></div><a class="default-btn btn-block" href="msc-environmental-science.php">Apply Now</a></div></div></div>
+
+    </div>
+
+    <!-- ================= DOCTORAL PROGRAM ================= -->
+    <div class="section-title text-center mb-50 mt-40">
+      <h2>Doctoral <span>Program</span></h2>
+      <p>Research-focused doctoral program for academic excellence.</p>
+    </div>
+
+    <div class="row">
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="best-university-for-phd-in-dehradun-uttarakhand.php">
+              <img src="assets/uploads/phd.webp">
+            </a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="bsc-pcm.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="bsc-cbz.php"><img class="animated" src="assets/uploads/cbz.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="bsc-cbz.php">B.Sc. CBZ</a></h4>
-          <p>B.Sc. CBZ is an undergraduate science program that focuses on Chemistry, Botany, and Zoology.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
+          <div class="course-body">
+            <h4>Ph.D Program</h4>
+            <p>Advanced doctoral research with academic and industry impact.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>2 Years</span>
             </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="bsc-cbz.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="bsc-environmental-science.php"><img class="animated" src="assets/uploads/evs.jpg" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="bsc-environmental-science.php">B.Sc. Environmental Science</a></h4>
-          <p>B.Sc. Environmental Science is an undergraduate program that focuses on the study of the environment, ecology, and sustainable resource management.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="bsc-environmental-science.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="bsc-environmental-science-hons.php"><img class="animated" src="assets/uploads/evs-2.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="bsc-environmental-science-hons.php">B.Sc. Environmental Science (Hons.)</a></h4>
-          <p>B.Sc. Environmental Science (Hons.) is an advanced undergraduate program that provides an in-depth understanding of environmental systems, ecology, pollution management, and sustainable development.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="bsc-environmental-science-hons.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="bsc-physics.php"><img class="animated" src="assets/uploads/physics.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="bsc-physics.php">B.Sc. Physics</a></h4>
-          <p>B.Sc. Physics is an undergraduate program that focuses on the fundamental principles of matter, energy, and the laws of nature.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="bsc-physics.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="bsc-physics-hons.php"><img class="animated" src="assets/uploads/physics.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="bsc-physics-hons.php">B.Sc. Physics (Hons.)</a></h4>
-          <p>B.Sc. Physics (Hons.) is an advanced undergraduate program that offers an in-depth study of theoretical and experimental physics, including areas like quantum mechanics.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="bsc-physics-hons.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="bsc-botany.php"><img class="animated" src="assets/uploads/botany.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="bsc-botany.php">B.Sc. Botany</a></h4>
-          <p>B.Sc. Botany is an undergraduate program that focuses on the scientific study of plants, including their structure, growth, reproduction.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="bsc-botany.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="bsc-botany-hons.php"><img class="animated" src="assets/uploads/botany-2.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="bsc-botany-hons.php">B.Sc. Botany (Hons.)</a></h4>
-          <p>B.Sc. Botany (Hons.) is an advanced undergraduate program that provides an in-depth study of plant biology.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="bsc-botany-hons.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="bsc-zoology.php"><img class="animated" src="assets/uploads/zoology.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="bsc-zoology.php">B.Sc. Zoology</a></h4>
-          <p>B.Sc. Zoology is an undergraduate program that focuses on the study of animal life, including their structure.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="bsc-zoology.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="bsc-zoology-hons.php"><img class="animated" src="assets/uploads/zoology.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="bsc-zoology-hons.php">B.Sc. Zoology (Hons.)</a></h4>
-          <p>B.Sc. Zoology (Hons.) is an advanced undergraduate program that offers an in-depth study of animal biology, physiology, genetics.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="bsc-zoology-hons.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="bsc-chemistry.php"><img class="animated" src="assets/uploads/chemistry.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="bsc-chemistry.php">B.Sc. Chemistry</a></h4>
-          <p>B.Sc. Chemistry is an undergraduate program that focuses on the study of matter, its composition, properties, and reactions.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="bsc-chemistry.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="bsc-mathematics.php"><img class="animated" src="assets/uploads/physics.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="bsc-mathematics.php">B.Sc. Mathematics</a></h4>
-          <p>B.Sc. Mathematics is an undergraduate program that focuses on the study of mathematical concepts, theories.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="bsc-mathematics.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="bsc-forensic-science.php"><img class="animated" src="assets/uploads/forensic.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="bsc-forensic-science.php">B.Sc. Forensic Science</a></h4>
-          <p>B.Sc. Forensic Science is an undergraduate program that focuses on the application of scientific methods to crime investigation and legal processes.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="bsc-forensic-science.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="bsc-microbiology.php"><img class="animated" src="assets/uploads/micro.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="bsc-microbiology.php">B.Sc. Microbiology</a></h4>
-          <p>B.Sc. Microbiology is an undergraduate program that focuses on the study of microscopic organisms including bacteria, viruses.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="bsc-microbiology.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="bsc-biotechnology.php"><img class="animated" src="assets/uploads/biotechnology.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="bsc-biotechnology.php">B.Sc. Biotechnology</a></h4>
-          <p>B.Sc. Biotechnology is an undergraduate program that focuses on the use of biological processes, organisms, and systems.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="bsc-biotechnology.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="bsc-chemistry-hons.php"><img class="animated" src="assets/uploads/chemistry-2.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="bsc-chemistry-hons.php">B.Sc. Chemistry (Hons.)</a></h4>
-          <p>B.Sc. Chemistry (Hons.) is an advanced undergraduate program that provides an in-depth understanding of chemical principles, reactions, and structures of matter.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="bsc-chemistry-hons.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="bsc-mathematics-hons.php"><img class="animated" src="assets/uploads/physics.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="bsc-mathematics-hons.php">B.Sc. Mathematics (Hons.)</a></h4>
-          <p>B.Sc. Mathematics (Hons.) is an advanced undergraduate program that focuses on the theoretical and applied aspects of mathematics.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="bsc-mathematics-hons.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="bsc-forensic-hons.php"><img class="animated" src="assets/uploads/forensic-2.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="bsc-forensic-hons.php">B.Sc. Forensic Science (Hons.)</a></h4>
-          <p>B.Sc. Forensic Science (Hons.) is an advanced undergraduate program that provides an in-depth understanding of scientific techniques.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="bsc-forensic-hons.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="bsc-microbiology-hons.php"><img class="animated" src="assets/uploads/micro.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="bsc-microbiology-hons.php">B.Sc. Microbiology (Hons.)</a></h4>
-          <p>B.Sc. Microbiology (Hons.) is an advanced undergraduate program that offers an in-depth study of microorganisms such as bacteria, viruses.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="bsc-microbiology-hons.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="bsc-biotechnology-hons.php"><img class="animated" src="assets/uploads/biotechnology.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="bsc-biotechnology-hons.php">B.Sc. Biotechnology (Hons.)</a></h4>
-          <p>B.Sc. Biotechnology (Hons.) is an advanced undergraduate program that focuses on the application of biological sciences and technology.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="bsc-biotechnology-hons.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="msc-physics.php"><img class="animated" src="assets/uploads/physics.webp" alt=""></a>
-          <span>Post Graduation Course</span>
-        </div>
-        <div class="course-content">
-          <h4><a href="msc-physics.php">M.Sc. Physics</a></h4>
-          <p>Master of Science (M.Sc.) in Physics is a full time one year/two year programme that typically offers a deep dive into the world of physical sciences.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 2yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="msc-physics.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="msc-chemistry.php"><img class="animated" src="assets/uploads/chemistry.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="msc-chemistry.php">M.Sc. Chemistry</a></h4>
-          <p>Master of Science (M.Sc.) in Chemistry is a full time one year/two year programme that typically offers a deep dive into the world of chemical sciences.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 2yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="msc-chemistry.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="msc-mathematics.php"><img class="animated" src="assets/uploads/bsc-pcm-img1.jpg" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="msc-mathematics.php">M.Sc. Mathematics</a></h4>
-          <p>Master of Science (M.Sc.) in Mathematics is a full time one year/two year programme that typically offers a deep dive into the world of mathematical sciences.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 2yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="msc-mathematics.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="msc-botany.php"><img class="animated" src="assets/uploads/botany-3.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="msc-botany.php">M.Sc. Botany</a></h4>
-          <p>Master of Science (M.Sc.) in Botany is a full time one year/two year programme that typically offers a deep dive into the world of plants, from their anatomy to ecology.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 2yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="msc-botany.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="msc-zoology.php"><img class="animated" src="assets/uploads/zoology.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="msc-zoology.php">M.Sc. Zoology</a></h4>
-          <p>Master of Science (M.Sc.) in Zoology is a full time one year/two year programme that gives a deep insight into the study of animals, their behavior, physiology, ecology, evolution, and conservation. </p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 2yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="msc-zoology.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="msc-forensic-science.php"><img class="animated" src="assets/uploads/forensic-3.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="msc-forensic-science.php">M.Sc. Forensic Science</a></h4>
-          <p>M.Sc. Forensic Science programme is a full-time, one year/two-year postgraduate program.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 2yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="msc-forensic-science.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="msc-microbiology.php"><img class="animated" src="assets/uploads/micro.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="msc-microbiology.php">M.Sc. Microbiology</a></h4>
-          <p>Master of Science in Microbiology is a full time one year/two year programme that typically offers a deep dive into the world of microbes. </p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 2yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="msc-microbiology.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="msc-biotechnology.php"><img class="animated" src="assets/uploads/biotechnology.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="msc-biotechnology.php">M.Sc. Biotechnology</a></h4>
-          <p>The program provides hands-on training in modern biotechnological techniques and prepares students for diverse career opportunities.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 2yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="msc-biotechnology.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="msc-environmental-science.php"><img class="animated" src="assets/uploads/evs-3.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="msc-environmental-science.php">M.Sc. Environmental Science</a></h4>
-          <p>M.Sc. Environmental Science programme is a full-time, one year/two-year postgraduate program dedicated to explore the environment and its diverse elements, encompassing physical, chemical, and biological facets.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 2yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="msc-environmental-science.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="best-university-for-phd-in-dehradun-uttarakhand.php"><img class="animated" src="assets/uploads/phd.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="best-university-for-phd-in-dehradun-uttarakhand.php">PHD Program</a></h4>
-          <p>Ph.D. Programme is a full-time doctoral research programme focused on advanced study and original research, aimed at developing scholarly expertise and contributing meaningful knowledge to the academic and research community.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 2yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="best-university-for-phd-in-dehradun-uttarakhand.php">APPLY NOW</a>
+            <a class="default-btn btn-block" href="best-university-for-phd-in-dehradun-uttarakhand.php">Apply Now</a>
           </div>
         </div>
       </div>
     </div>
+
   </div>
 </div>
-</div>
-</div>
-</div>
+
 
 <!-- global opportunities start  -->
 <section class="global-opportunities  pt-40">
@@ -1031,7 +416,7 @@
           Choosing the right place to pursue your education is a life-changing decision—one that shapes not only your academic journey but also your personal and professional future. At our institution, we go beyond conventional learning by offering an ecosystem of innovation, creativity, and global opportunities.
         </p>
         <p class="text-muted">Our focus is on preparing students to thrive in a fast-evolving world where adaptability, critical thinking, and ethical leadership matter as much as subject expertise. With state-of-the-art infrastructure, hands-on industry exposure, and mentorship from accomplished faculty, we ensure that every learner is equipped to transform ideas into impactful realities.</p>
-        <a href="https://admission.maya.edu.in/" class="btn btn-success btn-lg mt-3">Apply Now →</a>
+        <a href="https://admissions.maya.edu.in" class="btn btn-success btn-lg mt-3">Apply Now →</a>
       </div>
       <div class="col-lg-5 text-center">
         <img src="assets/uploads/computer.jpg"

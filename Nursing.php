@@ -131,89 +131,92 @@ document.addEventListener("DOMContentLoaded", () => {
 </script>
 
 <!-- Courses Section -->
-<div class="course-area bg-img pt-40 ">
-    <div class="container ">
-        <div class="section-title mb-75 course-mrg-small">
-            <h2>Our <span>Programs</span></h2>
-            <p>Comprehensive programs designed to equip students with the knowledge,<br> skills, and confidence for rewarding careers in healthcare.</p>
-        </div>
-        <div class="course-slider-active-3">
-       
-                            <div class="single-course">
-                                <div class="course-img">
-                                    <a href="gnm.php"><img class="animated" src="assets/uploads/gnm.webp" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                <h4><a href="gnm.php">General Nursing and Midwifery (GNM)</a></h4>
-                                    <p>The GNM program is a diploma course for training students in professional nursing and care.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 3yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="gnm.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="single-course">
-                                <div class="course-img">
-                                    <a href="nursing-assistant.php"><img class="animated" src="assets/uploads/na.webp" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                    <h4><a href="nursing-assistant.php">Nursing Assistant</a></h4>
-                                    <p>The Nursing Assistant certificate course is a short-term program aimed at training students in basic patient care. </p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 1.5yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="nursing-assistant.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-            <div class="single-course">
-                                <div class="course-img">
-                                    <a href="bsc-nursing.php"><img class="animated" src="assets/uploads/nursing-1.jpg" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                <h4><a href="bsc-nursing.php">B.Sc Nursing</a></h4>
-                                    <p>The B.Sc. Nursing program is a four-year degree course for training students in professional nursing care skills.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 4yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="bsc-nursing.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-        </div>
+<div class="course-area bg-light pt-60 pb-60">
+  <div class="container">
+
+    <!-- ================= DIPLOMA / CERTIFICATE PROGRAMS ================= -->
+    <div class="section-title text-center mb-50">
+      <h2>Diploma & Certificate <span>Programs</span></h2>
+      <p>Skill-based healthcare programs designed to prepare students for professional patient care roles.</p>
     </div>
+
+    <div class="row">
+
+      <!-- GNM -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="gnm.php">
+              <img src="assets/uploads/gnm.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>General Nursing & Midwifery (GNM)</h4>
+            <p>The GNM program is a diploma course focused on professional nursing care, midwifery, and patient management.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>3 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="gnm.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Nursing Assistant -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="nursing-assistant.php">
+              <img src="assets/uploads/na.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>Nursing Assistant</h4>
+            <p>The Nursing Assistant certificate program trains students in basic patient care and clinical support services.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>1.5 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="nursing-assistant.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ================= UNDERGRADUATE PROGRAMS ================= -->
+    <div class="section-title text-center mb-50 mt-40">
+      <h2>Undergraduate <span>Programs</span></h2>
+      <p>Comprehensive degree programs designed for professional nursing and healthcare careers.</p>
+    </div>
+
+    <div class="row">
+
+      <!-- B.Sc Nursing -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="bsc-nursing.php">
+              <img src="assets/uploads/nursing-1.jpg" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>B.Sc. Nursing</h4>
+            <p>The B.Sc. Nursing program is a four-year undergraduate degree focused on professional nursing care and clinical excellence.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>4 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="bsc-nursing.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
 </div>
+
  
 <!-- clubs section -->
 <section class="clubs-section py-5">
@@ -395,7 +398,7 @@ document.addEventListener("DOMContentLoaded", () => {
         Choosing the right place to pursue your education is a life-changing decision—one that shapes not just your academic journey but also your personal and professional future. At the School of Computer Applications, Maya Devi University, we go beyond conventional learning by offering an ecosystem of innovation, creativity, and global opportunities.
         </p>
         <p class="text-muted">Our focus is on preparing students to thrive in a fast-evolving digital world where adaptability, critical thinking, and ethical leadership matter as much as technical expertise. With state-of-the-art infrastructure, hands-on industry exposure, and mentorship from accomplished faculty, we ensure that every learner is equipped to transform ideas into impactful realities.</p>
-        <a href="https://admission.maya.edu.in/" class="btn btn-success btn-lg mt-3">Apply Now →</a>
+        <a href="https://admissions.maya.edu.in" class="btn btn-success btn-lg mt-3">Apply Now →</a>
       </div>
       <div class="col-lg-5 text-center">
         <img src="assets/uploads/computer.jpg" 

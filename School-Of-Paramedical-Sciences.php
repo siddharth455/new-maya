@@ -133,139 +133,132 @@
 </script>
 
 <!-- Courses Section -->
-<div class="course-area bg-img pt-40">
+<div class="course-area bg-light pt-60 pb-60">
   <div class="container">
-    <div class="section-title mb-75 course-mrg-small">
-      <h2>Our <span>Programs</span></h2>
-      <p>We offer diverse, industry-focused courses that combine knowledge and <br>
-practical skills to prepare students for future success.</p>
+
+    <!-- ================= DIPLOMA PROGRAMS ================= -->
+    <div class="section-title text-center mb-50">
+      <h2>Diploma <span>Programs</span></h2>
+      <p>Skill-oriented diploma programs designed for clinical and diagnostic healthcare roles.</p>
     </div>
-    <div class="course-slider-active-3">
-       <div class="single-course">
-        <div class="course-img">
-          <a href="dialysis-technology.php"><img class="animated" src="assets/uploads/dialysis.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="dialysis-technology.php">Diploma in Dialysis Technology</a></h4>
-          <p>The Diploma in Dialysis program is a two-year course focusing on human anatomy, dialysis technology, patient care, and clinical procedures.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 2yrs</span>
-            </div>
+
+    <div class="row">
+
+      <!-- Diploma in Dialysis Technology -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="dialysis-technology.php">
+              <img src="assets/uploads/dialysis.webp" alt="">
+            </a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="dialysis-technology.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>Diploma in Dialysis Technology</h4>
+            <p>Focuses on human anatomy, dialysis procedures, patient care, and clinical practices.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>2 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="dialysis-technology.php">Apply Now</a>
           </div>
         </div>
       </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="bpt.php"><img class="animated" src="assets/uploads/bpt.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="bpt.php">Bachelor of Physiotherapy (BPT)</a></h4>
-          <p>The BPT (Bachelor of Physiotherapy) program is a four-year course focusing on human anatomy, physiotherapy techniques, rehabilitation, and clinical skills.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 4yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="bpt.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="bmlt.php"><img class="animated" src="assets/uploads/bmlt.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="bmlt.php">Bachelor of Medical Laboratory Technology
-            </a></h4>
-          <p>The BMLT program is a three-year course designed to train students in laboratory techniques, diagnostic testing, and clinical healthcare skills.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="bmlt.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="bmrit.php"><img class="animated" src="assets/uploads/bmrit.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="bmrit.php">Bachelor of Medical Radiology & Imaging Technology</a></h4>
-          <p>The BMRIT program is a four-year course focusing on medical imaging, radiology techniques, and diagnostic technology skills.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 4yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="bmrit.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="bott.php"><img class="animated" src="assets/uploads/bott.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="bott.php">Bachelor of Operation Theatre Technology</a></h4>
-          <p>The BOTT program is a three-year course focusing on surgical procedures, operation theatre management, and patient care techniques.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="bott.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-     
+
     </div>
+
+    <!-- ================= UNDERGRADUATE PROGRAMS ================= -->
+    <div class="section-title text-center mb-50 mt-40">
+      <h2>Undergraduate <span>Programs</span></h2>
+      <p>Comprehensive undergraduate healthcare programs focused on clinical excellence and patient care.</p>
+    </div>
+
+    <div class="row">
+
+      <!-- BPT -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="bpt.php">
+              <img src="assets/uploads/bpt.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>Bachelor of Physiotherapy (BPT)</h4>
+            <p>Focuses on physiotherapy techniques, rehabilitation, anatomy, and clinical practice.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>4 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="bpt.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- BMLT -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="bmlt.php">
+              <img src="assets/uploads/bmlt.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>Bachelor of Medical Laboratory Technology</h4>
+            <p>Trains students in laboratory diagnostics, testing procedures, and clinical healthcare skills.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>3 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="bmlt.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- BMRIT -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="bmrit.php">
+              <img src="assets/uploads/bmrit.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>Bachelor of Medical Radiology & Imaging Technology</h4>
+            <p>Focuses on radiology techniques, medical imaging, and diagnostic technology.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>4 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="bmrit.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- BOTT -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="bott.php">
+              <img src="assets/uploads/bott.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>Bachelor of Operation Theatre Technology</h4>
+            <p>Trains students in surgical assistance, OT management, and patient care procedures.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>3 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="bott.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
   </div>
 </div>
+
 
 <!-- clubs section -->
 <section class="clubs-section py-5">
@@ -424,7 +417,7 @@ practical skills to prepare students for future success.</p>
           Choosing the right place to pursue your education is a life-changing decision—one that shapes not just your academic journey but also your personal and professional future. At the School of Computer Applications, Maya Devi University, we go beyond conventional learning by offering an ecosystem of innovation, creativity, and global opportunities.
         </p>
         <p class="text-muted">Our focus is on preparing students to thrive in a fast-evolving digital world where adaptability, critical thinking, and ethical leadership matter as much as technical expertise. With state-of-the-art infrastructure, hands-on industry exposure, and mentorship from accomplished faculty, we ensure that every learner is equipped to transform ideas into impactful realities.</p>
-        <a href="https://admission.maya.edu.in/" class="btn btn-success btn-lg mt-3">Apply Now →</a>
+        <a href="https://admissions.maya.edu.in" class="btn btn-success btn-lg mt-3">Apply Now →</a>
       </div>
       <div class="col-lg-5 text-center">
         <img src="assets/uploads/computer.jpg"

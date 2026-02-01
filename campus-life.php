@@ -388,7 +388,7 @@
     <div class="container">
         <h2 class="fw-bold text-white">Ready to Experience Our Campus?</h2>
         <p class="lead mb-4 text-white">Visit us and explore the energy, culture, and opportunities waiting for you.</p>
-        <a href="https://admission.maya.edu.in/" class="btn btn-light btn-lg fw-bold">Contact Admissions</a>
+        <a href="https://admissions.maya.edu.in" class="btn btn-light btn-lg fw-bold">Contact Admissions</a>
     </div>
 </section>
 

@@ -133,377 +133,246 @@
 </script>
 
 <!-- Courses Section -->
-<div class="course-area bg-img pt-40">
+<div class="course-area bg-light pt-60 pb-60">
   <div class="container">
-    <div class="section-title mb-75 course-mrg-small">
-      <h2>Our <span>Programs</span></h2>
-      <p>We offer diverse, industry-focused courses that combine knowledge and <br>
-        practical skills to prepare students for future success.</p>
+
+    <!-- ================= UNDERGRADUATE B.VOC PROGRAMS ================= -->
+    <div class="section-title text-center mb-50">
+      <h2>B.Voc <span>Programs</span></h2>
+      <p>Skill-oriented undergraduate programs designed to enhance employability and industry readiness.</p>
     </div>
-    <div class="course-slider-active-3">
-      <div class="single-course">
-        <div class="course-img">
-          <a href="b.voc-agriculture.php"><img class="animated" src="assets/uploads/agri.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="b.voc-agriculture.php">B.Voc Agriculture</a></h4>
-          <p>The Agriculture program is designed to equip students with practical skills in modern agricultural practices, sustainable farming, and agri-business.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
+
+    <div class="row">
+
+      <!-- B.Voc Agriculture -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="b.voc-agriculture.php"><img src="assets/uploads/agri.webp" alt=""></a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="b.voc-agriculture.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>B.Voc Agriculture</h4>
+            <p>Practical training in modern agriculture, sustainable farming, and agri-business.</p>
+            <div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div>
+            <a class="default-btn btn-block" href="b.voc-agriculture.php">Apply Now</a>
           </div>
         </div>
       </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="b.voc-aviation.php"><img class="animated" src="assets/uploads/aviation.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="b.voc-aviation.php">B.Voc Aviation</a></h4>
-          <p>The Aviation program prepares students for dynamic careers in the airline and airport industry.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
+
+      <!-- B.Voc Aviation -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="b.voc-aviation.php"><img src="assets/uploads/aviation.webp" alt=""></a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="b.voc-aviation.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>B.Voc Aviation</h4>
+            <p>Prepares students for careers in airline, airport, and aviation services.</p>
+            <div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div>
+            <a class="default-btn btn-block" href="b.voc-aviation.php">Apply Now</a>
           </div>
         </div>
       </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="b.voc-food-production.php"><img class="animated" src="assets/uploads/food-production.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="b.voc-food-production.php">B.Voc Food Production</a></h4>
-          <p>The Food Production program trains students in the art and science of culinary preparation, kitchen operations, and food safety management.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
+
+      <!-- B.Voc Food Production -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="b.voc-food-production.php"><img src="assets/uploads/food-production.webp" alt=""></a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="b.voc-food-production.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>B.Voc Food Production</h4>
+            <p>Training in culinary preparation, kitchen operations, and food safety.</p>
+            <div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div>
+            <a class="default-btn btn-block" href="b.voc-food-production.php">Apply Now</a>
           </div>
         </div>
       </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="b.voc-welding.php"><img class="animated" src="assets/uploads/welding.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="b.voc-welding.php">B.Voc Welding</a></h4>
-          <p>The Welding program offers comprehensive training in various welding techniques, fabrication processes, and industrial safety standards.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
+
+      <!-- B.Voc Welding -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="b.voc-welding.php"><img src="assets/uploads/welding.webp" alt=""></a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="b.voc-welding.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>B.Voc Welding</h4>
+            <p>Hands-on training in welding techniques, fabrication, and safety standards.</p>
+            <div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div>
+            <a class="default-btn btn-block" href="b.voc-welding.php">Apply Now</a>
           </div>
         </div>
       </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="b.voc-sales-marketing.php"><img class="animated" src="assets/uploads/sales.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="b.voc-sales-marketing.php">B.Voc Sales & Marketing</a></h4>
-          <p>It focuses on branding, customer engagement, market analysis, and the use of digital tools for promotion.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
+
+      <!-- B.Voc Sales & Marketing -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="b.voc-sales-marketing.php"><img src="assets/uploads/sales.webp" alt=""></a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="b.voc-sales-marketing.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>B.Voc Sales & Marketing</h4>
+            <p>Focus on branding, customer engagement, market analysis, and digital tools.</p>
+            <div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div>
+            <a class="default-btn btn-block" href="b.voc-sales-marketing.php">Apply Now</a>
           </div>
         </div>
       </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="b.voc-pharma-assistance.php"><img class="animated" src="assets/uploads/pharmacy.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="b.voc-pharma-assistance.php">B.Voc Pharma Assistance</a></h4>
-          <p>It is designed to provide a strong foundation in pharmacology, medical terminology, and healthcare ethics.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
+
+      <!-- B.Voc Pharma Assistance -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="b.voc-pharma-assistance.php"><img src="assets/uploads/pharmacy.webp" alt=""></a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="b.voc-pharma-assistance.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>B.Voc Pharma Assistance</h4>
+            <p>Foundation in pharmacology, medical terminology, and healthcare ethics.</p>
+            <div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div>
+            <a class="default-btn btn-block" href="b.voc-pharma-assistance.php">Apply Now</a>
           </div>
         </div>
       </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="b.voc-bakery-pastry.php"><img class="animated" src="assets/uploads/bakery.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="b.voc-bakery-pastry.php">B.Voc Bakery & Pastry Arts</a></h4>
-          <p>The curriculum includes hands-on training in artisan breads, cakes, pastries, and desserts, with a focus on hygiene, nutrition, and cost control.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
+
+      <!-- B.Voc Bakery & Pastry -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="b.voc-bakery-pastry.php"><img src="assets/uploads/bakery.webp" alt=""></a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="b.voc-bakery-pastry.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>B.Voc Bakery & Pastry Arts</h4>
+            <p>Hands-on training in breads, pastries, desserts, hygiene, and cost control.</p>
+            <div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div>
+            <a class="default-btn btn-block" href="b.voc-bakery-pastry.php">Apply Now</a>
           </div>
         </div>
       </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="b.voc-aiml-data-analysis.php"><img class="animated" src="assets/uploads/data-science.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="b.voc-aiml-data-analysis.php">B.Voc AIML & Data Analysis</a></h4>
-          <p>The AIML & Data Analysis program introduces students to the world of artificial intelligence, machine learning, and data science.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
+
+      <!-- B.Voc AIML -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="b.voc-aiml-data-analysis.php"><img src="assets/uploads/data-science.webp" alt=""></a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="b.voc-aiml-data-analysis.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>B.Voc AIML & Data Analysis</h4>
+            <p>Introduction to artificial intelligence, machine learning, and data science.</p>
+            <div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div>
+            <a class="default-btn btn-block" href="b.voc-aiml-data-analysis.php">Apply Now</a>
           </div>
         </div>
       </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="b.voc-computer-technology.php"><img class="animated" src="assets/uploads/computer.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="b.voc-computer-technology.php">B.Voc Computer Technology</a></h4>
-          <p>The Computer Technology program provides foundational and advanced knowledge in computing systems, software development, and IT infrastructure.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
+
+      <!-- B.Voc Computer Technology -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="b.voc-computer-technology.php"><img src="assets/uploads/computer.webp" alt=""></a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="b.voc-computer-technology.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>B.Voc Computer Technology</h4>
+            <p>Training in computing systems, software development, and IT infrastructure.</p>
+            <div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div>
+            <a class="default-btn btn-block" href="b.voc-computer-technology.php">Apply Now</a>
           </div>
         </div>
       </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="b.voc-mass-media-production.php"><img class="animated" src="assets/uploads/media.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="b.voc-mass-media-production.php">B.Voc Mass Media & Production</a></h4>
-          <p>The Mass Media & Production program trains students in journalism, broadcasting, and digital content creation. It covers media ethics, storytelling, video editing, and production techniques.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
+
+      <!-- B.Voc Mass Media -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="b.voc-mass-media-production.php"><img src="assets/uploads/media.webp" alt=""></a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="b.voc-mass-media-production.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>B.Voc Mass Media & Production</h4>
+            <p>Training in journalism, broadcasting, digital storytelling, and media production.</p>
+            <div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div>
+            <a class="default-btn btn-block" href="b.voc-mass-media-production.php">Apply Now</a>
           </div>
         </div>
       </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="b.voc-finance-taxation-accounting.php"><img class="animated" src="assets/uploads/tax.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="b.voc-finance-taxation-accounting.php">B.Voc Finance, Taxation & Accounting</a></h4>
-          <p>The Finance, Taxation & Accounting program equips students with skills in financial reporting, tax compliance, and accounting software.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
+
+      <!-- B.Voc Finance -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="b.voc-finance-taxation-accounting.php"><img src="assets/uploads/tax.webp" alt=""></a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="b.voc-finance-taxation-accounting.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>B.Voc Finance, Taxation & Accounting</h4>
+            <p>Skills in financial reporting, taxation compliance, and accounting software.</p>
+            <div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div>
+            <a class="default-btn btn-block" href="b.voc-finance-taxation-accounting.php">Apply Now</a>
           </div>
         </div>
       </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="b.voc-ecommerce-digital-marketing.php"><img class="animated" src="assets/uploads/digital.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="b.voc-ecommerce-digital-marketing.php">B.Voc E-commerce & Digital Marketing</a></h4>
-          <p>The E-commerce & Digital Marketing program focuses on online business models, digital advertising, and consumer analytics.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
+
+      <!-- B.Voc E-commerce -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="b.voc-ecommerce-digital-marketing.php"><img src="assets/uploads/digital.webp" alt=""></a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="b.voc-ecommerce-digital-marketing.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>B.Voc E-commerce & Digital Marketing</h4>
+            <p>Focus on online business models, digital advertising, and analytics.</p>
+            <div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div>
+            <a class="default-btn btn-block" href="b.voc-ecommerce-digital-marketing.php">Apply Now</a>
           </div>
         </div>
       </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="b.voc-hotel-hospitality.php"><img class="animated" src="assets/uploads/hotel.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="b.voc-hotel-hospitality.php">B.Voc Hotel & Hospitality Management</a></h4>
-          <p>The Hotel & Hospitality Management program trains students in hotel operations, guest services, and hospitality standards.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
+
+      <!-- B.Voc Hotel -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="b.voc-hotel-hospitality.php"><img src="assets/uploads/hotel.webp" alt=""></a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="b.voc-hotel-hospitality.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>B.Voc Hotel & Hospitality Management</h4>
+            <p>Training in hotel operations, guest services, and hospitality standards.</p>
+            <div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div>
+            <a class="default-btn btn-block" href="b.voc-hotel-hospitality.php">Apply Now</a>
           </div>
         </div>
       </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="b.voc-patient-healthcare.php"><img class="animated" src="assets/uploads/patient.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="b.voc-patient-healthcare.php">B.Voc Patient & Health Care Management</a></h4>
-          <p>The Patient & Health Care Management program prepares students for administrative and support roles in healthcare settings.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
+
+      <!-- B.Voc Patient Care -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="b.voc-patient-healthcare.php"><img src="assets/uploads/patient.webp" alt=""></a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="b.voc-patient-healthcare.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>B.Voc Patient & Health Care Management</h4>
+            <p>Prepares students for administrative and support roles in healthcare.</p>
+            <div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div>
+            <a class="default-btn btn-block" href="b.voc-patient-healthcare.php">Apply Now</a>
           </div>
         </div>
       </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="b.voc-food-processing-nutrition.php"><img class="animated" src="assets/uploads/food-1.png" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="b.voc-food-processing-nutrition.php">B.Voc Food Processing & Nutrition Management</a></h4>
-          <p>The Food Processing & Nutrition Management program focuses on food preservation, quality control, and dietary planning.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
+
+      <!-- B.Voc Food Processing -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="b.voc-food-processing-nutrition.php"><img src="assets/uploads/food-1.png" alt=""></a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="b.voc-food-processing-nutrition.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>B.Voc Food Processing & Nutrition Management</h4>
+            <p>Focus on food preservation, quality control, and nutrition planning.</p>
+            <div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div>
+            <a class="default-btn btn-block" href="b.voc-food-processing-nutrition.php">Apply Now</a>
           </div>
         </div>
       </div>
+
     </div>
   </div>
 </div>
+
 
 <!-- clubs section -->
 <section class="clubs-section py-5">
@@ -666,7 +535,7 @@
           Choosing the right place to pursue your education is a life-changing decision—one that shapes not just your academic journey but also your personal and professional future. At the School of Computer Applications, Maya Devi University, we go beyond conventional learning by offering an ecosystem of innovation, creativity, and global opportunities.
         </p>
         <p class="text-muted">Our focus is on preparing students to thrive in a fast-evolving digital world where adaptability, critical thinking, and ethical leadership matter as much as technical expertise. With state-of-the-art infrastructure, hands-on industry exposure, and mentorship from accomplished faculty, we ensure that every learner is equipped to transform ideas into impactful realities.</p>
-        <a href="https://admission.maya.edu.in/" class="btn btn-success btn-lg mt-3">Apply Now →</a>
+        <a href="https://admissions.maya.edu.in" class="btn btn-success btn-lg mt-3">Apply Now →</a>
       </div>
       <div class="col-lg-5 text-center">
         <img src="assets/uploads/computer.jpg"

@@ -131,42 +131,42 @@ document.addEventListener("DOMContentLoaded", () => {
 </script>
 
 <!-- Courses Section -->
-<div class="course-area bg-img pt-40">
-    <div class="container">
-        <div class="section-title mb-75 course-mrg-small">
-            <h2>Our <span>Programs</span></h2>
-            <p>We offer diverse, industry-focused courses that combine knowledge and <br>
-practical skills to prepare students for future success.</p>
-        </div>
-        <div class="course-slider-active-3">
-        <div class="single-course">
-                                <div class="course-img">
-                                  <a href="Bachelor-Education.php"><img class="animated" src="assets/uploads/education.jpg" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                <h4><a href="Bachelor-Education.php">Bachelor of Education (B.Ed.)</a></h4>
-                                <p>The B.Ed program is a two-year course focusing on teaching skills, pedagogy, and practical classroom management techniques.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 2yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="Bachelor-Education.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-           
-        </div>
+<div class="course-area bg-light pt-60 pb-60">
+  <div class="container">
+
+    <!-- ================= UNDERGRADUATE PROGRAMS ================= -->
+    <div class="section-title text-center mb-50">
+      <h2>Undergraduate <span>Programs</span></h2>
+      <p>Professional undergraduate programs designed to build strong academic and practical foundations.</p>
     </div>
+
+    <div class="row">
+
+      <!-- Bachelor of Education -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="Bachelor-Education.php">
+              <img src="assets/uploads/education.jpg" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>Bachelor of Education (B.Ed.)</h4>
+            <p>The B.Ed. program is a two-year course focusing on teaching skills, pedagogy, and practical classroom management techniques.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>2 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="Bachelor-Education.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
 </div>
+
   
   <!-- Why Choose Us -->
   <section class="why-choose-us py-5">
@@ -180,7 +180,7 @@ practical skills to prepare students for future success.</p>
         Choosing the right place to pursue your education is a life-changing decision—one that shapes not just your academic journey but also your personal and professional future. At the School of Computer Applications, Maya Devi University, we go beyond conventional learning by offering an ecosystem of innovation, creativity, and global opportunities.
         </p>
         <p class="text-muted">Our focus is on preparing students to thrive in a fast-evolving digital world where adaptability, critical thinking, and ethical leadership matter as much as technical expertise. With state-of-the-art infrastructure, hands-on industry exposure, and mentorship from accomplished faculty, we ensure that every learner is equipped to transform ideas into impactful realities.</p>
-        <a href="https://admission.maya.edu.in/" class="btn btn-success btn-lg mt-3">Apply Now →</a>
+        <a href="https://admissions.maya.edu.in" class="btn btn-success btn-lg mt-3">Apply Now →</a>
       </div>
       <div class="col-lg-5 text-center">
         <img src="assets/uploads/computer.jpg" 

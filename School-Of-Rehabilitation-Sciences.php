@@ -35,188 +35,182 @@
 </section>
 
 <!-- Courses Section -->
-<div class="course-area bg-img pt-40">
+<div class="course-area bg-light pt-60 pb-60">
   <div class="container">
-    <div class="section-title mb-75 course-mrg-small">
-      <h2>Our <span>Programs</span></h2>
-      <p>We offer diverse, industry-focused courses that combine knowledge and <br>
-        practical skills to prepare students for future success.</p>
+
+    <!-- ================= DIPLOMA PROGRAMS ================= -->
+    <div class="section-title text-center mb-50">
+      <h2>Diploma <span>Programs</span></h2>
+      <p>Specialized diploma programs in rehabilitation, therapy, and special education.</p>
     </div>
-    <div class="course-slider-active-3">
-      <div class="single-course">
-        <div class="course-img">
-          <a href="early-child-special-edu.php"><img class="animated" src="assets/uploads/maya_devi_img_bnr.jpeg" alt=""></a>
-          <span>Diploma Programs</span>
-        </div>
-        <div class="course-content">
-          <h4><a href="early-child-special-edu.php">Early Child Special Edu. (Hearing Impairment)</a></h4>
-          <p>The Diploma in Early Child Special Education (Hearing Impairment) is a specialized program designed to prepare professionals to support and educate young children with hearing impairment during their early developmental years.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 4yrs</span>
-            </div>
+
+    <div class="row">
+
+      <!-- Early Child Special Education -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="early-child-special-edu.php">
+              <img src="assets/uploads/maya_devi_img_bnr.jpeg" alt="">
+            </a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="early-child-special-edu.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>Early Child Special Edu. (Hearing Impairment)</h4>
+            <p>Prepares professionals to support young children with hearing impairment during early development.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>4 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="early-child-special-edu.php">Apply Now</a>
           </div>
         </div>
       </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="early-rehabilitation-therapy.php"><img class="animated" src="assets/uploads/maya_devi_img_bnr.jpeg" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="early-rehabilitation-therapy.php">Early Rehabilitation Therapy Rehabilitation (Mental Retardation)</a></h4>
-          <p>Diploma in Rehabilitation Therapy is a recognized paramedical/rehabilitation-level diploma course designed to train competent rehabilitation-therapy assistants/technicians.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 4yrs</span>
-            </div>
+
+      <!-- Early Rehabilitation Therapy -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="early-rehabilitation-therapy.php">
+              <img src="assets/uploads/maya_devi_img_bnr.jpeg" alt="">
+            </a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="early-rehabilitation-therapy.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>Early Rehabilitation Therapy (Mental Retardation)</h4>
+            <p>Trains rehabilitation therapy assistants for mental and developmental disabilities.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>4 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="early-rehabilitation-therapy.php">Apply Now</a>
           </div>
         </div>
       </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="prosthetics-orthotics.php"><img class="animated" src="assets/uploads/maya_devi_img_bnr.jpeg" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="prosthetics-orthotics.php">Prosthetics and Orthotics</a></h4>
-          <p>The Diploma in Prosthetics and Orthotics is typically a 2-year full-time program designed as per Rehabilitation Council of India (RCI) guidelines.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 4yrs</span>
-            </div>
+
+      <!-- Prosthetics & Orthotics -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="prosthetics-orthotics.php">
+              <img src="assets/uploads/maya_devi_img_bnr.jpeg" alt="">
+            </a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="prosthetics-orthotics.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>Prosthetics and Orthotics</h4>
+            <p>RCI-guided diploma focusing on prosthetic and orthotic device development.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>4 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="prosthetics-orthotics.php">Apply Now</a>
           </div>
         </div>
       </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="hearing-language-speech.php"><img class="animated" src="assets/uploads/maya_devi_img_bnr.jpeg" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="hearing-language-speech.php">Hearing Language and Speech</a></h4>
-          <p>The DHLS program is usually a 1-year full-time diploma, structured as per the guidelines of the Rehabilitation Council of India (RCI).</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 4yrs</span>
-            </div>
+
+      <!-- Hearing Language & Speech -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="hearing-language-speech.php">
+              <img src="assets/uploads/maya_devi_img_bnr.jpeg" alt="">
+            </a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="hearing-language-speech.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>Hearing Language and Speech</h4>
+            <p>RCI-based diploma focused on speech, hearing, and language development.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>4 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="hearing-language-speech.php">Apply Now</a>
           </div>
         </div>
       </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="indian-sign-language.php"><img class="animated" src="assets/uploads/maya_devi_img_bnr.jpeg" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="indian-sign-language.php">Indian Sign Language</a></h4>
-          <p>The Diploma in Indian Sign Language is typically a 1-year full-time program designed according to standards recommended by deaf education and rehabilitation bodies.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 4yrs</span>
-            </div>
+
+      <!-- Indian Sign Language -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="indian-sign-language.php">
+              <img src="assets/uploads/maya_devi_img_bnr.jpeg" alt="">
+            </a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="indian-sign-language.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>Indian Sign Language</h4>
+            <p>Training program designed to promote effective communication with the deaf community.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>4 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="indian-sign-language.php">Apply Now</a>
           </div>
         </div>
       </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="clinical-psychology.php"><img class="animated" src="assets/uploads/maya_devi_img_bnr.jpeg" alt=""></a>
-          <span>Undergraduate Programs</span>
-        </div>
-        <div class="course-content">
-          <h4><a href="clinical-psychology.php">B.Sc. Clinical Psychology (Hons.)</a></h4>
-          <p>B.Sc. in Clinical Psychology (Hons.) is an undergraduate degree program that focuses on understanding human behavior, mental processes, emotional development, and psychological disorders.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 4yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="clinical-psychology.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="care-giving.php"><img class="animated" src="assets/uploads/maya_devi_img_bnr.jpeg" alt=""></a>
-          <span>Certificate Programs</span>
-        </div>
-        <div class="course-content">
-          <h4><a href="care-giving.php">Certificate Course in Care Giving</a></h4>
-          <p>The Certificate Course in Care Giving is typically a 3–6 month practical-oriented program designed to prepare candidates for hands-on caregiving responsibilities.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 4yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="care-giving.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
+
     </div>
+
+    <!-- ================= UNDERGRADUATE PROGRAM ================= -->
+    <div class="section-title text-center mb-50 mt-40">
+      <h2>Undergraduate <span>Program</span></h2>
+      <p>Degree program focused on psychological sciences and mental health.</p>
+    </div>
+
+    <div class="row">
+
+      <!-- B.Sc Clinical Psychology -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="clinical-psychology.php">
+              <img src="assets/uploads/maya_devi_img_bnr.jpeg" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>B.Sc. Clinical Psychology (Hons.)</h4>
+            <p>Focuses on human behavior, emotional development, and psychological disorders.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>4 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="clinical-psychology.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ================= CERTIFICATE PROGRAM ================= -->
+    <div class="section-title text-center mb-50 mt-40">
+      <h2>Certificate <span>Program</span></h2>
+      <p>Short-term skill-based programs for immediate employability.</p>
+    </div>
+
+    <div class="row">
+
+      <!-- Care Giving -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="care-giving.php">
+              <img src="assets/uploads/maya_devi_img_bnr.jpeg" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>Certificate Course in Care Giving</h4>
+            <p>Practical-oriented program preparing students for hands-on caregiving roles.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>Short Term</span>
+            </div>
+            <a class="default-btn btn-block" href="care-giving.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
   </div>
 </div>
+
 
 <!-- clubs section -->
 <section class="clubs-section py-5">
@@ -387,7 +381,7 @@
           Choosing the right place to pursue your education is a life-changing decision—one that shapes not just your academic journey but also your personal and professional future. At the School of Computer Applications, Maya Devi University, we go beyond conventional learning by offering an ecosystem of innovation, creativity, and global opportunities.
         </p>
         <p class="text-muted">Our focus is on preparing students to thrive in a fast-evolving digital world where adaptability, critical thinking, and ethical leadership matter as much as technical expertise. With state-of-the-art infrastructure, hands-on industry exposure, and mentorship from accomplished faculty, we ensure that every learner is equipped to transform ideas into impactful realities.</p>
-        <a href="https://admission.maya.edu.in/" class="btn btn-success btn-lg mt-3">Apply Now →</a>
+        <a href="https://admissions.maya.edu.in" class="btn btn-success btn-lg mt-3">Apply Now →</a>
       </div>
       <div class="col-lg-5 text-center">
         <img src="assets/uploads/computer.jpg"

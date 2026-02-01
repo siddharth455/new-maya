@@ -4,7 +4,7 @@
   <div class="hero-content">
     <h3 class="display-5 fw-bold text-white">School of Arts and Humanities</h3>
     <p class="lead text-white">Shaping Tomorrow's Leaders at Maya Devi University</p>
-    <a href="https://admission.maya.edu.in/" class="btn btn-primary">Apply Now</a>
+    <a href="https://admissions.maya.edu.in" class="btn btn-primary">Apply Now</a>
   </div>
 </section>
 
@@ -135,497 +135,384 @@
 </script>
 
 <!-- Courses Section -->
-<div class="course-area bg-img pt-40">
+<div class="course-area bg-light pt-60 pb-60">
   <div class="container">
-    <div class="section-title mb-75 course-mrg-small">
-      <h2>Our <span>Programs</span></h2>
-      <p>We offer diverse, industry-focused courses that combine knowledge and <br>
-        practical skills to prepare students for future success.</p>
+
+    <!-- ================= UNDERGRADUATE PROGRAMS ================= -->
+    <div class="section-title text-center mb-50">
+      <h2>Undergraduate <span>Programs</span></h2>
+      <p>Comprehensive undergraduate programs in arts, humanities, and social sciences.</p>
     </div>
-    <div class="course-slider-active-3">
-      <div class="single-course">
-        <div class="course-img">
-          <a href="ba-psychology.php"><img class="animated" src="assets/uploads/ba-1.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="ba-psychology.php">BA Psychology</a></h4>
-          <p>The Psychology program is designed to equip students with practical skills in understanding mental health, assessing psychological issues, and applying therapeutic techniques to support emotional well-being.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
+
+    <div class="row">
+
+      <!-- BA Psychology -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="ba-psychology.php"><img src="assets/uploads/ba-1.webp" alt=""></a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="ba-psychology.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>BA Psychology</h4>
+            <p>Develops skills in mental health understanding, assessment, and emotional well-being support.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span><span>3 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="ba-psychology.php">Apply Now</a>
           </div>
         </div>
       </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="ba-clinical-psychology.php"><img class="animated" src="assets/uploads/ba-2.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="ba-clinical-psychology.php">BA Clinical Psychology</a></h4>
-          <p>The Clinical Psychology program is designed to equip students with practical skills in understanding mental health, assessing psychological issues, and applying therapeutic techniques to support emotional well-being.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
+
+      <!-- BA Clinical Psychology -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="ba-clinical-psychology.php"><img src="assets/uploads/ba-2.webp" alt=""></a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="ba-clinical-psychology.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>BA Clinical Psychology</h4>
+            <p>Focuses on mental health assessment and therapeutic techniques.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span><span>3 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="ba-clinical-psychology.php">Apply Now</a>
           </div>
         </div>
       </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="ba-hindi-literature.php"><img class="animated" src="assets/uploads/ba-3.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="ba-hindi-literature.php">BA Hindi Literature</a></h4>
-          <p>The Hindi Literature program prepares students for diverse careers in education, media, writing, and cultural fields.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
+
+      <!-- BA Hindi Literature -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="ba-hindi-literature.php"><img src="assets/uploads/ba-3.webp" alt=""></a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="ba-hindi-literature.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>BA Hindi Literature</h4>
+            <p>Prepares students for careers in education, writing, and cultural studies.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span><span>3 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="ba-hindi-literature.php">Apply Now</a>
           </div>
         </div>
       </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="ba-sociology.php"><img class="animated" src="assets/uploads/ba-4.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="ba-sociology.php">BA Sociology</a></h4>
-          <p>The Sociology program trains students to understand social structures, cultural patterns, and community dynamics, preparing them to address real-world social issues through research and analysis.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
+
+      <!-- BA Sociology -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="ba-sociology.php"><img src="assets/uploads/ba-4.webp" alt=""></a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="ba-sociology.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>BA Sociology</h4>
+            <p>Analyzes social structures, culture, and community dynamics.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span><span>3 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="ba-sociology.php">Apply Now</a>
           </div>
         </div>
       </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="ba-english-literature.php"><img class="animated" src="assets/uploads/ba-3.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="ba-english-literature.php">B.A. English Literature</a></h4>
-          <p>The School of Arts and Humanities at Maya Devi University offers a three-year full-time B.A. in English Literature, divided into six semesters.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
+
+      <!-- BA English Literature -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="ba-english-literature.php"><img src="assets/uploads/ba-3.webp" alt=""></a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="ba-english-literature.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>BA English Literature</h4>
+            <p>In-depth study of English literature across six semesters.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span><span>3 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="ba-english-literature.php">Apply Now</a>
           </div>
         </div>
       </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="ba-economics.php"><img class="animated" src="assets/uploads/ba-6.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="ba-economics.php">B.A. Economics</a></h4>
-          <p>The School of Arts and Humanities at Maya Devi University offers a three-year full-time B.A. in Economics, divided into six semesters.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
+
+      <!-- BA Economics -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="ba-economics.php"><img src="assets/uploads/ba-6.webp" alt=""></a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="ba-economics.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>BA Economics</h4>
+            <p>Foundations of economic theory and applied economics.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span><span>3 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="ba-economics.php">Apply Now</a>
           </div>
         </div>
       </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="ba-yoga.php"><img class="animated" src="assets/uploads/ba-7.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="ba-yoga.php">B.A. Yoga</a></h4>
-          <p>The School of Arts and Humanities at Maya Devi University offers a three-year full-time B.A. in Yoga, divided into six semesters.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
+
+      <!-- BA Yoga -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="ba-yoga.php"><img src="assets/uploads/ba-7.webp" alt=""></a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="ba-yoga.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>BA Yoga</h4>
+            <p>Combines traditional yoga practices with modern wellness studies.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span><span>3 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="ba-yoga.php">Apply Now</a>
           </div>
         </div>
       </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="ba-geography.php"><img class="animated" src="assets/uploads/ba-9.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="ba-geography.php">B.A. Geography</a></h4>
-          <p>The School of Arts and Humanities at Maya Devi University offers a three-year full-time B.A. in Geography, divided into six semesters.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
+
+      <!-- BA Geography -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="ba-geography.php"><img src="assets/uploads/ba-9.webp" alt=""></a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="ba-geography.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>BA Geography</h4>
+            <p>Study of physical, human, and environmental geography.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span><span>3 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="ba-geography.php">Apply Now</a>
           </div>
         </div>
       </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="ba-journalism-and-mass-communication.php"><img class="animated" src="assets/uploads/ba-12.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="ba-journalism-and-mass-communication.php">B.A. Journalism and Mass Communication</a></h4>
-          <p>The School of Arts and Humanities at Maya Devi University offers a three-year full-time B.A. in Journalism and Mass Communication, divided into six semesters.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
+
+      <!-- BA Journalism -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="ba-journalism-and-mass-communication.php"><img src="assets/uploads/ba-12.webp" alt=""></a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="ba-journalism-and-mass-communication.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>BA Journalism & Mass Communication</h4>
+            <p>Professional training in media, journalism, and communication.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span><span>3 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="ba-journalism-and-mass-communication.php">Apply Now</a>
           </div>
         </div>
       </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="ba-fine-arts.php"><img class="animated" src="assets/uploads/ba-10.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="ba-fine-arts.php">B.A. Fine Arts</a></h4>
-          <p>The School of Arts and Humanities at Maya Devi University offers a three-year full-time B.A. in Fine Arts, divided into six semesters.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
+
+      <!-- BA Fine Arts -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="ba-fine-arts.php"><img src="assets/uploads/ba-10.webp" alt=""></a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="ba-fine-arts.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>BA Fine Arts</h4>
+            <p>Creative education in visual and applied arts.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span><span>3 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="ba-fine-arts.php">Apply Now</a>
           </div>
         </div>
       </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="ba-mathematics.php"><img class="animated" src="assets/uploads/ba-11.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="ba-mathematics.php">B.A. Maths</a></h4>
-          <p>The School of Arts and Humanities at Maya Devi University offers a three-year full-time B.A. in Maths, divided into six semesters.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
+
+      <!-- BA Maths -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="ba-mathematics.php"><img src="assets/uploads/ba-11.webp" alt=""></a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="ba-mathematics.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>BA Mathematics</h4>
+            <p>Study of mathematical concepts and analytical reasoning.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span><span>3 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="ba-mathematics.php">Apply Now</a>
           </div>
         </div>
       </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="ba-political-science.php"><img class="animated" src="assets/uploads/ba-5.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="ba-political-science.php">B.A. Political Science</a></h4>
-          <p>The School of Arts and Humanities at Maya Devi University offers a three-year full-time B.A. in Political Science, divided into six semesters.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
+
+      <!-- BA Political Science -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="ba-political-science.php"><img src="assets/uploads/ba-5.webp" alt=""></a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="ba-political-science.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>BA Political Science</h4>
+            <p>Study of political systems, governance, and public policy.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span><span>3 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="ba-political-science.php">Apply Now</a>
           </div>
         </div>
       </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="ba-history.php"><img class="animated" src="assets/uploads/ba-8.jpg" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="ba-history.php">B.A. History</a></h4>
-          <p>The School of Arts and Humanities at Maya Devi University offers a three-year full-time B.A. in History, divided into six semesters.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 3yrs</span>
-            </div>
+
+      <!-- BA History -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="ba-history.php"><img src="assets/uploads/ba-8.jpg" alt=""></a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="ba-history.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>BA History</h4>
+            <p>Exploration of historical events, civilizations, and cultures.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span><span>3 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="ba-history.php">Apply Now</a>
           </div>
         </div>
       </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="ma-clinical-psychology.php"><img class="animated" src="assets/uploads/ma-3.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="ma-clinical-psychology.php">MA Clinical Psychology</a></h4>
-          <p>The School of Arts and Humanities at Maya Devi University offers a two Years full-time M.A. in Clinical Psychology, divided into four semesters.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 2yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="ma-clinical-psychology.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="ma-psychology.php"><img class="animated" src="assets/uploads/ma-2.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="ma-psychology.php">MA Psychology</a></h4>
-          <p>The School of Arts and Humanities at Maya Devi University offers a two-year full-time M.A. in Psychology, divided into four semesters.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 2yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="ma-psychology.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="ma-sociology.php"><img class="animated" src="assets/uploads/ma-6.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="ma-sociology.php">MA Sociology</a></h4>
-          <p>The School of Arts and Humanities at Maya Devi University offers a two-year full-time M.A. in Sociology, divided into four semesters.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 2yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="ma-sociology.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-      <div class="single-course">
-        <div class="course-img">
-          <a href="ma-hindi-literature.php"><img class="animated" src="assets/uploads/ma-5.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="ma-hindi-literature.php">MA Hindi Literature</a></h4>
-          <p>The School of Arts and Humanities at Maya Devi University offers a two-year full-time M.A. in Hindi Literature, divided into four semesters.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 2yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="ma-hindi-literature.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-       <div class="single-course">
-        <div class="course-img">
-          <a href="ma-political-science.php"><img class="animated" src="assets/uploads/ma-1.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="ma-political-science.php">MA Political Science</a></h4>
-          <p>The School of Arts and Humanities at Maya Devi University offers a two-year full-time M.A. in Political Science, divided into four semesters.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 2yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="ma-political-science.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-       <div class="single-course">
-        <div class="course-img">
-          <a href="ma-yoga.php"><img class="animated" src="assets/uploads/ba-7.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="ma-yoga.php">MA Yoga</a></h4>
-          <p>The School of Arts and Humanities at Maya Devi University offers a two-year full-time M.A. in Yoga, divided into four semesters.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 2yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="ma-yoga.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-       <div class="single-course">
-        <div class="course-img">
-          <a href="best-university-for-phd-in-dehradun-uttarakhand.php"><img class="animated" src="assets/uploads/phd.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="best-university-for-phd-in-dehradun-uttarakhand.php">PHD Program</a></h4>
-          <p>Ph.D. Programme is a full-time doctoral research programme focused on advanced study and original research, aimed at developing scholarly expertise and contributing meaningful knowledge to the academic and research community.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 2yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="best-university-for-phd-in-dehradun-uttarakhand.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
+
     </div>
+
+    <!-- ================= POSTGRADUATE PROGRAMS ================= -->
+    <div class="section-title text-center mb-50 mt-40">
+      <h2>Postgraduate <span>Programs</span></h2>
+      <p>Advanced postgraduate programs for academic and professional specialization.</p>
+    </div>
+
+    <div class="row">
+
+      <!-- MA Clinical Psychology -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="ma-clinical-psychology.php"><img src="assets/uploads/ma-3.webp" alt=""></a>
+          </div>
+          <div class="course-body">
+            <h4>MA Clinical Psychology</h4>
+            <p>Advanced training in clinical assessment and therapeutic practices.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span><span>2 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="ma-clinical-psychology.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- MA Psychology -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="ma-psychology.php"><img src="assets/uploads/ma-2.webp" alt=""></a>
+          </div>
+          <div class="course-body">
+            <h4>MA Psychology</h4>
+            <p>In-depth study of psychological theories and research methods.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span><span>2 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="ma-psychology.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- MA Sociology -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="ma-sociology.php"><img src="assets/uploads/ma-6.webp" alt=""></a>
+          </div>
+          <div class="course-body">
+            <h4>MA Sociology</h4>
+            <p>Advanced sociological theory and research training.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span><span>2 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="ma-sociology.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- MA Hindi -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="ma-hindi-literature.php"><img src="assets/uploads/ma-5.webp" alt=""></a>
+          </div>
+          <div class="course-body">
+            <h4>MA Hindi Literature</h4>
+            <p>Advanced literary studies and research in Hindi literature.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span><span>2 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="ma-hindi-literature.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- MA Political Science -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="ma-political-science.php"><img src="assets/uploads/ma-1.webp" alt=""></a>
+          </div>
+          <div class="course-body">
+            <h4>MA Political Science</h4>
+            <p>Advanced political theory and governance studies.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span><span>2 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="ma-political-science.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- MA Yoga -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="ma-yoga.php"><img src="assets/uploads/ba-7.webp" alt=""></a>
+          </div>
+          <div class="course-body">
+            <h4>MA Yoga</h4>
+            <p>Advanced yogic studies and wellness education.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span><span>2 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="ma-yoga.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ================= DOCTORAL PROGRAM ================= -->
+    <div class="section-title text-center mb-50 mt-40">
+      <h2>Doctoral <span>Program</span></h2>
+      <p>Research-focused doctoral program for advanced academic contribution.</p>
+    </div>
+
+    <div class="row">
+
+      <!-- PhD -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="best-university-for-phd-in-dehradun-uttarakhand.php">
+              <img src="assets/uploads/phd.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>PhD Program</h4>
+            <p>Doctoral research program focused on original research and academic excellence.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span><span>2 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="best-university-for-phd-in-dehradun-uttarakhand.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
   </div>
 </div>
+
 
 
 <!-- clubs section -->
@@ -770,7 +657,7 @@
           Choosing the right place to pursue your education is a life-changing decision—one that shapes not just your academic journey but also your personal and professional future. At the School of Computer Applications, Maya Devi University, we go beyond conventional learning by offering an ecosystem of innovation, creativity, and global opportunities.
         </p>
         <p class="text-muted">Our focus is on preparing students to thrive in a fast-evolving digital world where adaptability, critical thinking, and ethical leadership matter as much as technical expertise. With state-of-the-art infrastructure, hands-on industry exposure, and mentorship from accomplished faculty, we ensure that every learner is equipped to transform ideas into impactful realities.</p>
-        <a href="https://admission.maya.edu.in/" class="btn btn-success btn-lg mt-3">Apply Now →</a>
+        <a href="https://admissions.maya.edu.in" class="btn btn-success btn-lg mt-3">Apply Now →</a>
       </div>
       <div class="col-lg-5 text-center">
         <img src="assets/uploads/computer.jpg"

@@ -130,186 +130,234 @@ document.addEventListener("DOMContentLoaded", () => {
 </script>
 
 <!-- Courses Section -->
-<div class="course-area bg-img pt-40">
-    <div class="container">
-        <div class="section-title mb-75 course-mrg-small">
-            <h2>Our <span>Programs</span></h2>
-            <p>We offer diverse, industry-focused courses that combine knowledge and<br>
-            practical skills to prepare students for future success.</p>
-        </div>
-        <div class="course-slider-active-3">
-           <div class="single-course">
-                                <div class="course-img">
-                                    <a href="best-d-pharma-college-in-dehradun-uttarakhand.php"><img class="animated" src="assets/uploads/d.pharmacy.jpeg" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                <h4><a href="best-d-pharma-college-in-dehradun-uttarakhand.php">Diploma in Pharmacy</a></h4>
-                                <p>The Diploma in Pharmacy program trains students in pharmaceutical sciences, drug formulation, and practical pharmacy skills.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 2yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="best-d-pharma-college-in-dehradun-uttarakhand.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-        <div class="single-course">
-                                <div class="course-img">
-                                    <a href="best-b-pharma-colleges-in-dehradun-uttarakhand.php"><img class="animated" src="assets/uploads/pharmacy.webp" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                <h4><a href="best-b-pharma-colleges-in-dehradun-uttarakhand.php">Bachelor in pharmacy</a></h4>
-                                <p>The B.Pharm program provides in-depth knowledge of pharmaceutical sciences, drug development, and professional pharmacy practice.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 4yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="best-b-pharma-colleges-in-dehradun-uttarakhand.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="single-course">
-                                <div class="course-img">
-                                    <a href="bachelor-pharmacy-lateral-entry.php"><img class="animated" src="assets/uploads/pharmacy-le.jpg" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                <h4><a href="bachelor-pharmacy-lateral-entry.php">Bachelor of pharmacy (Lateral Entry)</a></h4>
-                                <p>The B.Pharm Lateral Entry program is a three-year course focusing on pharmaceutical sciences, drug development, and pharmacy practice.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 3yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="bachelor-pharmacy-lateral-entry.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-                           
-                            <div class="single-course">
-                                <div class="course-img">
-                                    <a href="master-pharmacy-pharmaceutics.php"><img class="animated" src="assets/uploads/mpharm.jpg" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                <h4><a href="master-pharmacy-pharmaceutics.php">Master in Pharmacy</a></h4>
-                                <p>The M.Pharm program offers advanced training in pharmaceutical sciences and drug development for careers in pharmacy and research.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 2yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="master-pharmacy-pharmaceutics.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="single-course">
-                                <div class="course-img">
-                                    <a href="master-pharmacy-pharmacology.php"><img class="animated" src="assets/uploads/pharma-cology.jpg" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                <h4><a href="master-pharmacy-pharmacology.php">M.pharm - Pharmacology</a></h4>
-                                <p>The M.Pharm in Pharmacology trains students in drug studies, pharmacological research, and clinical evaluation for careers in pharmacy and healthcare.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 2yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="master-pharmacy-pharmacology.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="single-course">
-                                <div class="course-img">
-                                    <a href="master-pharmacy-pharmaceutics-chemistry.php"><img class="animated" src="assets/uploads/pharmacy.webp" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                <h4><a href="master-pharmacy-pharmaceutics-chemistry.php">M.Pharm – Pharmaceutical Chemistry</a></h4>
-                                <p>The M.Pharm in Pharmaceutical Chemistry focuses on the design, synthesis, and analysis of drugs for research and development careers.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 2yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="master-pharmacy-pharmaceutics-chemistry.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="single-course">
-                                <div class="course-img">
-                                    <a href="DoctorPharmacy.php"><img class="animated" src="assets/uploads/pharm-d.webp" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                <h4><a href="DoctorPharmacy.php">Doctor of pharmacy</a></h4>
-                                <p>The Pharm D program focuses on clinical practice and patient care, preparing students for careers in hospitals, healthcare, and clinical research.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 6yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="DoctorPharmacy.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-        </div>
+<div class="course-area bg-light pt-60 pb-60">
+  <div class="container">
+
+    <!-- ================= DIPLOMA PROGRAMS ================= -->
+    <div class="section-title text-center mb-50">
+      <h2>Diploma <span>Programs</span></h2>
+      <p>Foundation-level programs focused on practical pharmaceutical education.</p>
     </div>
+
+    <div class="row">
+
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="best-d-pharma-college-in-dehradun-uttarakhand.php">
+              <img src="assets/uploads/d.pharmacy.jpeg" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>Diploma in Pharmacy</h4>
+            <p>The Diploma in Pharmacy program trains students in pharmaceutical sciences, drug formulation, and practical pharmacy skills.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>2 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="best-d-pharma-college-in-dehradun-uttarakhand.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ================= UNDERGRADUATE PROGRAMS ================= -->
+    <div class="section-title text-center mb-50 mt-40">
+      <h2>Undergraduate <span>Programs</span></h2>
+      <p>Comprehensive undergraduate programs building strong pharmaceutical foundations.</p>
+    </div>
+
+    <div class="row">
+
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="best-b-pharma-colleges-in-dehradun-uttarakhand.php">
+              <img src="assets/uploads/pharmacy.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>Bachelor of Pharmacy</h4>
+            <p>The B.Pharm program provides in-depth knowledge of pharmaceutical sciences, drug development, and professional pharmacy practice.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>4 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="best-b-pharma-colleges-in-dehradun-uttarakhand.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="bachelor-pharmacy-lateral-entry.php">
+              <img src="assets/uploads/pharmacy-le.jpg" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>B.Pharm (Lateral Entry)</h4>
+            <p>The B.Pharm Lateral Entry program focuses on pharmaceutical sciences, drug development, and pharmacy practice.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>3 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="bachelor-pharmacy-lateral-entry.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ================= POSTGRADUATE PROGRAMS ================= -->
+    <div class="section-title text-center mb-50 mt-40">
+      <h2>Postgraduate <span>Programs</span></h2>
+      <p>Advanced programs emphasizing specialization, research, and innovation.</p>
+    </div>
+
+    <div class="row">
+
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="master-pharmacy-pharmaceutics.php">
+              <img src="assets/uploads/mpharm.jpg" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>Master of Pharmacy</h4>
+            <p>The M.Pharm program offers advanced training in pharmaceutical sciences and drug development.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>2 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="master-pharmacy-pharmaceutics.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="master-pharmacy-pharmacology.php">
+              <img src="assets/uploads/pharma-cology.jpg" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>M.Pharm – Pharmacology</h4>
+            <p>Training in drug studies, pharmacological research, and clinical evaluation.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>2 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="master-pharmacy-pharmacology.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="master-pharmacy-pharmaceutics-chemistry.php">
+              <img src="assets/uploads/pharmacy.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>M.Pharm – Pharmaceutical Chemistry</h4>
+            <p>Focuses on the design, synthesis, and analysis of drugs for R&D careers.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>2 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="master-pharmacy-pharmaceutics-chemistry.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ================= DOCTORAL PROGRAM ================= -->
+    <div class="section-title text-center mb-50 mt-40">
+      <h2>Doctoral <span>Program</span></h2>
+      <p>Advanced clinical and research-focused doctoral education.</p>
+    </div>
+
+    <div class="row">
+
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="DoctorPharmacy.php">
+              <img src="assets/uploads/pharm-d.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>Doctor of Pharmacy (Pharm D)</h4>
+            <p>The Pharm D program focuses on clinical practice and patient care, preparing students for healthcare careers.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>6 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="DoctorPharmacy.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
 </div>
+
+<style>
+  .course-card {
+    background: #fff;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+    transition: all 0.3s ease;
+    height: 100%;
+}
+
+.course-card:hover {
+    transform: translateY(-6px);
+}
+
+.course-img img {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+}
+
+.course-body {
+    padding: 20px;
+}
+
+.course-body h4 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.course-meta {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    margin: 15px 0;
+    color: #666;
+}
+
+.badge-pg {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background: #ff5a5f;
+    color: #fff;
+    padding: 5px 10px;
+    font-size: 12px;
+    border-radius: 20px;
+}
+
+  </style>
  
 <!-- clubs section -->
 <section class="clubs-section py-5">
@@ -410,7 +458,7 @@ document.addEventListener("DOMContentLoaded", () => {
         Choosing the right place to pursue your education is a life-changing decision—one that shapes not only your academic journey but also your personal and professional future. At our institution, we go beyond conventional learning by offering an ecosystem of innovation, creativity, and global opportunities.
         </p>
         <p class="text-muted">Our focus is on preparing students to thrive in a fast-evolving world where adaptability, critical thinking, and ethical leadership matter as much as subject expertise. With state-of-the-art infrastructure, hands-on industry exposure, and mentorship from accomplished faculty, we ensure that every learner is equipped to transform ideas into impactful realities.</p>
-        <a href="https://admission.maya.edu.in/" class="btn btn-success btn-lg mt-3">Apply Now →</a>
+        <a href="https://admissions.maya.edu.in" class="btn btn-success btn-lg mt-3">Apply Now →</a>
       </div>
       <div class="col-lg-5 text-center">
         <img src="assets/uploads/computer.jpg" 

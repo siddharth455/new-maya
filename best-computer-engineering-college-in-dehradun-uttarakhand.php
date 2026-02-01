@@ -131,528 +131,502 @@ document.addEventListener("DOMContentLoaded", () => {
 </script>
 
 <!-- Courses Section -->
-<div class="course-area bg-img pt-40">
+<div class="course-area bg-light pt-60 pb-60">
     <div class="container">
-        <div class="section-title mb-75 course-mrg-small">
-            <h2>Our <span>Programs</span></h2>
-            <p>We offer diverse, industry-focused courses that combine knowledge and<br> practical skills to prepare students for future success. </p>
+
+        <div class="section-title text-center mb-50">
+            <h2>Undergraduate <span>Programs</span></h2>
+            <p>Industry-focused undergraduate programs combining knowledge and practical skills.</p>
         </div>
-        <div class="course-slider-active-3">
-            <div class="single-course">
-                <div class="course-img">
-                    <a href="bachelor-of-computer-application.php"><img class="animated" src="assets/uploads/bca.webp" alt=""></a>
-                    
-                </div>
-                <div class="course-content">
-                    <h4><a href="bachelor-of-computer-application.php">Bachelor of Computer Application</a></h4>
-                    <p>Empowering future innovators with technology, coding skills, and digital excellence.</p>
-                </div>
-                <div class="course-position-content">
-                    <div class="credit-duration-wrap">
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-diamond"></i>
-                            <span>Credits : 125</span>
-                        </div>
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-clock-o"></i>
-                            <span>Duration : 3yrs</span>
-                        </div>
+
+        <div class="row">
+
+            <!-- BCA -->
+            <div class="col-lg-3 col-md-6 mb-30">
+                <div class="course-card">
+                    <div class="course-img">
+                        <a href="bachelor-of-computer-application.php">
+                            <img src="assets/uploads/bca.webp" alt="">
+                        </a>
                     </div>
-                    <div class="course-btn">
-                        <a class="default-btn" href="bachelor-of-computer-application.php">APPLY NOW</a>
+                    <div class="course-body">
+                        <h4><a href="bachelor-of-computer-application.php">Bachelor of Computer Application</a></h4>
+                        <p>Empowering future innovators with technology, coding skills, and digital excellence.</p>
+                        <div class="course-meta">
+                            <span>Credits: 125</span>
+                            <span>3 Years</span>
+                        </div>
+                        <a class="default-btn btn-block" href="bachelor-of-computer-application.php">Apply Now</a>
                     </div>
                 </div>
             </div>
-            <div class="single-course">
-                <div class="course-img">
-              <a href="bachelor-of-computer-application-AI-&-ML.php"><img class="animated" src="assets/uploads/ai.jpeg" alt=""></a>
-                </div>
-                <div class="course-content">
-                    <h4><a href="bachelor-of-computer-application-AI-&-ML.php">Bachelor of Computer Application in AI & ML</a></h4>
-                    <p>Shaping tech leaders with expertise in Artificial Intelligence and Machine Learning.</p>
-                </div>
-                <div class="course-position-content">
-                    <div class="credit-duration-wrap">
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-diamond"></i>
-                            <span>Credits : 125</span>
-                        </div>
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-clock-o"></i>
-                            <span>Duration : 3yrs</span>
-                        </div>
+
+            <!-- BCA AI & ML -->
+            <div class="col-lg-3 col-md-6 mb-30">
+                <div class="course-card">
+                    <div class="course-img">
+                        <a href="bachelor-of-computer-application-AI-&-ML.php">
+                            <img src="assets/uploads/ai.jpeg" alt="">
+                        </a>
                     </div>
-                    <div class="course-btn">
-                        <a class="default-btn" href="bachelor-of-computer-application-AI-&-ML.php">APPLY NOW</a>
+                    <div class="course-body">
+                        <h4><a href="bachelor-of-computer-application-AI-&-ML.php">BCA in AI & ML</a></h4>
+                        <p>Shaping tech leaders with expertise in Artificial Intelligence and Machine Learning.</p>
+                        <div class="course-meta">
+                            <span>Credits: 125</span>
+                            <span>3 Years</span>
+                        </div>
+                        <a class="default-btn btn-block" href="bachelor-of-computer-application-AI-&-ML.php">Apply Now</a>
                     </div>
                 </div>
             </div>
-            <div class="single-course">
-                <div class="course-img">
-                    <a href="bachelor-of-computer-application-Data-Science.php"><img class="animated" src="assets/uploads/data-science.webp" alt=""></a>
-                </div>
-                <div class="course-content">
-                    <h4><a href="bachelor-of-computer-application-Data-Science.php">Bachelor of Computer Application in Data Science</a></h4>
-                    <p>Shaping future tech & data leaders with expertise in Analytics and Data Science for future world.</p>
-                </div>
-                <div class="course-position-content">
-                    <div class="credit-duration-wrap">
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-diamond"></i>
-                            <span>Credits : 125</span>
-                        </div>
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-clock-o"></i>
-                            <span>Duration : 3yrs</span>
-                        </div>
+
+            <!-- BCA Data Science -->
+            <div class="col-lg-3 col-md-6 mb-30">
+                <div class="course-card">
+                    <div class="course-img">
+                        <a href="bachelor-of-computer-application-Data-Science.php">
+                            <img src="assets/uploads/data-science.webp" alt="">
+                        </a>
                     </div>
-                    <div class="course-btn">
-                        <a class="default-btn" href="bachelor-of-computer-application-Data-Science.php">APPLY NOW</a>
+                    <div class="course-body">
+                        <h4><a href="bachelor-of-computer-application-Data-Science.php">BCA in Data Science</a></h4>
+                        <p>Shaping future tech & data leaders with expertise in Analytics and Data Science.</p>
+                        <div class="course-meta">
+                            <span>Credits: 125</span>
+                            <span>3 Years</span>
+                        </div>
+                        <a class="default-btn btn-block" href="bachelor-of-computer-application-Data-Science.php">Apply Now</a>
                     </div>
                 </div>
             </div>
-            <div class="single-course">
-                <div class="course-img">
-                <a href="bachelor-of-computer-application-cyber-security.php"><img class="animated" src="assets/uploads/cyber-security.webp" alt=""></a>
-                </div>
-                <div class="course-content">
-                    <h4><a href="bachelor-of-computer-application-cyber-security.php">Bachelor of Computer Application in Cyber Security</a></h4>
-                    <p>An undergraduate program focused on computer applications and digital security.</p>
-                </div>
-                <div class="course-position-content">
-                    <div class="credit-duration-wrap">
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-diamond"></i>
-                            <span>Credits : 125</span>
-                        </div>
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-clock-o"></i>
-                            <span>Duration : 4yrs</span>
-                        </div>
+
+            <!-- BCA Cyber Security -->
+            <div class="col-lg-3 col-md-6 mb-30">
+                <div class="course-card">
+                    <div class="course-img">
+                        <a href="bachelor-of-computer-application-cyber-security.php">
+                            <img src="assets/uploads/cyber-security.webp" alt="">
+                        </a>
                     </div>
-                    <div class="course-btn">
-                        <a class="default-btn" href="bachelor-of-computer-application-cyber-security.php">APPLY NOW</a>
+                    <div class="course-body">
+                        <h4><a href="bachelor-of-computer-application-cyber-security.php">BCA in Cyber Security</a></h4>
+                        <p>An undergraduate program focused on computer applications and digital security.</p>
+                        <div class="course-meta">
+                            <span>Credits: 125</span>
+                            <span>4 Years</span>
+                        </div>
+                        <a class="default-btn btn-block" href="bachelor-of-computer-application-cyber-security.php">Apply Now</a>
                     </div>
                 </div>
             </div>
-            <div class="single-course">
-                <div class="course-img">
-                <a href="bachelor-of-science-in-information-technology.php"><img class="animated" src="assets/uploads/it.webp" alt=""></a>
-                </div>
-                <div class="course-content">
-                    <h4><a href="bachelor-of-science-in-information-technology.php">B.Sc IT </a></h4>
-                    <p>An undergraduate program focused on information technology and its applications.</p>
-                </div>
-                <div class="course-position-content">
-                    <div class="credit-duration-wrap">
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-diamond"></i>
-                            <span>Credits : 125</span>
-                        </div>
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-clock-o"></i>
-                            <span>Duration : 4yrs</span>
-                        </div>
+
+            <!-- B.Sc IT -->
+            <div class="col-lg-3 col-md-6 mb-30">
+                <div class="course-card">
+                    <div class="course-img">
+                        <a href="bachelor-of-science-in-information-technology.php">
+                            <img src="assets/uploads/it.webp" alt="">
+                        </a>
                     </div>
-                    <div class="course-btn">
-                        <a class="default-btn" href="bachelor-of-science-in-information-technology.php">APPLY NOW</a>
+                    <div class="course-body">
+                        <h4><a href="bachelor-of-science-in-information-technology.php">B.Sc Information Technology</a></h4>
+                        <p>An undergraduate program focused on information technology and its applications.</p>
+                        <div class="course-meta">
+                            <span>Credits: 125</span>
+                            <span>4 Years</span>
+                        </div>
+                        <a class="default-btn btn-block" href="bachelor-of-science-in-information-technology.php">Apply Now</a>
                     </div>
                 </div>
             </div>
-            <div class="single-course">
-                <div class="course-img">
-                <a href="bachelor-of-science-in-computer-science.php"><img class="animated" src="assets/uploads/cs.webp" alt=""></a>
-                </div>
-                <div class="course-content">
-                    <h4><a href="bachelor-of-science-in-computer-science.php">B.Sc Computer Science</a></h4>
-                    <p>An undergraduate program focused on information technology and its applications.</p>
-                </div>
-                <div class="course-position-content">
-                    <div class="credit-duration-wrap">
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-diamond"></i>
-                            <span>Credits : 125</span>
-                        </div>
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-clock-o"></i>
-                            <span>Duration : 4yrs</span>
-                        </div>
+
+            <!-- B.Sc CS -->
+            <div class="col-lg-3 col-md-6 mb-30">
+                <div class="course-card">
+                    <div class="course-img">
+                        <a href="bachelor-of-science-in-computer-science.php">
+                            <img src="assets/uploads/cs.webp" alt="">
+                        </a>
                     </div>
-                    <div class="course-btn">
-                        <a class="default-btn" href="bachelor-of-science-in-computer-science.php">APPLY NOW</a>
+                    <div class="course-body">
+                        <h4><a href="bachelor-of-science-in-computer-science.php">B.Sc Computer Science</a></h4>
+                        <p>An undergraduate program focused on information technology and its applications.</p>
+                        <div class="course-meta">
+                            <span>Credits: 125</span>
+                            <span>4 Years</span>
+                        </div>
+                        <a class="default-btn btn-block" href="bachelor-of-science-in-computer-science.php">Apply Now</a>
                     </div>
                 </div>
             </div>
-            <div class="single-course">
-                <div class="course-img">
-                <a href="b.tech-LE.php"><img class="animated" src="assets/uploads/b-tech-le.webp" alt=""></a>
-                </div>
-                <div class="course-content">
-                    <h4><a href="b.tech-LE.php">B.Tech (LE)  </a></h4>
-                    <p>An undergraduate program focused on information technology and its applications.</p>
-                </div>
-                <div class="course-position-content">
-                    <div class="credit-duration-wrap">
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-diamond"></i>
-                            <span>Credits : 125</span>
-                        </div>
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-clock-o"></i>
-                            <span>Duration : 4yrs</span>
-                        </div>
+
+            <!-- B.Tech LE -->
+            <div class="col-lg-3 col-md-6 mb-30">
+                <div class="course-card">
+                    <div class="course-img">
+                        <a href="b.tech-LE.php">
+                            <img src="assets/uploads/b-tech-le.webp" alt="">
+                        </a>
                     </div>
-                    <div class="course-btn">
-                        <a class="default-btn" href="b.tech-LE.php">APPLY NOW</a>
+                    <div class="course-body">
+                        <h4><a href="b.tech-LE.php">B.Tech (Lateral Entry)</a></h4>
+                        <p>An undergraduate program focused on information technology and its applications.</p>
+                        <div class="course-meta">
+                            <span>Credits: 125</span>
+                            <span>4 Years</span>
+                        </div>
+                        <a class="default-btn btn-block" href="b.tech-LE.php">Apply Now</a>
                     </div>
                 </div>
             </div>
-            <div class="single-course">
-                <div class="course-img">
-                <a href="b.tech-CSE.php"><img class="animated" src="assets/uploads/computer.webp" alt=""></a>
-                </div>
-                <div class="course-content">
-                    <h4><a href="b.tech-CSE.php">B.Tech (CSE)  </a></h4>
-                    <p>An undergraduate program focused on information technology and its applications.</p>
-                </div>
-                <div class="course-position-content">
-                    <div class="credit-duration-wrap">
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-diamond"></i>
-                            <span>Credits : 125</span>
-                        </div>
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-clock-o"></i>
-                            <span>Duration : 4yrs</span>
-                        </div>
+
+            <!-- B.Tech CSE -->
+            <div class="col-lg-3 col-md-6 mb-30">
+                <div class="course-card">
+                    <div class="course-img">
+                        <a href="b.tech-CSE.php">
+                            <img src="assets/uploads/computer.webp" alt="">
+                        </a>
                     </div>
-                    <div class="course-btn">
-                        <a class="default-btn" href="b.tech-CSE.php">APPLY NOW</a>
+                    <div class="course-body">
+                        <h4><a href="b.tech-CSE.php">B.Tech Computer Science Engineering</a></h4>
+                        <p>An undergraduate program focused on information technology and its applications.</p>
+                        <div class="course-meta">
+                            <span>Credits: 125</span>
+                            <span>4 Years</span>
+                        </div>
+                        <a class="default-btn btn-block" href="b.tech-CSE.php">Apply Now</a>
                     </div>
                 </div>
             </div>
-            <div class="single-course">
-                <div class="course-img">
-                <a href="b.tech-AI-ML.php"><img class="animated" src="assets/uploads/ai.jpeg" alt=""></a>
-                </div>
-                <div class="course-content">
-                    <h4><a href="b.tech-AI-ML.php">B.Tech AI & ML  </a></h4>
-                    <p>An undergraduate program focused on information technology and its applications.</p>
-                </div>
-                <div class="course-position-content">
-                    <div class="credit-duration-wrap">
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-diamond"></i>
-                            <span>Credits : 125</span>
-                        </div>
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-clock-o"></i>
-                            <span>Duration : 4yrs</span>
-                        </div>
+
+            <!-- B.Tech AI ML -->
+            <div class="col-lg-3 col-md-6 mb-30">
+                <div class="course-card">
+                    <div class="course-img">
+                        <a href="b.tech-AI-ML.php">
+                            <img src="assets/uploads/ai.jpeg" alt="">
+                        </a>
                     </div>
-                    <div class="course-btn">
-                        <a class="default-btn" href="b.tech-AI-ML.php">APPLY NOW</a>
+                    <div class="course-body">
+                        <h4><a href="b.tech-AI-ML.php">B.Tech AI & ML</a></h4>
+                        <p>An undergraduate program focused on information technology and its applications.</p>
+                        <div class="course-meta">
+                            <span>Credits: 125</span>
+                            <span>4 Years</span>
+                        </div>
+                        <a class="default-btn btn-block" href="b.tech-AI-ML.php">Apply Now</a>
                     </div>
                 </div>
             </div>
-            <div class="single-course">
-                <div class="course-img">
-                <a href="b.tech-data_science.php"><img class="animated" src="assets/uploads/data-science.webp" alt=""></a>
-                </div>
-                <div class="course-content">
-                    <h4><a href="b.tech-data_science.php">B.Tech Data Science</a></h4>
-                    <p>An undergraduate program focused on information technology and its applications.</p>
-                </div>
-                <div class="course-position-content">
-                    <div class="credit-duration-wrap">
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-diamond"></i>
-                            <span>Credits : 125</span>
-                        </div>
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-clock-o"></i>
-                            <span>Duration : 4yrs</span>
-                        </div>
+
+            <!-- B.Tech Data Science -->
+            <div class="col-lg-3 col-md-6 mb-30">
+                <div class="course-card">
+                    <div class="course-img">
+                        <a href="b.tech-data_science.php">
+                            <img src="assets/uploads/data-science.webp" alt="">
+                        </a>
                     </div>
-                    <div class="course-btn">
-                        <a class="default-btn" href="b.tech-data_science.php">APPLY NOW</a>
+                    <div class="course-body">
+                        <h4><a href="b.tech-data_science.php">B.Tech Data Science</a></h4>
+                        <p>An undergraduate program focused on information technology and its applications.</p>
+                        <div class="course-meta">
+                            <span>Credits: 125</span>
+                            <span>4 Years</span>
+                        </div>
+                        <a class="default-btn btn-block" href="b.tech-data_science.php">Apply Now</a>
                     </div>
                 </div>
             </div>
-            <div class="single-course">
-                <div class="course-img">
-                <a href="b.tech-cyber_security.php"><img class="animated" src="assets/uploads/cyber-security.webp" alt=""></a>
-                </div>
-                <div class="course-content">
-                    <h4><a href="b.tech-cyber_security.php">B.Tech Cyber Security</a></h4>
-                    <p>An undergraduate program focused on information technology and its applications.</p>
-                </div>
-                <div class="course-position-content">
-                    <div class="credit-duration-wrap">
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-diamond"></i>
-                            <span>Credits : 125</span>
-                        </div>
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-clock-o"></i>
-                            <span>Duration : 4yrs</span>
-                        </div>
+
+            <!-- B.Tech Cyber -->
+            <div class="col-lg-3 col-md-6 mb-30">
+                <div class="course-card">
+                    <div class="course-img">
+                        <a href="b.tech-cyber_security.php">
+                            <img src="assets/uploads/cyber-security.webp" alt="">
+                        </a>
                     </div>
-                    <div class="course-btn">
-                        <a class="default-btn" href="b.tech-cyber_security.php">APPLY NOW</a>
+                    <div class="course-body">
+                        <h4><a href="b.tech-cyber_security.php">B.Tech Cyber Security</a></h4>
+                        <p>An undergraduate program focused on information technology and its applications.</p>
+                        <div class="course-meta">
+                            <span>Credits: 125</span>
+                            <span>4 Years</span>
+                        </div>
+                        <a class="default-btn btn-block" href="b.tech-cyber_security.php">Apply Now</a>
                     </div>
                 </div>
             </div>
-            <div class="single-course">
-                <div class="course-img">
-                <a href="b.tech-CS_IBM.php"><img class="animated" src="assets/uploads/ibm.webp" alt=""></a>
-                </div>
-                <div class="course-content">
-                    <h4><a href="b.tech-CS_IBM.php">B.Tech, Cs with IBM Associated Program</a></h4>
-                    <p>An undergraduate program focused on information technology and its applications.</p>
-                </div>
-                <div class="course-position-content">
-                    <div class="credit-duration-wrap">
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-diamond"></i>
-                            <span>Credits : 125</span>
-                        </div>
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-clock-o"></i>
-                            <span>Duration : 4yrs</span>
-                        </div>
+
+            <!-- B.Tech IBM -->
+            <div class="col-lg-3 col-md-6 mb-30">
+                <div class="course-card">
+                    <div class="course-img">
+                        <a href="b.tech-CS_IBM.php">
+                            <img src="assets/uploads/ibm.webp" alt="">
+                        </a>
                     </div>
-                    <div class="course-btn">
-                        <a class="default-btn" href="b.tech-CS_IBM.php">APPLY NOW</a>
+                    <div class="course-body">
+                        <h4><a href="b.tech-CS_IBM.php">B.Tech CSE with IBM</a></h4>
+                        <p>An undergraduate program focused on information technology and its applications.</p>
+                        <div class="course-meta">
+                            <span>Credits: 125</span>
+                            <span>4 Years</span>
+                        </div>
+                        <a class="default-btn btn-block" href="b.tech-CS_IBM.php">Apply Now</a>
                     </div>
                 </div>
             </div>
-            <div class="single-course">
-                <div class="course-img">
-                <a href="b.tech-EVT.php"><img class="animated" src="assets/uploads/evt.jpg" alt=""></a>
-                </div>
-                <div class="course-content">
-                    <h4><a href="b.tech-EVT.php">B.Tech. in Electric Vehicle Technology (EVT)</a></h4>
-                    <p>An undergraduate program focused on Electric and battery vehicle technology.</p>
-                </div>
-                <div class="course-position-content">
-                    <div class="credit-duration-wrap">
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-diamond"></i>
-                            <span>Credits : 125</span>
-                        </div>
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-clock-o"></i>
-                            <span>Duration : 4yrs</span>
-                        </div>
+
+            <!-- EVT -->
+            <div class="col-lg-3 col-md-6 mb-30">
+                <div class="course-card">
+                    <div class="course-img">
+                        <a href="b.tech-EVT.php">
+                            <img src="assets/uploads/evt.jpg" alt="">
+                        </a>
                     </div>
-                    <div class="course-btn">
-                        <a class="default-btn" href="b.tech-EVT.php">APPLY NOW</a>
+                    <div class="course-body">
+                        <h4><a href="b.tech-EVT.php">B.Tech Electric Vehicle Technology</a></h4>
+                        <p>An undergraduate program focused on Electric and battery vehicle technology.</p>
+                        <div class="course-meta">
+                            <span>Credits: 125</span>
+                            <span>4 Years</span>
+                        </div>
+                        <a class="default-btn btn-block" href="b.tech-EVT.php">Apply Now</a>
                     </div>
                 </div>
             </div>
-            <div class="single-course">
-                <div class="course-img">
-                <a href="B.Tech-HFCT.php"><img class="animated" src="assets/uploads/hvct.webp" alt=""></a>
-                </div>
-                <div class="course-content">
-                    <h4><a href="B.Tech-HFCT.php">B.Tech. in Hydrogen Fuel Cell Technology (HFCT)</a></h4>
-                    <p>An undergraduate program focused on Hydrogen Fuel Cell Technology.</p>
-                </div>
-                <div class="course-position-content">
-                    <div class="credit-duration-wrap">
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-diamond"></i>
-                            <span>Credits : 125</span>
-                        </div>
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-clock-o"></i>
-                            <span>Duration : 4yrs</span>
-                        </div>
+
+            <!-- HFCT -->
+            <div class="col-lg-3 col-md-6 mb-30">
+                <div class="course-card">
+                    <div class="course-img">
+                        <a href="B.Tech-HFCT.php">
+                            <img src="assets/uploads/hvct.webp" alt="">
+                        </a>
                     </div>
-                    <div class="course-btn">
-                        <a class="default-btn" href="B.Tech-HFCT.php">APPLY NOW</a>
+                    <div class="course-body">
+                        <h4><a href="B.Tech-HFCT.php">B.Tech Hydrogen Fuel Cell Technology</a></h4>
+                        <p>An undergraduate program focused on Hydrogen Fuel Cell Technology.</p>
+                        <div class="course-meta">
+                            <span>Credits: 125</span>
+                            <span>4 Years</span>
+                        </div>
+                        <a class="default-btn btn-block" href="B.Tech-HFCT.php">Apply Now</a>
                     </div>
                 </div>
             </div>
-            <div class="single-course">
-                <div class="course-img">
-                <a href="mca-aiml.php"><img class="animated" src="assets/uploads/aiml-2.webp" alt=""></a>
-                    <span>Postgraduate Programs</span>
-                </div>
-                <div class="course-content">  
-                    <h4><a href="mca-aiml.php">MCA AIML</a></h4>
-                    <p>An undergraduate program focused on information technology and its applications.</p>
-                </div>
-                <div class="course-position-content">
-                    <div class="credit-duration-wrap">
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-diamond"></i>
-                            <span>Credits : 125</span>
-                        </div>
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-clock-o"></i>
-                            <span>Duration : 4yrs</span>
-                        </div>
-                    </div>
-                    <div class="course-btn">
-                        <a class="default-btn" href="mca-aiml.php">APPLY NOW</a>
-                    </div>
-                </div>
-            </div>
-            <div class="single-course">
-                <div class="course-img">
-                <a href="mca-data-science.php"><img class="animated" src="assets/uploads/mca-data.webp" alt=""></a>
-                    <span>Postgraduate Programs</span>
-                </div>
-                <div class="course-content">
-                    <h4><a href="mca-data-science.php">MCA Data Science</a></h4>
-                    <p>An undergraduate program focused on information technology and its applications.</p>
-                </div>
-                <div class="course-position-content">
-                    <div class="credit-duration-wrap">
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-diamond"></i>
-                            <span>Credits : 125</span>
-                        </div>
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-clock-o"></i>
-                            <span>Duration : 4yrs</span>
-                        </div>
-                    </div>
-                    <div class="course-btn">
-                        <a class="default-btn" href="mca-data-science.php">APPLY NOW</a>
-                    </div>
-                </div>
-            </div>
-            <div class="single-course">
-                <div class="course-img">
-                <a href="mca-cyber-security.php"><img class="animated" src="assets/uploads/mca-cyber.webp" alt=""></a>
-                    <span>Postgraduate Programs</span>
-                </div>
-                <div class="course-content">
-                    <h4><a href="mca-cyber-security.php">MCA Cyber Security</a></h4>
-                    <p>An undergraduate program focused on information technology and its applications.</p>
-                </div>
-                <div class="course-position-content">
-                    <div class="credit-duration-wrap">
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-diamond"></i>
-                            <span>Credits : 125</span>
-                        </div>
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-clock-o"></i>
-                            <span>Duration : 4yrs</span>
-                        </div>
-                    </div>
-                    <div class="course-btn">
-                        <a class="default-btn" href="mca-cyber-security.php">APPLY NOW</a>
-                    </div>
-                </div>
-            </div>
-            <div class="single-course">
-                <div class="course-img">
-                <a href="mtech-cse.php"><img class="animated" src="assets/uploads/computer.jpg" alt=""></a>
-                    <span>Postgraduate Programs</span>
-                </div>
-                <div class="course-content">
-                    <h4><a href="mtech-cse.php">M.Tech CSE</a></h4>
-                    <p>An undergraduate program focused on information technology and its applications.</p>
-                </div>
-                <div class="course-position-content">
-                    <div class="credit-duration-wrap">
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-diamond"></i>
-                            <span>Credits : 125</span>
-                        </div>
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-clock-o"></i>
-                            <span>Duration : 4yrs</span>
-                        </div>
-                    </div>
-                    <div class="course-btn">
-                        <a class="default-btn" href="mtech-cse.php">APPLY NOW</a>
-                    </div>
-                </div>
-            </div>
-            <div class="single-course">
-                <div class="course-img">
-                <a href="mtech-specializations-cse-AI-ML.php"><img class="animated" src="assets/uploads/mtech-cse.webp" alt=""></a>
-                    <span>Postgraduate Programs</span>
-                </div>
-                <div class="course-content">
-                    <h4><a href="mtech-specializations-cse-AI-ML.php">M.Tech CSE(AIML/Data Science/Cyber Security)</a></h4>
-                    <p>An undergraduate program focused on information technology and its applications.</p>
-                </div>
-                <div class="course-position-content">
-                    <div class="credit-duration-wrap">
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-diamond"></i>
-                            <span>Credits : 125</span>
-                        </div>
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-clock-o"></i>
-                            <span>Duration : 4yrs</span>
-                        </div>
-                    </div>
-                    <div class="course-btn">
-                        <a class="default-btn" href="mtech-specializations-cse-AI-ML.php">APPLY NOW</a>
-                    </div>
-                </div>
-            </div>
-            <div class="single-course">
-                <div class="course-img">
-                <a href="msc-computer-science.php"><img class="animated" src="assets/uploads/computer.webp" alt=""></a>
-                    <span>Postgraduate Programs</span>
-                </div>
-                <div class="course-content">
-                    <h4><a href="msc-computer-science.php">M.Sc Computer Science</a></h4>
-                    <p>An undergraduate program focused on information technology and its applications.</p>
-                </div>
-                <div class="course-position-content">
-                    <div class="credit-duration-wrap">
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-diamond"></i>
-                            <span>Credits : 125</span>
-                        </div>
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-clock-o"></i>
-                            <span>Duration : 4yrs</span>
-                        </div>
-                    </div>
-                    <div class="course-btn">
-                        <a class="default-btn" href="msc-computer-science.php">APPLY NOW</a>
-                    </div>
-                </div>
-            </div>
-            <div class="single-course">
-                <div class="course-img">
-                <a href="mca.php"><img class="animated" src="assets/uploads/mca.webp" alt=""></a>
-                    <span>Postgraduate Programs</span>
-                </div>
-                <div class="course-content">
-                    <h4><a href="mca.php">MCA</a></h4>
-                    <p>An undergraduate program focused on information technology and its applications.</p>
-                </div>
-                <div class="course-position-content">
-                    <div class="credit-duration-wrap">
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-diamond"></i>
-                            <span>Credits : 125</span>
-                        </div>
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-clock-o"></i>
-                            <span>Duration : 4yrs</span>
-                        </div>
-                    </div>
-                    <div class="course-btn">
-                        <a class="default-btn" href="mca.php">APPLY NOW</a>
-                    </div>
-                </div>
-            </div>
+
         </div>
     </div>
 </div>
+<div class="course-area bg-white pt-60 pb-60">
+    <div class="container">
+
+        <div class="section-title text-center mb-50">
+            <h2>Postgraduate <span>Programs</span></h2>
+            <p>Advanced programs focused on specialization and research excellence.</p>
+        </div>
+
+        <div class="row">
+
+            <div class="col-lg-3 col-md-6 mb-30">
+                <div class="course-card">
+                    <div class="course-img">
+                        <a href="mca-aiml.php">
+                            <img src="assets/uploads/aiml-2.webp" alt="">
+                        </a>
+                        <span class="badge-pg">PG</span>
+                    </div>
+                    <div class="course-body">
+                        <h4><a href="mca-aiml.php">MCA AI & ML</a></h4>
+                        <p>An undergraduate program focused on information technology and its applications.</p>
+                        <div class="course-meta">
+                            <span>Credits: 125</span>
+                            <span>4 Years</span>
+                        </div>
+                        <a class="default-btn btn-block" href="mca-aiml.php">Apply Now</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6 mb-30">
+                <div class="course-card">
+                    <div class="course-img">
+                        <a href="mca-data-science.php">
+                            <img src="assets/uploads/mca-data.webp" alt="">
+                        </a>
+                        <span class="badge-pg">PG</span>
+                    </div>
+                    <div class="course-body">
+                        <h4><a href="mca-data-science.php">MCA Data Science</a></h4>
+                        <p>An undergraduate program focused on information technology and its applications.</p>
+                        <div class="course-meta">
+                            <span>Credits: 125</span>
+                            <span>4 Years</span>
+                        </div>
+                        <a class="default-btn btn-block" href="mca-data-science.php">Apply Now</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6 mb-30">
+                <div class="course-card">
+                    <div class="course-img">
+                        <a href="mca-cyber-security.php">
+                            <img src="assets/uploads/mca-cyber.webp" alt="">
+                        </a>
+                        <span class="badge-pg">PG</span>
+                    </div>
+                    <div class="course-body">
+                        <h4><a href="mca-cyber-security.php">MCA Cyber Security</a></h4>
+                        <p>An undergraduate program focused on information technology and its applications.</p>
+                        <div class="course-meta">
+                            <span>Credits: 125</span>
+                            <span>4 Years</span>
+                        </div>
+                        <a class="default-btn btn-block" href="mca-cyber-security.php">Apply Now</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6 mb-30">
+                <div class="course-card">
+                    <div class="course-img">
+                        <a href="mtech-cse.php">
+                            <img src="assets/uploads/computer.jpg" alt="">
+                        </a>
+                        <span class="badge-pg">PG</span>
+                    </div>
+                    <div class="course-body">
+                        <h4><a href="mtech-cse.php">M.Tech CSE</a></h4>
+                        <p>An undergraduate program focused on information technology and its applications.</p>
+                        <div class="course-meta">
+                            <span>Credits: 125</span>
+                            <span>4 Years</span>
+                        </div>
+                        <a class="default-btn btn-block" href="mtech-cse.php">Apply Now</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6 mb-30">
+                <div class="course-card">
+                    <div class="course-img">
+                        <a href="mtech-specializations-cse-AI-ML.php">
+                            <img src="assets/uploads/mtech-cse.webp" alt="">
+                        </a>
+                        <span class="badge-pg">PG</span>
+                    </div>
+                    <div class="course-body">
+                        <h4><a href="mtech-specializations-cse-AI-ML.php">M.Tech CSE (AI/DS/Cyber)</a></h4>
+                        <p>An undergraduate program focused on information technology and its applications.</p>
+                        <div class="course-meta">
+                            <span>Credits: 125</span>
+                            <span>4 Years</span>
+                        </div>
+                        <a class="default-btn btn-block" href="mtech-specializations-cse-AI-ML.php">Apply Now</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6 mb-30">
+                <div class="course-card">
+                    <div class="course-img">
+                        <a href="msc-computer-science.php">
+                            <img src="assets/uploads/computer.webp" alt="">
+                        </a>
+                        <span class="badge-pg">PG</span>
+                    </div>
+                    <div class="course-body">
+                        <h4><a href="msc-computer-science.php">M.Sc Computer Science</a></h4>
+                        <p>An undergraduate program focused on information technology and its applications.</p>
+                        <div class="course-meta">
+                            <span>Credits: 125</span>
+                            <span>4 Years</span>
+                        </div>
+                        <a class="default-btn btn-block" href="msc-computer-science.php">Apply Now</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6 mb-30">
+                <div class="course-card">
+                    <div class="course-img">
+                        <a href="mca.php">
+                            <img src="assets/uploads/mca.webp" alt="">
+                        </a>
+                        <span class="badge-pg">PG</span>
+                    </div>
+                    <div class="course-body">
+                        <h4><a href="mca.php">MCA</a></h4>
+                        <p>An undergraduate program focused on information technology and its applications.</p>
+                        <div class="course-meta">
+                            <span>Credits: 125</span>
+                            <span>4 Years</span>
+                        </div>
+                        <a class="default-btn btn-block" href="mca.php">Apply Now</a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<style>
+  .course-card {
+    background: #fff;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+    transition: all 0.3s ease;
+    height: 100%;
+}
+
+.course-card:hover {
+    transform: translateY(-6px);
+}
+
+.course-img img {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+}
+
+.course-body {
+    padding: 20px;
+}
+
+.course-body h4 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.course-meta {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    margin: 15px 0;
+    color: #666;
+}
+
+.badge-pg {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background: #ff5a5f;
+    color: #fff;
+    padding: 5px 10px;
+    font-size: 12px;
+    border-radius: 20px;
+}
+
+  </style>
 <!-- clubs section -->
 <section class="clubs-section py-5">
   <div class="container">
@@ -726,7 +700,7 @@ document.addEventListener("DOMContentLoaded", () => {
         Choosing the right place to pursue your education is a life-changing decision—one that shapes not just your academic journey but also your personal and professional future. At the School of Computer Applications, Maya Devi University, we go beyond conventional learning by offering an ecosystem of innovation, creativity, and global opportunities.
         </p>
         <p class="text-muted">Our focus is on preparing students to thrive in a fast-evolving digital world where adaptability, critical thinking, and ethical leadership matter as much as technical expertise. With state-of-the-art infrastructure, hands-on industry exposure, and mentorship from accomplished faculty, we ensure that every learner is equipped to transform ideas into impactful realities.</p>
-        <a href="https://admission.maya.edu.in/" class="btn btn-success btn-lg mt-3">Apply Now →</a>
+        <a href="https://admissions.maya.edu.in" class="btn btn-success btn-lg mt-3">Apply Now →</a>
       </div>
       <div class="col-lg-5 text-center">
         <img src="assets/uploads/computer.jpg" 

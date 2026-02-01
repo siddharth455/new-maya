@@ -22,7 +22,7 @@
                     <div class="apply-area">
                         <img src="assets/uploads/paramedical.webp" alt="">
                         <div class="course-apply-btn">
-                            <a href="https://admission.maya.edu.in/" class="default-btn">APPLY NOW</a>
+                            <a href="https://admissions.maya.edu.in" class="default-btn">APPLY NOW</a>
                         </div>
                     </div>
                     <div class="tab-content jump">

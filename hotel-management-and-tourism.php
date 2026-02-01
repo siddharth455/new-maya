@@ -132,190 +132,182 @@ document.addEventListener("DOMContentLoaded", () => {
 </script>
 
 <!-- Courses Section -->
-<div class="course-area bg-img pt-40">
-    <div class="container">
-        <div class="section-title mb-75 course-mrg-small">
-            <h2>Our <span>Programs</span></h2>
-            <p><strong>Diploma in Hotel Management- </strong>The Diploma in Hotel Management is a
-comprehensive two-year program designed to prepare students for careers in the hospitality industry.
-</p>
-<p><strong>Certificate in Hotel Management-</strong> The Certificate in Hotel Management is a
-one-year program designed to provide foundational knowledge of the hospitality industry.
-</p>
-        </div>
-        <div class="course-slider-active-3">
-          <div class="single-course">
-                                <div class="course-img">
-                                    <a href="diploma-in-confectionary.php"><img class="animated" src="assets/uploads/bakery.webp" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                    <h4><a href="diploma-in-confectionary.php">Diploma in Bakery & Confectionary</a></h4>
-                                    <p>The Diploma in Bakery and Confectionery program is a two-year course focusing on baking techniques, pastry arts, confectionery production, and dessert presentation.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 2yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="diploma-in-confectionary.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="single-course">
-                                <div class="course-img">
-                                    <a href="diploma-in-food-production.php"><img class="animated" src="assets/uploads/dhm.webp" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                    <h4><a href="diploma-in-food-production.php">Diploma in Food Production</a></h4>
-                                    <p>The Diploma in Food Production is a two-year program focusing on culinary techniques, kitchen operations, food preparation, and professional cookery standards.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 2yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="diploma-in-food-production.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-        <div class="single-course">
-                                <div class="course-img">
-                                    <a href="bhm-colleges-in-dehradun-uttarakhand.php"><img class="animated" src="assets/uploads/hm-le.webp" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                    <h4><a href="bhm-colleges-in-dehradun-uttarakhand.php">Bachelor in Hotel Management</a></h4>
-                                    <p>The Bachelor in Hotel Management focuses on hospitality, catering, and management skills for the hotel and tourism industry.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 3yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="bhm-colleges-in-dehradun-uttarakhand.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="single-course">
-                                <div class="course-img">
-                                    <a href="bhm-lateral-entry-colleges-in-dehradun-uttarakhand.php"><img class="animated" src="assets/uploads/hm.webp" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                <h4><a href="bhm-lateral-entry-colleges-in-dehradun-uttarakhand.php">Bachelor of Hotel Management (LE)</a></h4>
-                                <p>The Bachelor of Hotel Management (Lateral Entry) program focuses on hospitality, food production, and management skills.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 3yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="bhm-lateral-entry-colleges-in-dehradun-uttarakhand.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="single-course">
-                                <div class="course-img">
-                                    <a href="BHMCT-colleges-in-dehradun-uttarakhand.php"><img class="animated" src="assets/uploads/bhmct.webp" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                    <h4><a href="BHMCT-colleges-in-dehradun-uttarakhand.php">BHMCT</a></h4>
-                                    <p>The Bachelor of Hotel Management and Catering Technology program focuses on hospitality, catering operations, food production, and professional management skills.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 4yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="BHMCT-colleges-in-dehradun-uttarakhand.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="single-course">
-                                <div class="course-img">
-                                    <a href="BHMCT-lateral-entry-colleges-in-dehradun-uttarakhand.php"><img class="animated" src="assets/uploads/bhmct-le.webp" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                    <h4><a href="BHMCT-lateral-entry-colleges-in-dehradun-uttarakhand.php">BHMCT (Lateral Entry)</a></h4>
-                                    <p>The BHMCT (Lateral Entry) program focuses on hospitality, catering operations, food production, and management skills.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 2yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="BHMCT-lateral-entry-colleges-in-dehradun-uttarakhand.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-                            
-                            <div class="single-course">
-                                <div class="course-img">
-                                    <a href="master-of-hotel-management.php"><img class="animated" src="assets/uploads/mhm.webp" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                    <h4><a href="master-of-hotel-management.php">Master of Hotel Management</a></h4>
-                                    <p>The Master of Hotel Management program includes advanced training in culinary techniques, kitchen operations, food preparation, and professional hospitality standards.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 2yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="master-of-hotel-management.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-        </div>
+<div class="course-area bg-light pt-60 pb-60">
+  <div class="container">
+
+    <!-- ================= DIPLOMA PROGRAMS ================= -->
+    <div class="section-title text-center mb-50">
+      <h2>Diploma <span>Programs</span></h2>
+      <p>Skill-focused diploma programs designed for careers in hospitality and culinary arts.</p>
     </div>
+
+    <div class="row">
+
+      <!-- Diploma Bakery & Confectionery -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="diploma-in-confectionary.php">
+              <img src="assets/uploads/bakery.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>Diploma in Bakery & Confectionery</h4>
+            <p>Focuses on baking techniques, pastry arts, confectionery production, and dessert presentation.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>2 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="diploma-in-confectionary.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Diploma Food Production -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="diploma-in-food-production.php">
+              <img src="assets/uploads/dhm.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>Diploma in Food Production</h4>
+            <p>Emphasizes culinary techniques, kitchen operations, food preparation, and professional cookery.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>2 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="diploma-in-food-production.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ================= UNDERGRADUATE PROGRAMS ================= -->
+    <div class="section-title text-center mb-50 mt-40">
+      <h2>Undergraduate <span>Programs</span></h2>
+      <p>Comprehensive undergraduate programs in hotel management and hospitality.</p>
+    </div>
+
+    <div class="row">
+
+      <!-- BHM -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="bhm-colleges-in-dehradun-uttarakhand.php">
+              <img src="assets/uploads/hm-le.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>Bachelor in Hotel Management</h4>
+            <p>Focuses on hospitality operations, catering services, and management skills.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>3 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="bhm-colleges-in-dehradun-uttarakhand.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- BHM Lateral Entry -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="bhm-lateral-entry-colleges-in-dehradun-uttarakhand.php">
+              <img src="assets/uploads/hm.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>Bachelor of Hotel Management (Lateral Entry)</h4>
+            <p>Designed for advanced entry students with focus on hospitality and food production.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>3 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="bhm-lateral-entry-colleges-in-dehradun-uttarakhand.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- BHMCT -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="BHMCT-colleges-in-dehradun-uttarakhand.php">
+              <img src="assets/uploads/bhmct.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>BHMCT</h4>
+            <p>Combines hotel management, catering technology, food production, and hospitality operations.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>4 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="BHMCT-colleges-in-dehradun-uttarakhand.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- BHMCT LE -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="BHMCT-lateral-entry-colleges-in-dehradun-uttarakhand.php">
+              <img src="assets/uploads/bhmct-le.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>BHMCT (Lateral Entry)</h4>
+            <p>Advanced-entry program focusing on catering operations and hospitality management.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>2 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="BHMCT-lateral-entry-colleges-in-dehradun-uttarakhand.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ================= POSTGRADUATE PROGRAMS ================= -->
+    <div class="section-title text-center mb-50 mt-40">
+      <h2>Postgraduate <span>Programs</span></h2>
+      <p>Advanced hospitality programs for leadership and managerial excellence.</p>
+    </div>
+
+    <div class="row">
+
+      <!-- MHM -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="master-of-hotel-management.php">
+              <img src="assets/uploads/mhm.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>Master of Hotel Management</h4>
+            <p>Advanced training in hospitality operations, culinary management, and professional standards.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>2 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="master-of-hotel-management.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
 </div>
+
   
 <!-- clubs section -->
 <section class="clubs-section py-5">
@@ -387,7 +379,7 @@ Students develop leadership, communication, and customer service excellence.
 The scenic Dehradun location provides an inspiring learning atmosphere.
 At Maya Devi University, your journey toward a successful hospitality and tourism career truly begins.
 </p>
-        <a href="https://admission.maya.edu.in/" class="btn btn-success btn-lg mt-3">Apply Now →</a>
+        <a href="https://admissions.maya.edu.in" class="btn btn-success btn-lg mt-3">Apply Now →</a>
       </div>
       <div class="col-lg-5 text-center">
         <img src="assets/uploads/computer.jpg" 

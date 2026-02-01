@@ -131,258 +131,279 @@ document.addEventListener("DOMContentLoaded", () => {
 </script>
 
 <!-- Courses Section -->
-<div class="course-area bg-img pt-40">
-    <div class="container">
-        <div class="section-title mb-75 course-mrg-small">
-            <h2>Our <span>Programs</span></h2>
-            <p>We offer diverse, industry-focused courses that combine knowledge and <br>
-practical skills to prepare students for future success.</p>
-        </div>
-        <div class="course-slider-active-3">
-            <div class="single-course">
-                <div class="course-img">
-                  <a href="bachelor-of-business-administration.php"><img class="animated" src="assets/uploads/bba.jpg" alt=""></a>
-                </div>
-                <div class="course-content">
-                    <h4><a href="bachelor-of-business-administration.php">BBA Human Resource Management</a></h4>
-                    <p>BBA in Human Resource Management trains students in recruitment, employee relations, training, and organizational leadership skills.</p>
-                </div>
-                <div class="course-position-content">
-                    <div class="credit-duration-wrap">
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-diamond"></i>
-                            <span>Credits : 125</span>
-                        </div>
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-clock-o"></i>
-                            <span>Duration : 3yrs</span>
-                        </div>
-                    </div>
-                    <div class="course-btn">
-                        <a class="default-btn" href="bachelor-of-business-administration.php">APPLY NOW</a>
-                    </div>
-                </div>
-            </div>
-            <div class="single-course">
-                <div class="course-img">
-                  <a href="bachelor-of-business-administration.php"><img class="animated" src="assets/uploads/bba-1.jpg" alt=""></a>
-                </div>
-                <div class="course-content">
-                    <h4><a href="bachelor-of-business-administration.php">BBA Finance Management</a></h4>
-                    <p>BBA in Finance Management trains students in financial planning, investment analysis, budgeting, and corporate financial decision-making skills.</p>
-                </div>
-                <div class="course-position-content">
-                    <div class="credit-duration-wrap">
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-diamond"></i>
-                            <span>Credits : 125</span>
-                        </div>
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-clock-o"></i>
-                            <span>Duration : 3yrs</span>
-                        </div>
-                    </div>
-                    <div class="course-btn">
-                        <a class="default-btn" href="bachelor-of-business-administration.php">APPLY NOW</a>
-                    </div>
-                </div>
-            </div>
-            <div class="single-course">
-                <div class="course-img">
-                  <a href="bachelor-of-business-administration.php"><img class="animated" src="assets/uploads/bba-2.jpeg" alt=""></a>
-                </div>
-                <div class="course-content">
-                    <h4><a href="bachelor-of-business-administration.php">BBA Marketing Management</a></h4>
-                    <p>BBA in Marketing Management develops skills in market research, brand promotion, sales strategies, and digital marketing.</p>
-                </div>
-                <div class="course-position-content">
-                    <div class="credit-duration-wrap">
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-diamond"></i>
-                            <span>Credits : 125</span>
-                        </div>
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-clock-o"></i>
-                            <span>Duration : 3yrs</span>
-                        </div>
-                    </div>
-                    <div class="course-btn">
-                        <a class="default-btn" href="bachelor-of-business-administration.php">APPLY NOW</a>
-                    </div>
-                </div>
-            </div>
-            <div class="single-course">
-                <div class="course-img">
-                  <a href="bachelor-of-business-administration.php"><img class="animated" src="assets/uploads/bba-3.jpeg" alt=""></a>
-                </div>
-                <div class="course-content">
-                    <h4><a href="bachelor-of-business-administration.php">BBA Digital Management</a></h4>
-                    <p>BBA in Digital Marketing trains students in SEO, social media, content marketing, and online brand promotion strategies.</p>
-                </div>
-                <div class="course-position-content">
-                    <div class="credit-duration-wrap">
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-diamond"></i>
-                            <span>Credits : 125</span>
-                        </div>
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-clock-o"></i>
-                            <span>Duration : 3yrs</span>
-                        </div>
-                    </div>
-                    <div class="course-btn">
-                        <a class="default-btn" href="bachelor-of-business-administration.php">APPLY NOW</a>
-                    </div>
-                </div>
-            </div>
-            <div class="single-course">
-                <div class="course-img">
-                  <a href="bachelor-of-business-administration.php"><img class="animated" src="assets/uploads/bba-4.jpg" alt=""></a>
-                </div>
-                <div class="course-content">
-                    <h4><a href="bachelor-of-business-administration.php">BBA Retail Management</a></h4>
-                    <p>BBA in Retail Management develops skills in sales, store operations, customer experience, and supply chain management.</p>
-                </div>
-                <div class="course-position-content">
-                    <div class="credit-duration-wrap">
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-diamond"></i>
-                            <span>Credits : 125</span>
-                        </div>
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-clock-o"></i>
-                            <span>Duration : 3yrs</span>
-                        </div>
-                    </div>
-                    <div class="course-btn">
-                        <a class="default-btn" href="bachelor-of-business-administration.php">APPLY NOW</a>
-                    </div>
-                </div>
-            </div>
-            <div class="single-course">
-                <div class="course-img">
-                  <a href="bachelor-of-business-administration.php"><img class="animated" src="assets/uploads/aviation.webp" alt=""></a>
-                </div>
-                <div class="course-content">
-                    <h4><a href="bachelor-of-business-administration.php">BBA Aviation Management</a></h4>
-                    <p>BBA in Aviation Management trains students in airline operations, airport management, logistics, and aviation business administration.</p>
-                </div>
-                <div class="course-position-content">
-                    <div class="credit-duration-wrap">
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-diamond"></i>
-                            <span>Credits : 125</span>
-                        </div>
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-clock-o"></i>
-                            <span>Duration : 3yrs</span>
-                        </div>
-                    </div>
-                    <div class="course-btn">
-                        <a class="default-btn" href="bachelor-of-business-administration.php">APPLY NOW</a>
-                    </div>
-                </div>
-            </div>
-            <div class="single-course">
-                <div class="course-img">
-                  <a href="bachelor-of-commerce.php"><img class="animated" src="assets/uploads/bcom.jpg" alt=""></a>
-                </div>
-                <div class="course-content">
-                    <h4><a href="bachelor-of-commerce.php">B.Com. – Hons. (Finance)</a></h4>
-                    <p>B.Com (Hons) in Finance develops skills in financial analysis, investment management, accounting, and corporate financial planning.</p>
-                </div>
-                <div class="course-position-content">
-                    <div class="credit-duration-wrap">
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-diamond"></i>
-                            <span>Credits : 125</span>
-                        </div>
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-clock-o"></i>
-                            <span>Duration : 3yrs</span>
-                        </div>
-                    </div>
-                    <div class="course-btn">
-                        <a class="default-btn" href="bachelor-of-commerce.php">APPLY NOW</a>
-                    </div>
-                </div>
-            </div>
-            <div class="single-course">
-                <div class="course-img">
-                  <a href="bachelor-of-commerce.php"><img class="animated" src="assets/uploads/tax.webp" alt=""></a>
-                </div>
-                <div class="course-content">
-                    <h4><a href="bachelor-of-commerce.php">B.Com. – Hons. (Taxation)</a></h4>
-                    <p>B.Com (Hons) in Taxation develops skills in tax planning, compliance, auditing, and financial reporting for individuals and businesses.</p>
-                </div>
-                <div class="course-position-content">
-                    <div class="credit-duration-wrap">
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-diamond"></i>
-                            <span>Credits : 125</span>
-                        </div>
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-clock-o"></i>
-                            <span>Duration : 3yrs</span>
-                        </div>
-                    </div>
-                    <div class="course-btn">
-                        <a class="default-btn" href="bachelor-of-commerce.php">APPLY NOW</a>
-                    </div>
-                </div>
-            </div>
-            <div class="single-course">
-                <div class="course-img">
-                  <a href="bachelor-of-commerce.php"><img class="animated" src="assets/uploads/accounting.jpg" alt=""></a>
-                </div>
-                <div class="course-content">
-                    <h4><a href="bachelor-of-commerce.php">B.Com. – Hons. (Accounting)</a></h4>
-                    <p>B.Com (Hons) in Accounting develops skills in bookkeeping, financial reporting, auditing, and corporate accounting practices.</p>
-                </div>
-                <div class="course-position-content">
-                    <div class="credit-duration-wrap">
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-diamond"></i>
-                            <span>Credits : 125</span>
-                        </div>
-                        <div class="sin-credit-duration">
-                            <i class="fa fa-clock-o"></i>
-                            <span>Duration : 3yrs</span>
-                        </div>
-                    </div>
-                    <div class="course-btn">
-                        <a class="default-btn" href="bachelor-of-commerce.php">APPLY NOW</a>
-                    </div>
-                </div>
-            </div>
-             <div class="single-course">
-        <div class="course-img">
-          <a href="best-university-for-phd-in-dehradun-uttarakhand.php"><img class="animated" src="assets/uploads/phd.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="best-university-for-phd-in-dehradun-uttarakhand.php">PHD Program</a></h4>
-          <p>Ph.D. Programme is a full-time doctoral research programme focused on advanced study and original research, aimed at developing scholarly expertise and contributing meaningful knowledge to the academic and research community.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 2yrs</span>
-            </div>
+<div class="course-area bg-light pt-60 pb-60">
+  <div class="container">
+
+    <!-- ================= UNDERGRADUATE PROGRAMS ================= -->
+    <div class="section-title text-center mb-50">
+      <h2>Undergraduate <span>Programs</span></h2>
+      <p>Industry-focused undergraduate programs in business, management, and commerce.</p>
+    </div>
+
+    <div class="row">
+
+      <!-- BBA HR -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="bachelor-of-business-administration.php">
+              <img src="assets/uploads/bba.jpg" alt="">
+            </a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="best-university-for-phd-in-dehradun-uttarakhand.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>BBA Human Resource Management</h4>
+            <p>BBA in Human Resource Management trains students in recruitment, employee relations, training, and leadership skills.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>3 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="bachelor-of-business-administration.php">Apply Now</a>
           </div>
         </div>
       </div>
+
+      <!-- BBA Finance -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="bachelor-of-business-administration.php">
+              <img src="assets/uploads/bba-1.jpg" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>BBA Finance Management</h4>
+            <p>Focuses on financial planning, investment analysis, budgeting, and corporate decision-making.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>3 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="bachelor-of-business-administration.php">Apply Now</a>
+          </div>
         </div>
+      </div>
+
+      <!-- BBA Marketing -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="bachelor-of-business-administration.php">
+              <img src="assets/uploads/bba-2.jpeg" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>BBA Marketing Management</h4>
+            <p>Develops expertise in market research, branding, sales strategies, and digital marketing.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>3 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="bachelor-of-business-administration.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- BBA Digital -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="bachelor-of-business-administration.php">
+              <img src="assets/uploads/bba-3.jpeg" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>BBA Digital Management</h4>
+            <p>Trains students in SEO, social media marketing, content creation, and digital branding.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>3 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="bachelor-of-business-administration.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- BBA Retail -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="bachelor-of-business-administration.php">
+              <img src="assets/uploads/bba-4.jpg" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>BBA Retail Management</h4>
+            <p>Builds skills in retail operations, customer experience, sales, and supply chain management.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>3 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="bachelor-of-business-administration.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- BBA Aviation -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="bachelor-of-business-administration.php">
+              <img src="assets/uploads/aviation.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>BBA Aviation Management</h4>
+            <p>Prepares students for airline operations, airport management, and aviation business roles.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>3 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="bachelor-of-business-administration.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- B.Com Finance -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="bachelor-of-commerce.php">
+              <img src="assets/uploads/bcom.jpg" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>B.Com (Hons) – Finance</h4>
+            <p>Develops expertise in financial analysis, investments, accounting, and corporate finance.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>3 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="bachelor-of-commerce.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- B.Com Tax -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="bachelor-of-commerce.php">
+              <img src="assets/uploads/tax.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>B.Com (Hons) – Taxation</h4>
+            <p>Focuses on tax planning, compliance, auditing, and financial reporting.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>3 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="bachelor-of-commerce.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- B.Com Accounting -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="bachelor-of-commerce.php">
+              <img src="assets/uploads/accounting.jpg" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>B.Com (Hons) – Accounting</h4>
+            <p>Builds skills in bookkeeping, auditing, financial reporting, and corporate accounting.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>3 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="bachelor-of-commerce.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
     </div>
+
+    <!-- ================= DOCTORAL PROGRAM ================= -->
+    <div class="section-title text-center mb-50 mt-40">
+      <h2>Doctoral <span>Program</span></h2>
+      <p>Advanced doctoral research programs focused on academic and professional excellence.</p>
+    </div>
+
+    <div class="row">
+
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="best-university-for-phd-in-dehradun-uttarakhand.php">
+              <img src="assets/uploads/phd.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>Ph.D Program</h4>
+            <p>Full-time doctoral research program focused on advanced study and original research.</p>
+            <div class="course-meta">
+              <span>Credits: 125</span>
+              <span>2 Years</span>
+            </div>
+            <a class="default-btn btn-block" href="best-university-for-phd-in-dehradun-uttarakhand.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
 </div>
- 
+<style>
+  .course-card {
+    background: #fff;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+    transition: all 0.3s ease;
+    height: 100%;
+}
+
+.course-card:hover {
+    transform: translateY(-6px);
+}
+
+.course-img img {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+}
+
+.course-body {
+    padding: 20px;
+}
+
+.course-body h4 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.course-meta {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    margin: 15px 0;
+    color: #666;
+}
+
+.badge-pg {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background: #ff5a5f;
+    color: #fff;
+    padding: 5px 10px;
+    font-size: 12px;
+    border-radius: 20px;
+}
+
+  </style>
 <!-- clubs section -->
 <section class="clubs-section py-5">
   <div class="container">
@@ -506,7 +527,7 @@ practical skills to prepare students for future success.</p>
         Choosing the right place to pursue your education is a life-changing decision—one that shapes not only your academic journey but also your personal and professional future. At our institution, we go beyond conventional learning by offering an ecosystem of innovation, creativity, and global opportunities.
         </p>
         <p class="text-muted">Our focus is on preparing students to thrive in a fast-evolving world where adaptability, critical thinking, and ethical leadership matter as much as subject expertise. With state-of-the-art infrastructure, hands-on industry exposure, and mentorship from accomplished faculty, we ensure that every learner is equipped to transform ideas into impactful realities.</p>
-        <a href="https://admission.maya.edu.in/" class="btn btn-success btn-lg mt-3">Apply Now →</a>
+        <a href="https://admissions.maya.edu.in" class="btn btn-success btn-lg mt-3">Apply Now →</a>
       </div>
       <div class="col-lg-5 text-center">
         <img src="assets/uploads/computer.jpg" 

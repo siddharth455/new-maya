@@ -38,7 +38,7 @@
           Start by registering your account with basic contact and personal details.
         </p>
 
-        <a href="https://admission.maya.edu.in/" target="_blank" class="applyFlow-btn">
+        <a href="https://admissions.maya.edu.in" target="_blank" class="applyFlow-btn">
           Apply Now →
         </a>
       </div>

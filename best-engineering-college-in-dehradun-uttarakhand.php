@@ -131,356 +131,329 @@ document.addEventListener("DOMContentLoaded", () => {
 </script>
 
 <!-- Courses Section -->
-<div class="course-area bg-img pt-40">
-    <div class="container">
-        <div class="section-title mb-75 course-mrg-small">
-            <h2>Our <span>Programs</span></h2>
-            <p>We offer diverse, industry-focused courses that combine knowledge and<br>
-            practical skills to prepare students for future success.</p>
-        </div>
-        <div class="course-slider-active-3">
-        <div class="single-course">
-                                <div class="course-img">
-                                    <a href="b.tech-civil-engineering.php"><img class="animated" src="assets/uploads/civil.webp" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                <h4><a href="b.tech-civil-engineering.php">B.tech Civil Engineering</a></h4>
-                                <p>The B.Tech Civil Engineering program is a four-year course training students in civil engineering, structural design, and professional engineering skills.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 4yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="b.tech-civil-engineering.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="single-course">
-                                <div class="course-img">
-                                    <a href="b-tech-civil-structural-engineering.php"><img class="animated" src="assets/uploads/b.tech-civil.jpg" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                <h4><a href="b-tech-civil-structural-engineering.php">B.tech Civil Engineering (Structural Engineering)</a></h4>
-                                <p>The B.Tech Civil Engineering (Structural Engineering) is a four-year program focusing on structural design, analysis, and construction skills.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 4yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="b-tech-civil-structural-engineering.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="single-course">
-                                <div class="course-img">
-                                    <a href="b.tech-civil-engineering-le.php"><img class="animated" src="assets/uploads/civil-le.webp" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                    <h4><a href="b.tech-civil-engineering-le.php">B.tech Civil Engineering (Lateral Entry)</a></h4>
-                                    <p>The B.Tech Civil Engineering (Lateral Entry) is a four-year program focusing on structural design, analysis, and construction skills.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 4yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="b.tech-civil-engineering-le.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="single-course">
-                                <div class="course-img">
-                                    <a href="b.tech-mechanical-engineering.php"><img class="animated" src="assets/uploads/b.tech-mechanical.webp" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                <h4><a href="b.tech-mechanical-engineering.php">B.Tech Mechanical Engineering
-                                </a></h4>
-                                <p>The B.Tech Mechanical Engineering program is a four-year course designed to train students in mechanical systems, electronics, and professional engineering skills.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 4yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="b.tech-mechanical-engineering.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="single-course">
-                                <div class="course-img">
-                                    <a href="b.tech-mechatronics-and-robotics.php"><img class="animated" src="assets/uploads/robots.jpeg" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                <h4><a href="b.tech-mechatronics-and-robotics.php">B.Tech Mechanical Engineering (Mechatronics)
-                                </a></h4>
-                                <p>The B.Tech Mechanical Engineering (Mechatronics) program is a four-year course designed to train students in mechanical systems, electronics, and professional engineering skills.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 4yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="b.tech-mechatronics-and-robotics.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="single-course">
-                                <div class="course-img">
-                                    <a href="mechanical-engineering-le.php"><img class="animated" src="assets/uploads/mechanical-le.webp" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                <h4><a href="mechanical-engineering-le.php">B.tech Mechanical Engineering (Lateral Entry)</a></h4>
-                                <p>The B.Tech Mechanical Engineering (Lateral Entry) program is a three-year course focusing on mechanical systems, design, and advanced engineering skills.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 3yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="mechanical-engineering-le.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="single-course">
-                                <div class="course-img">
-                                    <a href="b.tech-electronics-and-communication-engineering.php"><img class="animated" src="assets/uploads/b.tech-electric-2.webp" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                <h4><a href="b.tech-electronics-and-communication-engineering.php">B.Tech in electronic and communication Engineering</a></h4>
-                                <p>The B.Tech Electronics and Communication Engineering is a four-year program focusing on communication systems, electronics, and embedded engineering skills.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 4yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="b.tech-electronics-and-communication-engineering.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="single-course">
-                                <div class="course-img">
-                                    <a href="b.tech-electronics-and-communication-engineering-vlsi-embedded.php"><img class="animated" src="assets/uploads/b.tech-electric.webp" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                <h4><a href="b.tech-electronics-and-communication-engineering-vlsi-embedded.php">B.Tech in EC Engineering (VLSI and Embedded System)</a></h4>
-                                <p>The B.Tech Electronics and Communication Engineering (VLSI and Embedded Systems) is a four-year program focusing on VLSI design, embedded systems, and electronics engineering skills.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 4yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="b.tech-electronics-and-communication-engineering-vlsi-embedded.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="single-course">
-                                <div class="course-img">
-                                    <a href="b.tech-electronics-and-communication-engineering-robotics-ai.php"><img class="animated" src="assets/uploads/b.tech-electric-3.webp" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                <h4><a href="b.tech-electronics-and-communication-engineering-robotics-ai.php">B.tech CE Engineering (Robotics & AI)</a></h4>
-                                <p>The B.Tech Electronics and Communication Engineering (Robotics and AI) is a four-year program focused on robotics, AI, and engineering skills.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 4yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="b.tech-electronics-and-communication-engineering-robotics-ai.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="single-course">
-                                <div class="course-img">
-                                    <a href="b.tech-aerospace-engineering.php"><img class="animated" src="assets/uploads/aero.jpg" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                <h4><a href="b.tech-aerospace-engineering.php">B.Tech in Aerospace Engineering</a></h4>
-                                <p>The B.Tech Aerospace Engineering is a four-year program focusing on aerodynamics, propulsion, aircraft structures, and space technology.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 4yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="b.tech-aerospace-engineering.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-                            
-                             <div class="single-course">
-                                <div class="course-img">
-                                    <a href="b.tech-electronics-and-communication-engineering-le.php"><img class="animated" src="assets/uploads/b.tech-electric-2.webp" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                <h4><a href="b.tech-electronics-and-communication-engineering-le.php">B.Tech in Electronics and Communication Engineering (Lateral Entry)</a></h4>
-                                <p>Electronics and Communication Engineering combines electronics and networking systems to create efficient communication channels.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 4yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="b.tech-electronics-and-communication-engineering-le.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="single-course">
-                                <div class="course-img">
-                                    <a href="m.tech-structural-engineering.php"><img class="animated" src="assets/uploads/b.tech-civil.jpg" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                <h4><a href="m.tech-mechanical-engineering.php">M.Tech in Structural Engineering</a></h4>
-                                <p>The M.Tech Structural Engineering is a two-year program focusing on advanced structural design, analysis, and construction technologies.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 2yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="m.tech-mechanical-engineering.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="single-course">
-                                <div class="course-img">
-                                    <a href="m.tech-mechanical-engineering.php"><img class="animated" src="assets/uploads/mtech-mechanical.webp" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                <h4><a href="m.tech-mechanical-engineering.php">M.Tech in Mechanical Engineering</a></h4>
-                                <p>Mechanical Engineering is one of the major streams in the engineering profession and its principles are involved in the design, study, development and construction of nearly all of the physical devices and systems.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 2yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="m.tech-mechanical-engineering.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-                             <div class="single-course">
-        <div class="course-img">
-          <a href="best-university-for-phd-in-dehradun-uttarakhand.php"><img class="animated" src="assets/uploads/phd.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="best-university-for-phd-in-dehradun-uttarakhand.php">PHD Program</a></h4>
-          <p>Ph.D. Programme is a full-time doctoral research programme focused on advanced study and original research, aimed at developing scholarly expertise and contributing meaningful knowledge to the academic and research community.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 2yrs</span>
-            </div>
+<div class="course-area bg-light pt-60 pb-60">
+  <div class="container">
+
+    <div class="section-title text-center mb-50">
+      <h2>Undergraduate <span>Programs</span></h2>
+      <p>Industry-focused undergraduate programs combining knowledge and practical skills.</p>
+    </div>
+
+    <div class="row">
+
+      <!-- B.Tech Civil -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="b.tech-civil-engineering.php">
+              <img src="assets/uploads/civil.webp" alt="">
+            </a>
           </div>
-          <div class="course-btn">
-            <a class="default-btn" href="best-university-for-phd-in-dehradun-uttarakhand.php">APPLY NOW</a>
+          <div class="course-body">
+            <h4>B.Tech Civil Engineering</h4>
+            <p>Training students in civil engineering, structural design, and professional engineering skills.</p>
+            <div class="course-meta"><span>Credits: 125</span><span>4 Years</span></div>
+            <a class="default-btn btn-block" href="b.tech-civil-engineering.php">Apply Now</a>
           </div>
         </div>
       </div>
+
+      <!-- Civil Structural -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="b-tech-civil-structural-engineering.php">
+              <img src="assets/uploads/b.tech-civil.jpg" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>B.Tech Civil (Structural Engineering)</h4>
+            <p>Focused on structural design, analysis, and construction skills.</p>
+            <div class="course-meta"><span>Credits: 125</span><span>4 Years</span></div>
+            <a class="default-btn btn-block" href="b-tech-civil-structural-engineering.php">Apply Now</a>
+          </div>
         </div>
+      </div>
+
+      <!-- Civil LE -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="b.tech-civil-engineering-le.php">
+              <img src="assets/uploads/civil-le.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>B.Tech Civil (Lateral Entry)</h4>
+            <p>Focused on structural design, analysis, and construction skills.</p>
+            <div class="course-meta"><span>Credits: 125</span><span>4 Years</span></div>
+            <a class="default-btn btn-block" href="b.tech-civil-engineering-le.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Mechanical -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="b.tech-mechanical-engineering.php">
+              <img src="assets/uploads/b.tech-mechanical.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>B.Tech Mechanical Engineering</h4>
+            <p>Mechanical systems, electronics, and professional engineering skills.</p>
+            <div class="course-meta"><span>Credits: 125</span><span>4 Years</span></div>
+            <a class="default-btn btn-block" href="b.tech-mechanical-engineering.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Mechatronics -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="b.tech-mechatronics-and-robotics.php">
+              <img src="assets/uploads/robots.jpeg" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>B.Tech Mechanical (Mechatronics)</h4>
+            <p>Mechanical systems integrated with electronics and robotics.</p>
+            <div class="course-meta"><span>Credits: 125</span><span>4 Years</span></div>
+            <a class="default-btn btn-block" href="b.tech-mechatronics-and-robotics.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Mechanical LE -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="mechanical-engineering-le.php">
+              <img src="assets/uploads/mechanical-le.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>B.Tech Mechanical (Lateral Entry)</h4>
+            <p>Advanced mechanical systems and design skills.</p>
+            <div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div>
+            <a class="default-btn btn-block" href="mechanical-engineering-le.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- ECE -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="b.tech-electronics-and-communication-engineering.php">
+              <img src="assets/uploads/b.tech-electric-2.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>B.Tech Electronics & Communication</h4>
+            <p>Communication systems, electronics, and embedded engineering.</p>
+            <div class="course-meta"><span>Credits: 125</span><span>4 Years</span></div>
+            <a class="default-btn btn-block" href="b.tech-electronics-and-communication-engineering.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- VLSI -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="b.tech-electronics-and-communication-engineering-vlsi-embedded.php">
+              <img src="assets/uploads/b.tech-electric.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>B.Tech ECE (VLSI & Embedded)</h4>
+            <p>VLSI design, embedded systems, and electronics engineering.</p>
+            <div class="course-meta"><span>Credits: 125</span><span>4 Years</span></div>
+            <a class="default-btn btn-block" href="b.tech-electronics-and-communication-engineering-vlsi-embedded.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Robotics AI -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="b.tech-electronics-and-communication-engineering-robotics-ai.php">
+              <img src="assets/uploads/b.tech-electric-3.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>B.Tech ECE (Robotics & AI)</h4>
+            <p>Robotics systems, artificial intelligence, and automation.</p>
+            <div class="course-meta"><span>Credits: 125</span><span>4 Years</span></div>
+            <a class="default-btn btn-block" href="b.tech-electronics-and-communication-engineering-robotics-ai.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Aerospace -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="b.tech-aerospace-engineering.php">
+              <img src="assets/uploads/aero.jpg" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>B.Tech Aerospace Engineering</h4>
+            <p>Aerodynamics, propulsion, aircraft structures, and space technology.</p>
+            <div class="course-meta"><span>Credits: 125</span><span>4 Years</span></div>
+            <a class="default-btn btn-block" href="b.tech-aerospace-engineering.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- ECE LE -->
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="b.tech-electronics-and-communication-engineering-le.php">
+              <img src="assets/uploads/b.tech-electric-2.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>B.Tech ECE (Lateral Entry)</h4>
+            <p>Electronics and networking systems for communication.</p>
+            <div class="course-meta"><span>Credits: 125</span><span>4 Years</span></div>
+            <a class="default-btn btn-block" href="b.tech-electronics-and-communication-engineering-le.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
     </div>
+  </div>
 </div>
+<div class="course-area bg-white pt-60 pb-60">
+  <div class="container">
+
+    <div class="section-title text-center mb-50">
+      <h2>Postgraduate <span>Programs</span></h2>
+    </div>
+
+    <div class="row">
+
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="m.tech-structural-engineering.php">
+              <img src="assets/uploads/b.tech-civil.jpg" alt="">
+            </a>
+            <span class="badge-pg">PG</span>
+          </div>
+          <div class="course-body">
+            <h4>M.Tech Structural Engineering</h4>
+            <p>Advanced structural design, analysis, and construction.</p>
+            <div class="course-meta"><span>Credits: 125</span><span>2 Years</span></div>
+            <a class="default-btn btn-block" href="m.tech-structural-engineering.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="m.tech-mechanical-engineering.php">
+              <img src="assets/uploads/mtech-mechanical.webp" alt="">
+            </a>
+            <span class="badge-pg">PG</span>
+          </div>
+          <div class="course-body">
+            <h4>M.Tech Mechanical Engineering</h4>
+            <p>Advanced mechanical systems, design, and research.</p>
+            <div class="course-meta"><span>Credits: 125</span><span>2 Years</span></div>
+            <a class="default-btn btn-block" href="m.tech-mechanical-engineering.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+<div class="course-area bg-light pt-60 pb-60">
+  <div class="container">
+
+    <div class="section-title text-center mb-50">
+      <h2>Doctoral <span>Program</span></h2>
+    </div>
+
+    <div class="row justify-content-center">
+
+      <div class="col-lg-3 col-md-6 mb-30">
+        <div class="course-card">
+          <div class="course-img">
+            <a href="best-university-for-phd-in-dehradun-uttarakhand.php">
+              <img src="assets/uploads/phd.webp" alt="">
+            </a>
+          </div>
+          <div class="course-body">
+            <h4>Ph.D. Program</h4>
+            <p>Full-time doctoral research focused on advanced study and original research.</p>
+            <div class="course-meta"><span>Credits: 125</span><span>2 Years</span></div>
+            <a class="default-btn btn-block" href="best-university-for-phd-in-dehradun-uttarakhand.php">Apply Now</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+<style>
+  .course-card {
+    background: #fff;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+    transition: all 0.3s ease;
+    height: 100%;
+}
+
+.course-card:hover {
+    transform: translateY(-6px);
+}
+
+.course-img img {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+}
+
+.course-body {
+    padding: 20px;
+}
+
+.course-body h4 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.course-meta {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    margin: 15px 0;
+    color: #666;
+}
+
+.badge-pg {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background: #ff5a5f;
+    color: #fff;
+    padding: 5px 10px;
+    font-size: 12px;
+    border-radius: 20px;
+}
+
+  </style>
  
 <!-- clubs section -->
 <section class="clubs-section py-5">
@@ -556,7 +529,7 @@ document.addEventListener("DOMContentLoaded", () => {
         Choosing the right place to pursue your education is a life-changing decision—one that shapes not only your academic journey but also your personal and professional future. At our institution, we go beyond conventional learning by offering an ecosystem of innovation, creativity, and global opportunities.
         </p>
         <p class="text-muted">Our focus is on preparing students to thrive in a fast-evolving world where adaptability, critical thinking, and ethical leadership matter as much as subject expertise. With state-of-the-art infrastructure, hands-on industry exposure, and mentorship from accomplished faculty, we ensure that every learner is equipped to transform ideas into impactful realities.</p>
-        <a href="https://admission.maya.edu.in/" class="btn btn-success btn-lg mt-3">Apply Now →</a>
+        <a href="https://admissions.maya.edu.in" class="btn btn-success btn-lg mt-3">Apply Now →</a>
       </div>
       <div class="col-lg-5 text-center">
         <img src="assets/uploads/computer.jpg" 

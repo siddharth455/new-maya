@@ -1471,7 +1471,7 @@ bubble.textContent = "0";
           global collaborations, and career-focused learning.
         </p>
 
-        <a href="https://admission.maya.edu.in/" class="mdu-btn">
+        <a href="https://admissions.maya.edu.in" class="mdu-btn">
           Apply Now
         </a>
       </div>

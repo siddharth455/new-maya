@@ -121,7 +121,7 @@
                                             <ul class="submenu">
                                                 <li><a href="assets/uploads/pdf/MDU_COMBINED_Brochure.pdf" download="MDU_COMBINED_Brochure.pdf">MDU Brocure</a></li>
                                                 <li><a href="assets/uploads/pdf/MDU_Fee_Structure.pdf" download="MDU_Fee_Structure.pdf">Fee Structure (2025-26)</a></li>
-                                                <li><a href="https://admission.maya.edu.in/" target="_blank">Apply Now</a></li>
+                                                <li><a href="https://admissions.maya.edu.in" target="_blank">Apply Now</a></li>
                                                 <li><a href="campus-life.php">Campus Life</a></li>
                                                 <li><a href="assets/uploads/pdf/List_of_Holidays_2025.pdf" download="List_of_Holidays_2025.pdf">List of Holidays</a></li>
                                                 <li><a href="assets/uploads/pdf/Academic_Calender_Even_Sem_2024-25.pdf" download="Academic_Calender_Even_Sem_2024-25.pdf">Academic Calender Even Sem 2024-25</a></li>
@@ -198,7 +198,7 @@
                                     <ul class="submenu">
                                         <li><a href="assets/uploads/pdf/MDU_COMBINED_Brochure.pdf" download="MDU_COMBINED_Brochure.pdf">MDU Brocure</a></li>
                                         <li><a href="assets/uploads/pdf/MDU_Fee_Structure.pdf" download="MDU_Fee_Structure.pdf">Fee Structure (2025-26)</a></li>
-                                        <li><a href="https://admission.maya.edu.in/" target="_blank">Apply Now</a></li>
+                                        <li><a href="https://admissions.maya.edu.in" target="_blank">Apply Now</a></li>
                                         <li><a href="campus-life.php">Campus Life</a></li>
                                         <li><a href="assets/uploads/pdf/List_of_Holidays_2025.pdf" download="List_of_Holidays_2025.pdf">List of Holidays</a></li>
                                         <li><a href="assets/uploads/pdf/Academic_Calender_Even_Sem_2024-25.pdf" download="Academic_Calender_Even_Sem_2024-25.pdf">Academic Calender Even Sem 2024-25</a></li>
