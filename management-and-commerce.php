@@ -355,6 +355,30 @@ practical skills to prepare students for future success.</p>
                     </div>
                 </div>
             </div>
+             <div class="single-course">
+        <div class="course-img">
+          <a href="best-university-for-phd-in-dehradun-uttarakhand.php"><img class="animated" src="assets/uploads/phd.webp" alt=""></a>
+        </div>
+        <div class="course-content">
+          <h4><a href="best-university-for-phd-in-dehradun-uttarakhand.php">PHD Program</a></h4>
+          <p>Ph.D. Programme is a full-time doctoral research programme focused on advanced study and original research, aimed at developing scholarly expertise and contributing meaningful knowledge to the academic and research community.</p>
+        </div>
+        <div class="course-position-content">
+          <div class="credit-duration-wrap">
+            <div class="sin-credit-duration">
+              <i class="fa fa-diamond"></i>
+              <span>Credits : 125</span>
+            </div>
+            <div class="sin-credit-duration">
+              <i class="fa fa-clock-o"></i>
+              <span>Duration : 2yrs</span>
+            </div>
+          </div>
+          <div class="course-btn">
+            <a class="default-btn" href="best-university-for-phd-in-dehradun-uttarakhand.php">APPLY NOW</a>
+          </div>
+        </div>
+      </div>
         </div>
     </div>
 </div>

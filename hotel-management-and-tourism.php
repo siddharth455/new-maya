@@ -136,8 +136,12 @@ document.addEventListener("DOMContentLoaded", () => {
     <div class="container">
         <div class="section-title mb-75 course-mrg-small">
             <h2>Our <span>Programs</span></h2>
-            <p>We offer diverse, industry-focused courses that combine knowledge and <br>
-practical skills to prepare students for future success.</p>
+            <p><strong>Diploma in Hotel Management- </strong>The Diploma in Hotel Management is a
+comprehensive two-year program designed to prepare students for careers in the hospitality industry.
+</p>
+<p><strong>Certificate in Hotel Management-</strong> The Certificate in Hotel Management is a
+one-year program designed to provide foundational knowledge of the hospitality industry.
+</p>
         </div>
         <div class="course-slider-active-3">
           <div class="single-course">
@@ -369,9 +373,20 @@ practical skills to prepare students for future success.</p>
         <h2>Why <span>Choose Us 🌟 ?</span></h2>
         </div>
         <p class="text-muted">
-        Choosing the right place to pursue your education is a life-changing decision—one that shapes not only your academic journey but also your personal and professional future. At our institution, we go beyond conventional learning by offering an ecosystem of innovation, creativity, and global opportunities.
+        Choosing Hotel Management and Tourism at Maya
+Devi University, Dehradun means stepping into a world of global opportunities.
+The program offers industry-focused education with a perfect blend of theory and practical exposure.
+Experienced faculty members mentor students with real-world hospitality insights and professional
+guidance.
         </p>
-        <p class="text-muted">Our focus is on preparing students to thrive in a fast-evolving world where adaptability, critical thinking, and ethical leadership matter as much as subject expertise. With state-of-the-art infrastructure, hands-on industry exposure, and mentorship from accomplished faculty, we ensure that every learner is equipped to transform ideas into impactful realities.</p>
+        <p class="text-muted">State-of-the-art training labs simulate actual hotel and tourism environments.
+Regular industrial visits, internships, and live projects enhance hands-on learning.
+The curriculum is regularly updated to match current hospitality and tourism trends.
+Strong industry connections support excellent internship and placement opportunities.
+Students develop leadership, communication, and customer service excellence.
+The scenic Dehradun location provides an inspiring learning atmosphere.
+At Maya Devi University, your journey toward a successful hospitality and tourism career truly begins.
+</p>
         <a href="https://admission.maya.edu.in/" class="btn btn-success btn-lg mt-3">Apply Now →</a>
       </div>
       <div class="col-lg-5 text-center">

@@ -73,7 +73,7 @@
                                     </div>
                                     <div class="single-course-summary">
                                         <h4>Course Credits</h4>
-                                        <span><i class="fa fa-diamond"></i> 125</span>
+                                        <span><i class="fa fa-diamond"></i> 88</span>
                                     </div>
                                     <div class="single-course-summary">
                                         <h4>Total Semester</h4>

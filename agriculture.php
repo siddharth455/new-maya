@@ -15,12 +15,22 @@
     <!-- Left Text -->
     <div class="col-md-7">
       <p>
-        The School of Agriculture and Technology, Maya Devi University, Selaqui, Dehradun is a dynamic academic and research institution committed to advancing sustainable agricultural practices, technological innovation and rural development. The department of Agriculture was established in 2013 and school of Agriculture & Technology in 2024.
+        The School of Agriculture and Technology, Maya Devi University, Selaqui, Dehradun is a dynamic academic and research institution committed to advancing sustainable agricultural practices, technological innovation and rural development. The department of Agriculture was established in 2013 and School of Agriculture & Technology in 2024.
       </p>
       <p>
         The school addresses the evolving challenges in food production, environmental sustainability and technological advancement and plays a vital role in training the next generation of professionals in agriculture and allied sciences. Rooted in a tradition of excellence and practical learning, the school offers programs that integrate modern scientific knowledge with hands-on experience in areas such as plant breeding, crop and soil science, horticultural sciences, agricultural engineering, food technology, microbiology, biochemistry, plant biotechnology and environmental management.
       </p>
-      <p>The curriculum is designed to meet the needs of a rapidly changing agricultural landscape and to equip students with the skills to drive innovation and impact.</p>
+      <p>The School of Agriculture follows a robust and nationally aligned
+curriculum strictly based on the Indian Council of Agricultural Research (ICAR) Sixth
+Deans’ Committee recommendations. All academic programmes of the School are designed,
+structured, and implemented in accordance with ICAR norms, guidelines, and credit
+requirements, ensuring uniformity, quality, and relevance in agricultural education.
+The School offers undergraduate, postgraduate, and doctoral programmes that include
+foundation courses, core courses, elective courses, practicals, seminars, research work, and
+compulsory experiential components such as Rural Agricultural Work Experience (RAWE),
+Student READY programme, in-plant training, and research projects, as prescribed by
+ICAR.”
+</p>
     </div>
     <!-- About Section -->
     <!-- Right Image -->
@@ -137,8 +147,11 @@
   <div class="container">
     <div class="section-title mb-75 course-mrg-small">
       <h2>Our <span>Programs</span></h2>
-      <p>We offer diverse, industry-focused courses that combine knowledge and <br>
-        practical skills to prepare students for future success.</p>
+      <p>The School of Agriculture offers a range of undergraduate, postgraduate, and doctoral
+academic programmes designed in accordance with the ICAR Sixth Deans’ Committee syllabus and norms. Each programme is structured to develop technical competence,
+analytical ability, and professional skills, preparing students for careers in agriculture,
+research, extension services, agribusiness, and allied sectors while addressing the evolving needs of sustainable agricultural development.
+</p>
     </div>
     <div class="course-slider-active-3">
       <div class="single-course">
@@ -462,23 +475,40 @@
 <section class="why-choose-us py-5">
   <div class="container">
     <div class="row align-items-center mb-5">
-      <div class="col-lg-7">
-        <div class="section-title pb-20">
-          <h2>Why <span>Choose Us 🌟 ?</span></h2>
-        </div>
-        <p class="text-muted">
-          Choosing the right place to pursue your education is a life-changing decision—one that shapes not just your academic journey but also your personal and professional future. At the School of Computer Applications, Maya Devi University, we go beyond conventional learning by offering an ecosystem of innovation, creativity, and global opportunities.
-        </p>
-        <p class="text-muted">Our focus is on preparing students to thrive in a fast-evolving digital world where adaptability, critical thinking, and ethical leadership matter as much as technical expertise. With state-of-the-art infrastructure, hands-on industry exposure, and mentorship from accomplished faculty, we ensure that every learner is equipped to transform ideas into impactful realities.</p>
-        <a href="https://admission.maya.edu.in/" class="btn btn-success btn-lg mt-3">Apply Now →</a>
-      </div>
-      <div class="col-lg-5 text-center">
-        <img src="assets/uploads/computer.jpg"
-          alt="Why Choose Us"
-          class="img-fluid rounded shadow"
-          style="max-height:380px; object-fit:cover; width:100%;">
-      </div>
+  <div class="col-lg-12">
+    <div class="section-title pb-20">
+      <h2>Why <span>Choose Us ?</span></h2>
     </div>
+
+    <p class="text-muted">
+      In a world facing increasing population and climate challenges, the demand for skilled
+      professionals in agriculture and technology is higher than ever. SoAT prepares you to be
+      a part of the solution.
+    </p>
+
+    <h5 class="mt-4">🌍 Global Demand</h5>
+    <p class="text-muted">
+      Graduates are sought after worldwide in government agencies, agribusiness, research, and
+      international NGOs.
+    </p>
+
+    <h5 class="mt-3">🧪 Hands-On Experience</h5>
+    <p class="text-muted">
+      From on-campus farms to high-tech labs, gain practical skills for real-world challenges in
+      food systems and Agri-tech entrepreneurship.
+    </p>
+
+    <h5 class="mt-3">🚀 Innovation & Impact</h5>
+    <p class="text-muted">
+      We foster creative thinking, supporting startups and research projects that shape the
+      future of agriculture and tackle global issues like food insecurity.
+    </p>
+
+    <a href="https://admission.maya.edu.in/" class="btn btn-success btn-lg mt-3">
+      Apply Now →
+    </a>
+  </div>
+</div>
 
     <!-- Feature Points -->
     <div class="row gy-4">
@@ -576,31 +606,38 @@
         <tbody>
           <tr>
             <td>1</td>
-            <td><strong>Prof. (Dr.) Himanshu Saini</strong></td>
-            <td>National Summit of Institutional Leaders NSIL - 2025</td>
-            <td>March 01–02, 2025</td>
-            <td>VBUSS, Doon University, Dehradun & Dept. of Higher Education, Govt. of Uttarakhand</td>
+            <td><strong>Dr. Sarvesh Rastogi</strong></td>
+            <td>Excellent Researcher Award</td>
+            <td>2025</td>
+            <td>Scientific Laurels</td>
           </tr>
           <tr>
             <td>2</td>
-            <td><strong>Prof. (Dr.) Himanshu Saini</strong></td>
-            <td>One day workshop on ‘The Art of Writing Research/Review Publications and Research Proposals’</td>
-            <td>January 04, 2025</td>
-            <td>Maya Devi University, Dehradun</td>
+            <td><strong>Dr. DS Rawat</strong></td>
+            <td>Uttarakhand Gaurav Award</td>
+            <td>2026</td>
+            <td>UK World Record</td>
           </tr>
           <tr>
             <td>3</td>
-            <td><strong>Prof. (Dr.) Himanshu Saini</strong></td>
-            <td>Krishi Vigyan Mela - 2.0</td>
-            <td>December 10–11, 2024</td>
-            <td>Maya Devi University, Dehradun</td>
+            <td><strong>Dr. Naveen</strong></td>
+            <td>Best Researcher Award</td>
+            <td>2025</td>
+            <td>Analytical Chemistry</td>
           </tr>
           <tr>
             <td>4</td>
-            <td><strong>Prof. (Dr.) Himanshu Saini</strong></td>
-            <td>National Conference on ‘New Education Policy - India Towards Developed Nation by 2047’</td>
-            <td>October 05, 2024</td>
-            <td>Maya Devi University, Dehradun</td>
+            <td><strong>Dr. Vinay</strong></td>
+            <td>Best Oral Presentation Award</td>
+            <td>2025</td>
+            <td>Agro Environment Developmental Society (AEDS) UP</td>
+          </tr>
+           <tr>
+            <td>5</td>
+            <td><strong>Dr. Vinay</strong></td>
+            <td>Best Thesis Award</td>
+            <td>2025</td>
+            <td>Agro Environment Developmental Society (AEDS) UP</td>
           </tr>
         </tbody>
       </table>

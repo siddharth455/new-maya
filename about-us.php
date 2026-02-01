@@ -385,11 +385,11 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-12">
+            <!-- <div class="col-lg-4 col-md-12">
                 <div class="about-img">
                     <img src="assets/uploads/about-boy.png" alt="">
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </div>

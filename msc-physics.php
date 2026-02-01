@@ -29,7 +29,7 @@
                         <div class="tab-pane active mt-5" id="course-details-1">
                             <div class="over-view-content">
                                 <h4>COURSE DETAILS</h4>
-                                <h5>Course Name : B.Sc Nursing</h5>
+                                <h5>Course Name : M.Sc. Physics</h5>
                                 <p>The M.Sc. Physics program at Maya Devi University offers in-depth and advanced study of theoretical and applied physics. The curriculum includes quantum mechanics, classical mechanics, electrodynamics, condensed matter physics, statistical mechanics, nuclear and particle physics, electronics, computational physics, and astrophysics.</p>
                                 <p>Students gain hands-on experience through laboratory experiments, simulation work, scientific computing, research projects, and seminars. With a strong focus on analytical skills, mathematical techniques, and experimental research, the program prepares students for high-level scientific careers, research positions, competitive exams, and doctoral studies.</p>
                                 <div class="over-view-list">
@@ -73,7 +73,7 @@
                                     </div>
                                     <div class="single-course-summary">
                                         <h4>Course Credits</h4>
-                                        <span><i class="fa fa-diamond"></i> 125</span>
+                                        <span><i class="fa fa-diamond"></i> 88</span>
                                     </div>
                                     <div class="single-course-summary">
                                         <h4>Total Semester</h4>

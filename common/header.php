@@ -128,17 +128,17 @@
                                                 <li><a href="refund-policy.php">Refund Policy</a></li>
                                             </ul>
                                         </li>
-                                         <!-- <li><a href="#"> ACADEMICS <i class="fa fa-angle-down"></i> </a>
+                                         <li><a href="#"> ACADEMICS <i class="fa fa-angle-down"></i> </a>
                                             <ul class="submenu">
-                                                <li><a href="assets/uploads/pdf/MDU_COMBINED_Brochure.pdf" download="MDU_COMBINED_Brochure.pdf">MDU Brocure</a></li>
-                                                <li><a href="assets/uploads/pdf/MDU_Fee_Structure.pdf" download="MDU_Fee_Structure.pdf">Fee Structure (2025-26)</a></li>
-                                                <li><a href="https://admission.maya.edu.in/" target="_blank">Apply Now</a></li>
-                                                <li><a href="campus-life.php">Campus Life</a></li>
-                                                <li><a href="assets/uploads/pdf/List_of_Holidays_2025.pdf" download="List_of_Holidays_2025.pdf">List of Holidays</a></li>
-                                                <li><a href="assets/uploads/pdf/Academic_Calender_Even_Sem_2024-25.pdf" download="Academic_Calender_Even_Sem_2024-25.pdf">Academic Calender Even Sem 2024-25</a></li>
-                                                <li><a href="refund-policy.php">Refund Policy</a></li>
+                                               <li><a href="colleges-departments.php">Colleges & Departments</a></li>
+                                                <li><a href="university-library.php">Library</a></li>
+                                                <!-- <li><a href="" download="MDU_COMBINED_Brochure.pdf">Academic Overview</a></li>
+                                                <li><a href="" target="_blank">Curriculum Innovation</a></li>
+                                                <li><a href="">Examination</a></li>
+                                                <li><a href="" download="Academic_Calender_Even_Sem_2024-25.pdf">Academic Calender</a></li>
+                                                <li><a href="">List of Holidays</a></li> -->
                                             </ul>
-                                        </li> -->
+                                        </li>
                                         <li><a href="#"> COURSES/PROGRAMMES <i class="fa fa-angle-down"></i> </a>
                                             <ul class="submenu">
                                                 <li><a href="diploma-course.php">Diploma Courses</a></li>
@@ -205,7 +205,17 @@
                                         <li><a href="refund-policy.php">Refund Policy</a></li>
                                     </ul>
                                 </li>
-
+ <li><a href="#"> ACADEMICS <i class="fa fa-angle-down"></i> </a>
+                                            <ul class="submenu">
+                                                <li><a href="colleges-departments.php">Colleges & Departments</a></li>
+                                                <li><a href="university-library.php">Library</a></li>
+                                                <!-- <li><a href="" download="MDU_COMBINED_Brochure.pdf">Academic Overview</a></li>
+                                                <li><a href="" target="_blank">Curriculum Innovation</a></li>
+                                                <li><a href="">Examination</a></li>
+                                                <li><a href="" download="Academic_Calender_Even_Sem_2024-25.pdf">Academic Calender</a></li>
+                                                <li><a href="">List of Holidays</a></li> -->
+                                            </ul>
+                                        </li>
                                 <li><a href="#"> COURSES/PROGRAMMES <i class="fa fa-angle-down"></i> </a>
                                             <ul class="submenu">
                                                 <li><a href="Diploma.php">Diploma Courses</a></li>

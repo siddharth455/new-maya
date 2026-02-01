@@ -29,7 +29,7 @@
                         <div class="tab-pane active mt-5" id="course-details-1">
                             <div class="over-view-content">
                                 <h4>COURSE  DETAILS</h4>
-                            <h5>Course Name : Master in Pharmacy</h5>
+                            <h5>Course Name : Master in Pharmacy (Pharmaceutics)</h5>
                             <p>The Department of Pharmaceutics at Maya Devi University transforms new chemical entities into safe and effective medications through innovative dosage forms like tablets, capsules, injections, and advanced drug delivery systems, ensuring stability, bioavailability, and therapeutic effectiveness.</p>
                             <p>An M.Pharm provides advanced training for careers in pharmaceutical research, clinical pharmacy, regulatory affairs, and academia. Core subjects such as Advanced Pharmacology, Pharmaceutics, Pharmaceutical Chemistry, Pharmacognosy, and Clinical Pharmacy form the backbone of the program and prepare students for specialized professional practice in pharmacy.</p>
                                 <div class="over-view-list">
@@ -58,7 +58,7 @@
                                     
                                     <div class="single-course-summary">
                                         <h4>Approved seats - 2026-27</h4>
-                                        <span><i class="fa fa-user"></i> 60</span>
+                                        <span><i class="fa fa-user"></i> 15</span>
                                     </div>
                                     <div class="single-course-summary">
                                         <h4>Course Duration</h4>
@@ -162,7 +162,7 @@
                         <div class="sidebar-title mb-15">
                             <h4>About Us</h4>
                         </div>
-                        <p>Maya Devi University’s Master in Pharmacy (M.Pharm-Pharmaceutics) program provides advanced knowledge & practical Training in Pharmaceutics. Graduates are prepared for careers in pharmaceutical research, clinical pharmacy, regulatory affairs, and academia, contributing to innovation and excellence in healthcare and pharmaceutical sciences.</p>
+                        <p>Maya Devi University’s Master in Pharmacy (M.Pharm-Pharmaceutics) program provides advanced knowledge & practical Training in Pharmaceutics.  Graduates are prepared for careers in pharmaceutical research, clinical pharmacy, regulatory affairs, and academia, contributing to innovation and excellence in healthcare and pharmaceutical sciences.</p>
 
                     </div>
                     

@@ -84,25 +84,14 @@
     <div class="school">
       <h2 class="school-name">School of Life and Applied Sciences</h2>
       <ul class="courses-list">
-      <li><a href="bsc-pcm.php">B.Sc - PCM</a></li>
-      <li><a href="bsc-cbz.php">B.Sc - CBZ</a></li>
-      <li><a href="bsc-environmental-science.php">B.Sc - Environmental Science</a></li>
       <li><a href="bsc-environmental-science-hons.php">B.Sc - Environmental Science (Hons.)</a></li>
-      <li><a href="bsc-physics.php">B.Sc - Physics</a></li>
       <li><a href="bsc-physics-hons.php">B.Sc - Physics (Hons.)</a></li>
-      <li><a href="bsc-botany.php">B.Sc - Botany</a></li>
       <li><a href="bsc-botany-hons.php">B.Sc - Botany (Hons.)</a></li>
-      <li><a href="bsc-zoology.php">B.Sc - Zoology</a></li>
       <li><a href="bsc-zoology-hons.php">B.Sc - Zoology (Hons.)</a></li>
-      <li><a href="bsc-chemistry.php">B.Sc - Chemistry</a></li>
       <li><a href="bsc-chemistry-hons.php">B.Sc - Chemistry (Hons.)</a></li>
-      <li><a href="bsc-mathematics.php">B.Sc - Mathematics</a></li>
       <li><a href="bsc-mathematics-hons.php">B.Sc - Mathematics (Hons.)</a></li>
-      <li><a href="bsc-forensic-science.php">B.Sc - Forensic Science</a></li>
       <li><a href="bsc-forensic-hons.php">B.Sc - Forensic Science (Hons.)</a></li>
-        <li><a href="bsc-biotechnology.php">B.Sc - Biotechnology</a></li>
         <li><a href="bsc-biotechnology-hons.php">B.Sc - Biotechnology (Hons.)</a></li>
-        <li><a href="bsc-microbiology.php">B.Sc - Microbiology</a></li>
         <li><a href="bsc-microbiology-hons.php">B.Sc - Microbiology (Hons.)</a></li>
       </ul>
     </div>

@@ -687,34 +687,59 @@ $('.slider-active').owlCarousel({
     }
 
     /* RESPONSIVE */
-    @media(max-width:900px) {
-        .mdu-facility-immersive {
-            flex-direction: column;
-        }
+    @media (max-width: 900px) {
 
-        .mdu-facility-images {
-            position: relative;
-            height: 280px;
-            top: 0;
-        }
+    /* Disable desktop image column */
+    .mdu-facility-images {
+        display: none;
     }
+.mdu-facility-content {
+    flex: 0 0 100%;
+}
+    /* Mobile images inserted after headings */
+    .mobile-fi-img {
+        width: 100%;
+        height: 220px;
+        margin: 14px 0 28px;
+        border-radius: 12px;
+        background-size: cover;
+        background-position: center;
+        box-shadow: 0 14px 30px rgba(0,0,0,.12);
+    }
+
+    /* No faded items on mobile */
+    .fc-item {
+        opacity: 1;
+        transform: none;
+        cursor: default;
+    }
+}
+
 </style>
 <script>
+document.addEventListener("DOMContentLoaded", () => {
+
+    if (window.innerWidth > 900) return; // desktop untouched
+
     const items = document.querySelectorAll(".fc-item");
-    const imgs = document.querySelectorAll(".fi-img");
+    const imgs  = document.querySelectorAll(".fi-img");
 
-    items.forEach(item => {
-        item.addEventListener("mouseenter", () => {
-            let idx = item.dataset.index;
+    items.forEach((item, index) => {
+        if (!imgs[index]) return;
 
-            items.forEach(i => i.classList.remove("active"));
-            item.classList.add("active");
+        const imgDiv = document.createElement("div");
+        imgDiv.className = "mobile-fi-img";
 
-            imgs.forEach(i => i.classList.remove("active"));
-            imgs[idx].classList.add("active");
-        });
+        // copy background image
+        imgDiv.style.backgroundImage = imgs[index].style.backgroundImage;
+
+        // insert AFTER heading block
+        item.insertAdjacentElement("afterend", imgDiv);
     });
+
+});
 </script>
+
 <div class="container mb-4">
     <div class="row align-items-center">
         <!-- Left Side - Image -->
@@ -787,8 +812,8 @@ $('.slider-active').owlCarousel({
                         </div>
                     </article>
 
-                    <article class="mduLegacy-item" data-target="1200">
-                        <div class="mduLegacy-bubble">1200+</div>
+                    <article class="mduLegacy-item" data-target="12000">
+                        <div class="mduLegacy-bubble">12000+</div>
                         <div class="mduLegacy-card">
                             <div class="mduLegacy-card-head">Alumni</div>
                             <p class="mduLegacy-card-desc">
@@ -986,7 +1011,15 @@ $('.slider-active').owlCarousel({
                 const bubble = el.querySelector('.mduLegacy-bubble');
                 const target = parseInt(el.getAttribute("data-target")) || 0;
 
-                bubble.textContent = "0";
+// If number is too large, skip animation
+if (target >= 5000) {
+    bubble.textContent = target + "+";
+    obs.unobserve(el);
+    return;
+}
+
+bubble.textContent = "0";
+
 
                 let start = 0;
                 const duration = 1200;

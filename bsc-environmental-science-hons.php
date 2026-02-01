@@ -66,18 +66,6 @@
                                         <h4>Total Students</h4>
                                         <span><i class="fa fa-user"></i> 60</span>
                                     </div>
-                                    <div class="single-course-summary">
-                                        <h4>Course Duration</h4>
-                                        <span><i class="fa fa-clock-o"></i> 3yrs</span>
-                                    </div>
-                                    <div class="single-course-summary">
-                                        <h4>Course Credits</h4>
-                                        <span><i class="fa fa-diamond"></i> 125</span>
-                                    </div>
-                                    <div class="single-course-summary">
-                                        <h4>Total Semester</h4>
-                                        <span><i class="fa fa-book"></i> 6</span>
-                                    </div>
                                 </div>
 
                             </div>
