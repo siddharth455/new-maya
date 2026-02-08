@@ -396,18 +396,34 @@
     <div class="partner-slider">
       <div class="partner-track">
         <!-- Add as many logos as you like -->
-        <img src="assets/uploads/icon/pfizer.webp" alt="Pfizer">
-        <img src="assets/uploads/icon/glenmark.webp" alt="Glenmark">
-        <img src="assets/uploads/icon/cisco.jpg" alt="Cisco">
-        <img src="assets/uploads/icon/ibm.jpg" alt="IBM">
-        <img src="assets/uploads/icon/oberai.jpg" alt="Oberai">
-        <img src="assets/uploads/icon/deloite.jpg" alt="Deloitte">
-        <img src="assets/uploads/icon/nvidia.jpg" alt="Nvidia">
-        <img src="assets/uploads/icon/torrent.webp" alt="">
-        <img src="assets/uploads/icon/amazon.jpg" alt="">
-        <img src="assets/uploads/icon/tata.jpg" alt="">
-        <img src="assets/uploads/icon/goorej.jpg" alt="">
-        <img src="assets/uploads/icon/accenture.jpg" alt="">
+        <img src="assets/uploads/icon/1.jpg" alt="Pfizer">
+        <img src="assets/uploads/icon/2.jpg" alt="Pfizer">
+       <img src="assets/uploads/icon/3.jpg" alt="Pfizer">
+        <img src="assets/uploads/icon/4.jpg" alt="Pfizer">
+        <img src="assets/uploads/icon/5.png" alt="Pfizer">
+        <img src="assets/uploads/icon/6.png" alt="Pfizer">
+        <img src="assets/uploads/icon/7.jpg" alt="Pfizer">
+        <img src="assets/uploads/icon/8.jpg" alt="Pfizer">
+        <img src="assets/uploads/icon/9.jpg" alt="Pfizer">
+        <img src="assets/uploads/icon/10.jpg" alt="Pfizer">
+        <img src="assets/uploads/icon/11.jpg" alt="Pfizer">
+        <img src="assets/uploads/icon/12.jpg" alt="Pfizer">
+        <img src="assets/uploads/icon/13.jpg" alt="Pfizer">
+        <img src="assets/uploads/icon/14.jpg" alt="Pfizer">
+        <img src="assets/uploads/icon/15.jpg" alt="Pfizer">
+        <img src="assets/uploads/icon/16.jpg" alt="Pfizer">
+        <img src="assets/uploads/icon/17.jpg" alt="Pfizer">
+        <img src="assets/uploads/icon/18.jpg" alt="Pfizer">
+        <img src="assets/uploads/icon/19.jpg" alt="Pfizer">
+        <img src="assets/uploads/icon/20.jpg" alt="Pfizer">
+        <img src="assets/uploads/icon/21.jpg" alt="Pfizer">
+        <img src="assets/uploads/icon/22.jpg" alt="Pfizer">
+        <img src="assets/uploads/icon/23.jpg" alt="Pfizer">
+        <img src="assets/uploads/icon/24.jpg" alt="Pfizer">
+        <img src="assets/uploads/icon/25.jpg" alt="Pfizer">
+        <img src="assets/uploads/icon/26.jpg" alt="Pfizer">
+        <img src="assets/uploads/icon/27.jpg" alt="Pfizer">
+        <img src="assets/uploads/icon/28.jpg" alt="Pfizer">
       </div>
     </div>
   </div>

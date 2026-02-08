@@ -30,6 +30,76 @@ url('assets/uploads/home-banner-1.jpeg');">
             </div>
         </div>
 
+        <div class="single-slider slider-height-1 bg-img" style="background-image:
+linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)),
+url('assets/uploads/index-banner.jpeg');">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-9 col-md-7 col-12">
+                        <div class="slider-content slider-animated-1 pt-230">
+                           <h1 class="animated">Celebrate. Connect. Create Memories.</h1>
+<p class="animated">
+Experience the pulse of Maya Devi University through electrifying fests, cultural events, competitions, and celebrations that bring talent, creativity, and campus life together.
+</p>
+
+                            <div class="slider-btn">
+                                <a class="animated default-btn btn-white-color" href="contact.php">CONTACT US</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-5 col-12">
+                        <!-- <div class="slider-single-img slider-animated-1">
+                            <img class="animated" src="assets/uploads/banner-girl.png" alt="">
+                        </div> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="single-slider slider-height-1 bg-img" style="background-image:
+linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)),
+url('assets/uploads/index-banner-2.jpeg');">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-9 col-md-7 col-12">
+                        <div class="slider-content slider-animated-1 pt-230">
+                            
+                            <div class="slider-btn">
+                                
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-5 col-12">
+                        <!-- <div class="slider-single-img slider-animated-1">
+                            <img class="animated" src="assets/uploads/banner-girl.png" alt="">
+                        </div> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="single-slider slider-height-1 bg-img" style="background-image:
+linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)),
+url('assets/uploads/index-banner-3.jpeg');">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-9 col-md-7 col-12">
+                        <div class="slider-content slider-animated-1 pt-230">
+                            
+                            <div class="slider-btn">
+                               
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-5 col-12">
+                        <!-- <div class="slider-single-img slider-animated-1">
+                            <img class="animated" src="assets/uploads/banner-girl.png" alt="">
+                        </div> -->
+                    </div>
+                </div>
+            </div>
+        </div>
         <!-- Slide 2 -->
         <div class="single-slider slider-height-1 bg-img" style="background-image:
 linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)),url('assets/uploads/campus-1.webp');">
@@ -46,35 +116,34 @@ linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)),url('assets/uploads/campus-1
                     </div>
 
                     <div class="col-lg-3 col-md-5 col-12">
-                      <!-- <div class="slider-single-img slider-animated-1">
+                        <!-- <div class="slider-single-img slider-animated-1">
                             <img class="animated" src="assets/uploads/girl-2.png" alt="">
                         </div> -->
                     </div>
-
                 </div>
             </div>
         </div>
-
     </div>
+
 </div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
 
 <!-- FIXED Slider JS -->
 <script>
-$('.slider-active').owlCarousel({
-    loop: true,
-    items: 1,
-    margin: 0,
-    autoplay: true,
-    autoplayTimeout: 3500,
-    autoplayHoverPause: true,
-    nav: false,
-    dots: true,
-    smartSpeed: 800,
-    animateOut: 'fadeOut',
-    animateIn: 'fadeIn'
-});
+    $('.slider-active').owlCarousel({
+        loop: true,
+        items: 1,
+        margin: 0,
+        autoplay: true,
+        autoplayTimeout: 3000,
+        autoplayHoverPause: true,
+        nav: false,
+        dots: true,
+        smartSpeed: 600,
+        animateOut: 'fadeOut',
+        animateIn: 'fadeIn'
+    });
 </script>
 <div class="choose-us section-padding-1">
     <div class="container-fluid">
@@ -152,16 +221,20 @@ $('.slider-active').owlCarousel({
         <div class="row align-items-center">
             <div class="col-lg-7 col-md-12 col-sm-12">
                 <div class="about-img about-img-2 mr-70"
-                    style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-                    <iframe src="https://www.youtube.com/embed/Gm-KE2N_5ws?si=GhYhUb3BJcIAEJJ9"
-                        title="YouTube video player"
-                        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-                        frameborder="0"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                        referrerpolicy="strict-origin-when-cross-origin"
-                        allowfullscreen>
-                    </iframe>
-                </div>
+     style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+
+  <iframe
+    src="https://www.youtube.com/embed/Gm-KE2N_5ws?autoplay=1&mute=1&playsinline=1&rel=0"
+    title="YouTube video player"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    frameborder="0"
+    allow="autoplay; encrypted-media; picture-in-picture"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+
+</div>
+
             </div>
 
             <div class="col-lg-5 col-md-12">
@@ -348,185 +421,184 @@ $('.slider-active').owlCarousel({
             </div>
 
         </div>
-<section class="campus-gallery-section">
+        <section class="campus-gallery-section">
 
-  <!-- ===== INLINE STYLES (SELF-CONTAINED) ===== -->
-  <style>
-    .campus-gallery-container {
-      max-width: 1200px;
-      margin: 0 auto;
-    }
+            <!-- ===== INLINE STYLES (SELF-CONTAINED) ===== -->
+            <style>
+                .campus-gallery-container {
+                    max-width: 1200px;
+                    margin: 0 auto;
+                }
 
-    /* Header */
-    .campus-gallery-header {
-      max-width: 1200px;
-      margin-bottom: 60px;
-    }
+                /* Header */
+                .campus-gallery-header {
+                    max-width: 1200px;
+                    margin-bottom: 60px;
+                }
 
-    .campus-gallery-header h2 {
-      font-size: 38px;
-      font-weight: 800;
-      margin-bottom: 12px;
-      color: #111;
-    }
+                .campus-gallery-header h2 {
+                    font-size: 38px;
+                    font-weight: 800;
+                    margin-bottom: 12px;
+                    color: #111;
+                }
 
-    .campus-gallery-header p {
-      font-size: 17px;
-      line-height: 1.7;
-      color: #555;
-    }
+                .campus-gallery-header p {
+                    font-size: 17px;
+                    line-height: 1.7;
+                    color: #555;
+                }
 
-    /* Grid */
-    .campus-gallery-grid {
-      display: grid;
-      grid-template-columns: repeat(4, 1fr);
-      grid-auto-rows: 260px;
-      gap: 20px;
-    }
+                /* Grid */
+                .campus-gallery-grid {
+                    display: grid;
+                    grid-template-columns: repeat(4, 1fr);
+                    grid-auto-rows: 260px;
+                    gap: 20px;
+                }
 
-    /* Items */
-    .gallery-item {
-      position: relative;
-      overflow: hidden;
-      border-radius: 16px;
-      cursor: pointer;
-      animation: fadeUp 0.9s ease both;
-    }
+                /* Items */
+                .gallery-item {
+                    position: relative;
+                    overflow: hidden;
+                    border-radius: 16px;
+                    cursor: pointer;
+                    animation: fadeUp 0.9s ease both;
+                }
 
-    .gallery-item img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      transition: transform 0.6s ease;
-    }
+                .gallery-item img {
+                    width: 100%;
+                    height: 100%;
+                    object-fit: cover;
+                    transition: transform 0.6s ease;
+                }
 
-    /* Overlay */
-    .gallery-overlay {
-      position: absolute;
-      inset: 0;
-      background: linear-gradient(
-        to top,
-        rgba(0,0,0,0.65),
-        rgba(0,0,0,0.15)
-      );
-      display: flex;
-      align-items: flex-end;
-      padding: 18px;
-      opacity: 0;
-      transition: opacity 0.4s ease;
-    }
+                /* Overlay */
+                .gallery-overlay {
+                    position: absolute;
+                    inset: 0;
+                    background: linear-gradient(to top,
+                            rgba(0, 0, 0, 0.65),
+                            rgba(0, 0, 0, 0.15));
+                    display: flex;
+                    align-items: flex-end;
+                    padding: 18px;
+                    opacity: 0;
+                    transition: opacity 0.4s ease;
+                }
 
-    .gallery-overlay span {
-      color: #fff;
-      font-weight: 600;
-      letter-spacing: 0.3px;
-      font-size: 15px;
-    }
+                .gallery-overlay span {
+                    color: #fff;
+                    font-weight: 600;
+                    letter-spacing: 0.3px;
+                    font-size: 15px;
+                }
 
-    /* Hover */
-    .gallery-item:hover img {
-      transform: scale(1.08);
-    }
+                /* Hover */
+                .gallery-item:hover img {
+                    transform: scale(1.08);
+                }
 
-    .gallery-item:hover .gallery-overlay {
-      opacity: 1;
-    }
+                .gallery-item:hover .gallery-overlay {
+                    opacity: 1;
+                }
 
-    /* Featured */
-    .gallery-item.featured {
-      grid-column: span 2;
-      grid-row: span 2;
-    }
+                /* Featured */
+                .gallery-item.featured {
+                    grid-column: span 2;
+                    grid-row: span 2;
+                }
 
-    /* Animation */
-    @keyframes fadeUp {
-      from {
-        opacity: 0;
-        transform: translateY(30px);
-      }
-      to {
-        opacity: 1;
-        transform: translateY(0);
-      }
-    }
+                /* Animation */
+                @keyframes fadeUp {
+                    from {
+                        opacity: 0;
+                        transform: translateY(30px);
+                    }
 
-    /* Responsive */
-    @media (max-width: 992px) {
-      .campus-gallery-grid {
-        grid-template-columns: repeat(2, 1fr);
-        grid-auto-rows: 220px;
-      }
+                    to {
+                        opacity: 1;
+                        transform: translateY(0);
+                    }
+                }
 
-      .gallery-item.featured {
-        grid-column: span 2;
-        grid-row: span 1;
-      }
-    }
+                /* Responsive */
+                @media (max-width: 992px) {
+                    .campus-gallery-grid {
+                        grid-template-columns: repeat(2, 1fr);
+                        grid-auto-rows: 220px;
+                    }
 
-    @media (max-width: 576px) {
-      .campus-gallery-grid {
-        grid-template-columns: 1fr;
-        grid-auto-rows: 220px;
-      }
+                    .gallery-item.featured {
+                        grid-column: span 2;
+                        grid-row: span 1;
+                    }
+                }
 
-      .gallery-item.featured {
-        grid-column: span 1;
-      }
-    }
-  </style>
-  
+                @media (max-width: 576px) {
+                    .campus-gallery-grid {
+                        grid-template-columns: 1fr;
+                        grid-auto-rows: 220px;
+                    }
 
-  <!-- ===== CONTENT ===== -->
-  <div class="campus-gallery-container">
+                    .gallery-item.featured {
+                        grid-column: span 1;
+                    }
+                }
+            </style>
 
-    <div class="campus-gallery-header text-center mt-3">
-     <h2 class="text-white">Campus Gallery</h2>
-<p class="text-white">
-  A collection of moments that reflect learning, creativity, collaboration,
-  and everyday life within the Maya Devi University campus.
-</p>
 
-    </div>
+            <!-- ===== CONTENT ===== -->
+            <div class="campus-gallery-container">
 
-    <div class="campus-gallery-grid">
+                <div class="campus-gallery-header text-center mt-3">
+                    <h2 class="text-white">Campus Gallery</h2>
+                    <p class="text-white">
+                        A collection of moments that reflect learning, creativity, collaboration,
+                        and everyday life within the Maya Devi University campus.
+                    </p>
 
-      <!-- Featured Image -->
-      <div class="gallery-item featured">
-        <img src="assets/uploads/campus-9.jpeg" alt="Campus Life">
-        <div class="gallery-overlay">
-          <span>Campus Life</span>
-        </div>
-      </div>
+                </div>
 
-      <div class="gallery-item">
-        <img src="assets/uploads/ai.jpeg" alt="Student Activities">
-        <div class="gallery-overlay"><span>Advance AI Labs</span></div>
-      </div>
+                <div class="campus-gallery-grid">
 
-      <div class="gallery-item">
-        <img src="assets/uploads/library-2.jpeg" alt="Library">
-        <div class="gallery-overlay"><span>Central Library</span></div>
-      </div>
+                    <!-- Featured Image -->
+                    <div class="gallery-item featured">
+                        <img src="assets/uploads/campus-9.jpeg" alt="Campus Life">
+                        <div class="gallery-overlay">
+                            <span>Campus Life</span>
+                        </div>
+                    </div>
 
-      <div class="gallery-item">
-        <img src="assets/uploads/robots.jpeg" alt="Laboratories">
-        <div class="gallery-overlay"><span>Advanced Laboratories</span></div>
-      </div>
+                    <div class="gallery-item">
+                        <img src="assets/uploads/ai.jpeg" alt="Student Activities">
+                        <div class="gallery-overlay"><span>Advance AI Labs</span></div>
+                    </div>
 
-      <div class="gallery-item">
-        <img src="assets/uploads/hostel.jpg" alt="Hostel Life">
-        <div class="gallery-overlay"><span>Hostel Life</span></div>
-      </div>
+                    <div class="gallery-item">
+                        <img src="assets/uploads/library-2.jpeg" alt="Library">
+                        <div class="gallery-overlay"><span>Central Library</span></div>
+                    </div>
 
-    </div>
+                    <div class="gallery-item">
+                        <img src="assets/uploads/robots.jpeg" alt="Laboratories">
+                        <div class="gallery-overlay"><span>Advanced Laboratories</span></div>
+                    </div>
 
-  </div>
+                    <div class="gallery-item">
+                        <img src="assets/uploads/hostel.jpg" alt="Hostel Life">
+                        <div class="gallery-overlay"><span>Hostel Life</span></div>
+                    </div>
 
-</section>
+                </div>
+
+            </div>
+
+        </section>
         <!-- Button -->
         <div class="text-center mt-5">
             <a href="campus-life.php" class="btn btn-lg px-4"
-               style="background:#00a651; color:white; border-radius:50px; font-weight:600;">
+                style="background:#00a651; color:white; border-radius:50px; font-weight:600;">
                 Explore More →
             </a>
         </div>
@@ -689,56 +761,104 @@ $('.slider-active').owlCarousel({
     /* RESPONSIVE */
     @media (max-width: 900px) {
 
-    /* Disable desktop image column */
-    .mdu-facility-images {
-        display: none;
-    }
-.mdu-facility-content {
-    flex: 0 0 100%;
-}
-    /* Mobile images inserted after headings */
-    .mobile-fi-img {
-        width: 100%;
-        height: 220px;
-        margin: 14px 0 28px;
-        border-radius: 12px;
-        background-size: cover;
-        background-position: center;
-        box-shadow: 0 14px 30px rgba(0,0,0,.12);
-    }
+        /* Disable desktop image column */
+        .mdu-facility-images {
+            display: none;
+        }
 
-    /* No faded items on mobile */
-    .fc-item {
-        opacity: 1;
-        transform: none;
-        cursor: default;
-    }
-}
+        .mdu-facility-content {
+            flex: 0 0 100%;
+        }
 
+        /* Mobile images inserted after headings */
+        .mobile-fi-img {
+            width: 100%;
+            height: 220px;
+            margin: 14px 0 28px;
+            border-radius: 12px;
+            background-size: cover;
+            background-position: center;
+            box-shadow: 0 14px 30px rgba(0, 0, 0, .12);
+        }
+
+        /* No faded items on mobile */
+        .fc-item {
+            opacity: 1;
+            transform: none;
+            cursor: default;
+        }
+    }
 </style>
 <script>
-document.addEventListener("DOMContentLoaded", () => {
+    (function() {
 
-    if (window.innerWidth > 900) return; // desktop untouched
+        let currentMode = null;
 
-    const items = document.querySelectorAll(".fc-item");
-    const imgs  = document.querySelectorAll(".fi-img");
+        function initFacilities() {
+            const items = document.querySelectorAll(".fc-item");
+            const imgs = document.querySelectorAll(".fi-img");
 
-    items.forEach((item, index) => {
-        if (!imgs[index]) return;
+            if (!items.length || !imgs.length) return;
 
-        const imgDiv = document.createElement("div");
-        imgDiv.className = "mobile-fi-img";
+            const isMobile = window.innerWidth <= 900;
+            const newMode = isMobile ? "mobile" : "desktop";
 
-        // copy background image
-        imgDiv.style.backgroundImage = imgs[index].style.backgroundImage;
+            // prevent unnecessary re-init
+            if (currentMode === newMode) return;
+            currentMode = newMode;
 
-        // insert AFTER heading block
-        item.insertAdjacentElement("afterend", imgDiv);
-    });
+            /* ========= RESET ========= */
+            items.forEach(i => i.classList.remove("active"));
+            imgs.forEach(i => i.classList.remove("active"));
+            document.querySelectorAll(".mobile-fi-img").forEach(img => img.remove());
 
-});
+            items.forEach(item => {
+                item.onmouseenter = null;
+                item.onclick = null;
+            });
+
+            /* ========= MOBILE ========= */
+            if (isMobile) {
+                items.forEach((item, index) => {
+                    if (!imgs[index]) return;
+
+                    const imgDiv = document.createElement("div");
+                    imgDiv.className = "mobile-fi-img";
+                    imgDiv.style.backgroundImage = imgs[index].style.backgroundImage;
+                    item.insertAdjacentElement("afterend", imgDiv);
+                });
+                return;
+            }
+
+            /* ========= DESKTOP (HOVER) ========= */
+            items[0].classList.add("active");
+            imgs[0].classList.add("active");
+
+            items.forEach(item => {
+                item.onmouseenter = () => {
+                    const index = item.dataset.index;
+
+                    items.forEach(i => i.classList.remove("active"));
+                    imgs.forEach(i => i.classList.remove("active"));
+
+                    item.classList.add("active");
+                    imgs[index]?.classList.add("active");
+                };
+            });
+        }
+
+        // init on load
+        window.addEventListener("load", initFacilities);
+
+        // re-init when crossing breakpoint
+        window.addEventListener("resize", () => {
+            clearTimeout(window.__mduResizeTimer);
+            window.__mduResizeTimer = setTimeout(initFacilities, 150);
+        });
+
+    })();
 </script>
+
 
 <div class="container mb-4">
     <div class="row align-items-center">
@@ -1011,14 +1131,14 @@ document.addEventListener("DOMContentLoaded", () => {
                 const bubble = el.querySelector('.mduLegacy-bubble');
                 const target = parseInt(el.getAttribute("data-target")) || 0;
 
-// If number is too large, skip animation
-if (target >= 5000) {
-    bubble.textContent = target + "+";
-    obs.unobserve(el);
-    return;
-}
+                // If number is too large, skip animation
+                if (target >= 5000) {
+                    bubble.textContent = target + "+";
+                    obs.unobserve(el);
+                    return;
+                }
 
-bubble.textContent = "0";
+                bubble.textContent = "0";
 
 
                 let start = 0;
@@ -1114,6 +1234,108 @@ bubble.textContent = "0";
 </style>
 <div class="course-area bg-img pt-70 pb-10" style="background-image:url(assets/uploads/bg-1.webp);">
     <div class="container">
+         <div class="section-title mb-55">
+            <h2> <span>Diploma</span> Courses</h2>
+            <p>Our Diploma programs emphasize practical training and industry relevance, <br>empowering students with job-ready skills and career opportunities.</p>
+        </div>
+        <div class="course-slider-active nav-style-1 owl-carousel">
+            <div class="single-course">
+                <div class="course-img">
+                    <a href="best-d-pharma-college-in-dehradun-uttarakhand.php"><img class="animated" src="assets/uploads/d.pharmacy.jpeg" alt=""></a>
+                </div>
+                <div class="course-content">
+                    <h4><a href="best-d-pharma-college-in-dehradun-uttarakhand.php">Diploma in Pharmacy</a></h4>
+                    <p>The Diploma in Pharmacy program trains students in pharmaceutical sciences, drug formulation, and practical pharmacy skills.</p>
+                </div>
+                <div class="course-position-content">
+                    <div class="credit-duration-wrap">
+                        <div class="sin-credit-duration">
+                            <i class="fa fa-diamond"></i>
+                            <span>Credits : 125</span>
+                        </div>
+                        <div class="sin-credit-duration">
+                            <i class="fa fa-clock-o"></i>
+                            <span>Duration : 2yrs</span>
+                        </div>
+                    </div>
+                    <div class="course-btn">
+                        <a class="default-btn" href="best-d-pharma-college-in-dehradun-uttarakhand.php">APPLY NOW</a>
+                    </div>
+                </div>
+            </div>
+            <div class="single-course">
+                <div class="course-img">
+                    <a href="diploma-in-confectionary.php"><img class="animated" src="assets/uploads/bakery.webp" alt=""></a>
+                </div>
+                <div class="course-content">
+                    <h4><a href="diploma-in-confectionary.php">Diploma in Bakery & Confectionary</a></h4>
+                    <p>The Diploma in Bakery and Confectionery program is a two-year course focusing on baking techniques, pastry arts, confectionery production, and dessert presentation.</p>
+                </div>
+                <div class="course-position-content">
+                    <div class="credit-duration-wrap">
+                        <div class="sin-credit-duration">
+                            <i class="fa fa-diamond"></i>
+                            <span>Credits : 125</span>
+                        </div>
+                        <div class="sin-credit-duration">
+                            <i class="fa fa-clock-o"></i>
+                            <span>Duration : 2yrs</span>
+                        </div>
+                    </div>
+                    <div class="course-btn">
+                        <a class="default-btn" href="diploma-in-confectionary.php">APPLY NOW</a>
+                    </div>
+                </div>
+            </div>
+            <div class="single-course">
+                <div class="course-img">
+                    <a href="diploma-in-food-production.php"><img class="animated" src="assets/uploads/dhm.webp" alt=""></a>
+                </div>
+                <div class="course-content">
+                    <h4><a href="diploma-in-food-production.php">Diploma in Food Production</a></h4>
+                    <p>The Diploma in Food Production is a two-year program focusing on culinary techniques, kitchen operations, food preparation, and professional cookery standards.</p>
+                </div>
+                <div class="course-position-content">
+                    <div class="credit-duration-wrap">
+                        <div class="sin-credit-duration">
+                            <i class="fa fa-diamond"></i>
+                            <span>Credits : 125</span>
+                        </div>
+                        <div class="sin-credit-duration">
+                            <i class="fa fa-clock-o"></i>
+                            <span>Duration : 2yrs</span>
+                        </div>
+                    </div>
+                    <div class="course-btn">
+                        <a class="default-btn" href="diploma-in-food-production.php">APPLY NOW</a>
+                    </div>
+                </div>
+            </div>
+            <div class="single-course">
+                <div class="course-img">
+                    <a href="gnm.php"><img class="animated" src="assets/uploads/gnm.webp" alt=""></a>
+                </div>
+                <div class="course-content">
+                    <h4><a href="gnm.php">General Nursing and Midwifery (GNM)</a></h4>
+                    <p>The GNM program is a diploma course for training students in professional nursing and care.</p>
+                </div>
+                <div class="course-position-content">
+                    <div class="credit-duration-wrap">
+                        <div class="sin-credit-duration">
+                            <i class="fa fa-diamond"></i>
+                            <span>Credits : 125</span>
+                        </div>
+                        <div class="sin-credit-duration">
+                            <i class="fa fa-clock-o"></i>
+                            <span>Duration : 3yrs</span>
+                        </div>
+                    </div>
+                    <div class="course-btn">
+                        <a class="default-btn" href="gnm.php">APPLY NOW</a>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="section-title mb-55">
             <h2> <span>UG</span> Courses</h2>
             <p>Our UG programs blend academic depth with real-world exposure, <br>equipping students with strong foundations and skills for lifelong success.</p>
@@ -1224,205 +1446,104 @@ bubble.textContent = "0";
             <p>Our PG programs foster advanced expertise and research-driven learning,<br> preparing graduates for leadership roles and specialized career growth.</p>
         </div>
         <div class="course-slider-active nav-style-1 owl-carousel">
-           <div class="single-course">
-                                <div class="course-img">
-                                    <a href="m.tech-structural-engineering.php"><img class="animated" src="assets/uploads/b.tech-civil.jpg" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                <h4><a href="m.tech-mechanical-engineering.php">M.Tech in Structural Engineering</a></h4>
-                                <p>The M.Tech Structural Engineering is a two-year program focusing on advanced structural design, analysis, and construction technologies.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 2yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="m.tech-mechanical-engineering.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-           <div class="single-course">
-                                <div class="course-img">
-                                    <a href="m.tech-mechanical-engineering.php"><img class="animated" src="assets/uploads/mtech-mechanical.webp" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                <h4><a href="m.tech-mechanical-engineering.php">M.Tech in Mechanical Engineering</a></h4>
-                                <p>Mechanical Engineering is one of the major streams in the engineering profession and its principles are involved in the design, study, development and construction of nearly all of the physical devices and systems.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 2yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="m.tech-mechanical-engineering.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-             <div class="single-course">
-        <div class="course-img">
-          <a href="master-in-agriculture.php"><img class="animated" src="assets/uploads/agriculture.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="master-in-agriculture.php">Master in agriculture</a></h4>
-          <p>The Master in Agriculture program offers advanced training in crop production, soil management, and sustainable farming, preparing graduates for research and leadership roles in agriculture.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 2yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="master-in-agriculture.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-           <div class="single-course">
-        <div class="course-img">
-          <a href="genetics-and-plant-breeding.php"><img class="animated" src="assets/uploads/genetics.webp" alt=""></a>
-        </div>
-        <div class="course-content">
-          <h4><a href="genetics-and-plant-breeding.php">M.Sc. in Genetics and Plant Breeding</a></h4>
-          <p>The M.Sc. in Genetics and Plant Breeding program focuses on advanced plant genetics, crop improvement, and research skills for modern agriculture.</p>
-        </div>
-        <div class="course-position-content">
-          <div class="credit-duration-wrap">
-            <div class="sin-credit-duration">
-              <i class="fa fa-diamond"></i>
-              <span>Credits : 125</span>
-            </div>
-            <div class="sin-credit-duration">
-              <i class="fa fa-clock-o"></i>
-              <span>Duration : 2yrs</span>
-            </div>
-          </div>
-          <div class="course-btn">
-            <a class="default-btn" href="genetics-and-plant-breeding.php">APPLY NOW</a>
-          </div>
-        </div>
-      </div>
-        </div>
-        <div class="section-title mb-55">
-            <h2> <span>Diploma</span> Courses</h2>
-            <p>Our Diploma programs emphasize practical training and industry relevance, <br>empowering students with job-ready skills and career opportunities.</p>
-        </div>
-        <div class="course-slider-active nav-style-1 owl-carousel">
             <div class="single-course">
-                                <div class="course-img">
-                                    <a href="best-d-pharma-college-in-dehradun-uttarakhand.php"><img class="animated" src="assets/uploads/d.pharmacy.jpeg" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                <h4><a href="best-d-pharma-college-in-dehradun-uttarakhand.php">Diploma in Pharmacy</a></h4>
-                                <p>The Diploma in Pharmacy program trains students in pharmaceutical sciences, drug formulation, and practical pharmacy skills.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 2yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="best-d-pharma-college-in-dehradun-uttarakhand.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-             <div class="single-course">
-                                <div class="course-img">
-                                    <a href="diploma-in-confectionary.php"><img class="animated" src="assets/uploads/bakery.webp" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                    <h4><a href="diploma-in-confectionary.php">Diploma in Bakery & Confectionary</a></h4>
-                                    <p>The Diploma in Bakery and Confectionery program is a two-year course focusing on baking techniques, pastry arts, confectionery production, and dessert presentation.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 2yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="diploma-in-confectionary.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-             <div class="single-course">
-                                <div class="course-img">
-                                    <a href="diploma-in-food-production.php"><img class="animated" src="assets/uploads/dhm.webp" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                    <h4><a href="diploma-in-food-production.php">Diploma in Food Production</a></h4>
-                                    <p>The Diploma in Food Production is a two-year program focusing on culinary techniques, kitchen operations, food preparation, and professional cookery standards.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 2yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="diploma-in-food-production.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
-          <div class="single-course">
-                                <div class="course-img">
-                                    <a href="gnm.php"><img class="animated" src="assets/uploads/gnm.webp" alt=""></a>
-                                </div>
-                                <div class="course-content">
-                                <h4><a href="gnm.php">General Nursing and Midwifery (GNM)</a></h4>
-                                    <p>The GNM program is a diploma course for training students in professional nursing and care.</p>
-                                </div>
-                                <div class="course-position-content">
-                                    <div class="credit-duration-wrap">
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Credits : 125</span>
-                                        </div>
-                                        <div class="sin-credit-duration">
-                                            <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 3yrs</span>
-                                        </div>
-                                    </div>
-                                    <div class="course-btn">
-                                        <a class="default-btn" href="gnm.php">APPLY NOW</a>
-                                    </div>
-                                </div>
-                            </div>
+                <div class="course-img">
+                    <a href="m.tech-structural-engineering.php"><img class="animated" src="assets/uploads/b.tech-civil.jpg" alt=""></a>
+                </div>
+                <div class="course-content">
+                    <h4><a href="m.tech-mechanical-engineering.php">M.Tech in Structural Engineering</a></h4>
+                    <p>The M.Tech Structural Engineering is a two-year program focusing on advanced structural design, analysis, and construction technologies.</p>
+                </div>
+                <div class="course-position-content">
+                    <div class="credit-duration-wrap">
+                        <div class="sin-credit-duration">
+                            <i class="fa fa-diamond"></i>
+                            <span>Credits : 125</span>
+                        </div>
+                        <div class="sin-credit-duration">
+                            <i class="fa fa-clock-o"></i>
+                            <span>Duration : 2yrs</span>
+                        </div>
+                    </div>
+                    <div class="course-btn">
+                        <a class="default-btn" href="m.tech-mechanical-engineering.php">APPLY NOW</a>
+                    </div>
+                </div>
+            </div>
+            <div class="single-course">
+                <div class="course-img">
+                    <a href="m.tech-mechanical-engineering.php"><img class="animated" src="assets/uploads/mtech-mechanical.webp" alt=""></a>
+                </div>
+                <div class="course-content">
+                    <h4><a href="m.tech-mechanical-engineering.php">M.Tech in Mechanical Engineering</a></h4>
+                    <p>Mechanical Engineering is one of the major streams in the engineering profession and its principles are involved in the design, study, development and construction of nearly all of the physical devices and systems.</p>
+                </div>
+                <div class="course-position-content">
+                    <div class="credit-duration-wrap">
+                        <div class="sin-credit-duration">
+                            <i class="fa fa-diamond"></i>
+                            <span>Credits : 125</span>
+                        </div>
+                        <div class="sin-credit-duration">
+                            <i class="fa fa-clock-o"></i>
+                            <span>Duration : 2yrs</span>
+                        </div>
+                    </div>
+                    <div class="course-btn">
+                        <a class="default-btn" href="m.tech-mechanical-engineering.php">APPLY NOW</a>
+                    </div>
+                </div>
+            </div>
+            <div class="single-course">
+                <div class="course-img">
+                    <a href="master-in-agriculture.php"><img class="animated" src="assets/uploads/agriculture.webp" alt=""></a>
+                </div>
+                <div class="course-content">
+                    <h4><a href="master-in-agriculture.php">Master in agriculture</a></h4>
+                    <p>The Master in Agriculture program offers advanced training in crop production, soil management, and sustainable farming, preparing graduates for research and leadership roles in agriculture.</p>
+                </div>
+                <div class="course-position-content">
+                    <div class="credit-duration-wrap">
+                        <div class="sin-credit-duration">
+                            <i class="fa fa-diamond"></i>
+                            <span>Credits : 125</span>
+                        </div>
+                        <div class="sin-credit-duration">
+                            <i class="fa fa-clock-o"></i>
+                            <span>Duration : 2yrs</span>
+                        </div>
+                    </div>
+                    <div class="course-btn">
+                        <a class="default-btn" href="master-in-agriculture.php">APPLY NOW</a>
+                    </div>
+                </div>
+            </div>
+            <div class="single-course">
+                <div class="course-img">
+                    <a href="genetics-and-plant-breeding.php"><img class="animated" src="assets/uploads/genetics.webp" alt=""></a>
+                </div>
+                <div class="course-content">
+                    <h4><a href="genetics-and-plant-breeding.php">M.Sc. in Genetics and Plant Breeding</a></h4>
+                    <p>The M.Sc. in Genetics and Plant Breeding program focuses on advanced plant genetics, crop improvement, and research skills for modern agriculture.</p>
+                </div>
+                <div class="course-position-content">
+                    <div class="credit-duration-wrap">
+                        <div class="sin-credit-duration">
+                            <i class="fa fa-diamond"></i>
+                            <span>Credits : 125</span>
+                        </div>
+                        <div class="sin-credit-duration">
+                            <i class="fa fa-clock-o"></i>
+                            <span>Duration : 2yrs</span>
+                        </div>
+                    </div>
+                    <div class="course-btn">
+                        <a class="default-btn" href="genetics-and-plant-breeding.php">APPLY NOW</a>
+                    </div>
+                </div>
+            </div>
         </div>
+       
         <div class="course-button">
             <a href="course.php" class="button-link">View More Courses</a>
         </div>
@@ -1449,184 +1570,181 @@ bubble.textContent = "0";
     }
 </style>
 <section class="mdu-section">
-  <div class="container">
+    <div class="container">
 
-    <!-- Header -->
-    <div class="row align-items-center mb-5">
-      <div class="col-lg-6">
-        <h1 class="mdu-title">
-          Best University in Dehradun
-          <span>Why Maya Devi University Stands Out?</span>
-        </h1>
+        <!-- Header -->
+        <div class="row align-items-center mb-5">
+            <div class="col-lg-6">
+                <h1 class="mdu-title">
+                    Best University in Dehradun
+                    <span>Why Maya Devi University Stands Out?</span>
+                </h1>
 
-        <p>
-          At Maya Devi University, Dehradun, we deliver world-class education
-          through experienced faculty, modern infrastructure, and global exposure.
-          Our focus on academic excellence and holistic development empowers students
-          to thrive in their careers and contribute positively to society.
-        </p>
+                <p>
+                    At Maya Devi University, Dehradun, we deliver world-class education
+                    through experienced faculty, modern infrastructure, and global exposure.
+                    Our focus on academic excellence and holistic development empowers students
+                    to thrive in their careers and contribute positively to society.
+                </p>
 
-        <p>
-          Discover a transformative educational journey with industry-aligned programs,
-          global collaborations, and career-focused learning.
-        </p>
+                <p>
+                    Discover a transformative educational journey with industry-aligned programs,
+                    global collaborations, and career-focused learning.
+                </p>
 
-        <a href="https://admissions.maya.edu.in" class="mdu-btn">
-          Apply Now
-        </a>
-      </div>
+                <a href="https://admissions.maya.edu.in" class="mdu-btn">
+                    Apply Now
+                </a>
+            </div>
 
-      <!-- Feature Cards -->
-      <div class="col-lg-6">
-        <div class="feature-grid">
+            <!-- Feature Cards -->
+            <div class="col-lg-6">
+                <div class="feature-grid">
 
-          <div class="feature-card">
-            <img src="assets/uploads/world-edu.png" alt="">
-            <h4>World-Class Education</h4>
-            <p>Cutting-edge curriculum aligned with global standards.</p>
-          </div>
+                    <div class="feature-card">
+                        <img src="assets/uploads/world-edu.png" alt="">
+                        <h4>World-Class Education</h4>
+                        <p>Cutting-edge curriculum aligned with global standards.</p>
+                    </div>
 
-          <div class="feature-card">
-            <img src="assets/uploads/e-faculty.jpg" alt="">
-            <h4>Expert Faculty</h4>
-            <p>Learn from experienced academicians and professionals.</p>
-          </div>
+                    <div class="feature-card">
+                        <img src="assets/uploads/e-faculty.jpg" alt="">
+                        <h4>Expert Faculty</h4>
+                        <p>Learn from experienced academicians and professionals.</p>
+                    </div>
 
-          <div class="feature-card">
-            <img src="assets/uploads/m-infra.png" alt="">
-            <h4>Modern Infrastructure</h4>
-            <p>Advanced labs, smart classrooms, and research centers.</p>
-          </div>
+                    <div class="feature-card">
+                        <img src="assets/uploads/m-infra.png" alt="">
+                        <h4>Modern Infrastructure</h4>
+                        <p>Advanced labs, smart classrooms, and research centers.</p>
+                    </div>
 
-          <div class="feature-card">
-            <img src="assets/uploads/global.png" alt="">
-            <h4>Global Opportunities</h4>
-            <p>International exposure, internships & collaborations.</p>
-          </div>
+                    <div class="feature-card">
+                        <img src="assets/uploads/global.png" alt="">
+                        <h4>Global Opportunities</h4>
+                        <p>International exposure, internships & collaborations.</p>
+                    </div>
 
+                </div>
+            </div>
         </div>
-      </div>
-    </div>
 
-    <!-- Hexagonal Gallery -->
-    <div class="hex-gallery">
-      <div class="hex"><img src="assets/uploads/maya-1.jpeg"></div>
-      <div class="hex"><img src="assets/uploads/maya-2.jpeg"></div>
-       <div class="hex"><img src="assets/uploads/maya-3.jpeg"></div>
-      <div class="hex"><img src="assets/uploads/maya-4.jpeg"></div>
-      <div class="hex"><img src="assets/uploads/maya-5.jpeg"></div>
-      <div class="hex"><img src="assets/uploads/maya-6.jpeg"></div>
-      <div class="hex"><img src="assets/uploads/maya-7.jpeg"></div>
-      <div class="hex"><img src="assets/uploads/maya-8.jpeg"></div>
-      <div class="hex"><img src="assets/uploads/maya-9.jpeg"></div>
-      <div class="hex"><img src="assets/uploads/maya-10.jpeg"></div>
-    </div>
+        <!-- Hexagonal Gallery -->
+        <div class="hex-gallery">
+            <div class="hex"><img src="assets/uploads/maya-1.jpeg"></div>
+            <div class="hex"><img src="assets/uploads/maya-2.jpeg"></div>
+            <div class="hex"><img src="assets/uploads/maya-3.jpeg"></div>
+            <div class="hex"><img src="assets/uploads/maya-4.jpeg"></div>
+            <div class="hex"><img src="assets/uploads/maya-5.jpeg"></div>
+            <div class="hex"><img src="assets/uploads/maya-6.jpeg"></div>
+            <div class="hex"><img src="assets/uploads/maya-7.jpeg"></div>
+            <div class="hex"><img src="assets/uploads/maya-8.jpeg"></div>
+            <div class="hex"><img src="assets/uploads/maya-9.jpeg"></div>
+            <div class="hex"><img src="assets/uploads/maya-10.jpeg"></div>
+        </div>
 
-  </div>
+    </div>
 </section>
 <style>
     .mdu-section {
-  padding: 80px 0;
-  background: linear-gradient(135deg, #f8fff9, #e9f7ef);
-}
+        padding: 80px 0;
+        background: linear-gradient(135deg, #f8fff9, #e9f7ef);
+    }
 
-.mdu-title {
-  font-size: 40px;
-  font-weight: 800;
-  color: #00a651;
-}
+    .mdu-title {
+        font-size: 40px;
+        font-weight: 800;
+        color: #00a651;
+    }
 
-.mdu-title span {
-  display: block;
-  font-size: 22px;
-  color: #333;
-  margin-top: 10px;
-}
+    .mdu-title span {
+        display: block;
+        font-size: 22px;
+        color: #333;
+        margin-top: 10px;
+    }
 
-.mdu-section p {
-  font-size: 17px;
-  color: #555;
-}
+    .mdu-section p {
+        font-size: 17px;
+        color: #555;
+    }
 
-.mdu-btn {
-  display: inline-block;
-  margin-top: 20px;
-  padding: 14px 32px;
-  background: #00a651;
-  color: #fff;
-  border-radius: 50px;
-  text-decoration: none;
-  font-weight: 600;
-  transition: 0.3s;
-}
+    .mdu-btn {
+        display: inline-block;
+        margin-top: 20px;
+        padding: 14px 32px;
+        background: #00a651;
+        color: #fff;
+        border-radius: 50px;
+        text-decoration: none;
+        font-weight: 600;
+        transition: 0.3s;
+    }
 
-.mdu-btn:hover {
-  background: #008f45;
-}
+    .mdu-btn:hover {
+        background: #008f45;
+    }
 
-/* Feature Cards */
-.feature-grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 20px;
-}
+    /* Feature Cards */
+    .feature-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
+    }
 
-.feature-card {
-  background: rgba(255, 255, 255, 0.85);
-  backdrop-filter: blur(8px);
-  border-radius: 20px;
-  padding: 25px;
-  text-align: center;
-  transition: 0.4s;
-  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
-}
+    .feature-card {
+        background: rgba(255, 255, 255, 0.85);
+        backdrop-filter: blur(8px);
+        border-radius: 20px;
+        padding: 25px;
+        text-align: center;
+        transition: 0.4s;
+        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+    }
 
-.feature-card:hover {
-  transform: translateY(-8px);
-  box-shadow: 0 20px 40px rgba(0,166,81,0.25);
-}
+    .feature-card:hover {
+        transform: translateY(-8px);
+        box-shadow: 0 20px 40px rgba(0, 166, 81, 0.25);
+    }
 
-.feature-card img {
-  width: 60px;
-  margin-bottom: 15px;
-}
+    .feature-card img {
+        width: 60px;
+        margin-bottom: 15px;
+    }
 
-.feature-card h4 {
-  color: #00a651;
-  font-weight: 700;
-}
+    .feature-card h4 {
+        color: #00a651;
+        font-weight: 700;
+    }
 
-/* Hexagonal Gallery */
-.hex-gallery {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  gap: 15px;
-}
+    /* Hexagonal Gallery */
+    .hex-gallery {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 15px;
+    }
 
-.hex {
-  width: 220px;
-  height: 250px;
-  clip-path: polygon(
-    50% 0%, 100% 25%, 100% 75%,
-    50% 100%, 0% 75%, 0% 25%
-  );
-  overflow: hidden;
-  transition: 0.4s;
-  box-shadow: 0 15px 35px rgba(0,0,0,0.2);
-}
+    .hex {
+        width: 220px;
+        height: 250px;
+        clip-path: polygon(50% 0%, 100% 25%, 100% 75%,
+                50% 100%, 0% 75%, 0% 25%);
+        overflow: hidden;
+        transition: 0.4s;
+        box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
+    }
 
-.hex img {
-  width: 100%;
-  height: 100%;
-  object-fit:cover;
-}
+    .hex img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
 
-.hex:hover {
-  transform: scale(1.08) rotate(1deg);
-}
-
-    </style>
+    .hex:hover {
+        transform: scale(1.08) rotate(1deg);
+    }
+</style>
 <?php require "placement.php" ?>
 <section class="my-stats-section">
     <div class="my-stats-container">
@@ -2046,7 +2164,7 @@ $latestBlogs = array_slice(array_reverse($blogs, true), 0, 3, true);
             <!-- Upcoming Events Section (unchanged) -->
             <div class="col-lg-6">
                 <div class="section-title-3 mb-45 ml-70">
-                   <h2>Upcoming <span>Event</span></h2>
+                    <h2>Upcoming <span>Event</span></h2>
                 </div>
                 <div class="event-active-2 ml-70">
                     <div class="single-event single-event-2">

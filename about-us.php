@@ -83,7 +83,7 @@
             <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
                 <div class="single-count mb-30 count-one count-white">
                     <div class="count-img">
-                        <img src="assets/img/icon-img/funfact-1.png" alt="">
+                        <img src="assets/img/icon-img/funfact-1.png" loading="lazy" alt="">
                     </div>
                     <div class="count-content">
                         <h2 class="count">750</h2>

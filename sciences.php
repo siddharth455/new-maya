@@ -144,52 +144,21 @@
 
     <div class="row">
 
-      <!-- B.Sc PCM -->
-      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-pcm.php"><img src="assets/uploads/bsc-pcm-img1.jpg"></a></div><div class="course-body"><h4>B.Sc. PCM</h4><p>Strong foundation in Physics, Chemistry, and Mathematics.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-pcm.php">Apply Now</a></div></div></div>
-
-      <!-- B.Sc CBZ -->
-      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-cbz.php"><img src="assets/uploads/cbz.webp"></a></div><div class="course-body"><h4>B.Sc. CBZ</h4><p>Study of Chemistry, Botany, and Zoology.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-cbz.php">Apply Now</a></div></div></div>
-
-      <!-- Environmental Science -->
-      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-environmental-science.php"><img src="assets/uploads/evs.jpg"></a></div><div class="course-body"><h4>B.Sc. Environmental Science</h4><p>Focus on ecology, environment, and sustainability.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-environmental-science.php">Apply Now</a></div></div></div>
-
       <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-environmental-science-hons.php"><img src="assets/uploads/evs-2.webp"></a></div><div class="course-body"><h4>B.Sc. Environmental Science (Hons.)</h4><p>Advanced study of environmental systems and sustainability.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-environmental-science-hons.php">Apply Now</a></div></div></div>
-
-      <!-- Physics -->
-      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-physics.php"><img src="assets/uploads/physics.webp"></a></div><div class="course-body"><h4>B.Sc. Physics</h4><p>Study of matter, energy, and laws of nature.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-physics.php">Apply Now</a></div></div></div>
 
       <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-physics-hons.php"><img src="assets/uploads/physics.webp"></a></div><div class="course-body"><h4>B.Sc. Physics (Hons.)</h4><p>In-depth theoretical and experimental physics.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-physics-hons.php">Apply Now</a></div></div></div>
 
-      <!-- Botany -->
-      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-botany.php"><img src="assets/uploads/botany.webp"></a></div><div class="course-body"><h4>B.Sc. Botany</h4><p>Scientific study of plant life.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-botany.php">Apply Now</a></div></div></div>
-
       <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-botany-hons.php"><img src="assets/uploads/botany-2.webp"></a></div><div class="course-body"><h4>B.Sc. Botany (Hons.)</h4><p>Advanced plant biology and research.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-botany-hons.php">Apply Now</a></div></div></div>
-
-      <!-- Zoology -->
-      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-zoology.php"><img src="assets/uploads/zoology.webp"></a></div><div class="course-body"><h4>B.Sc. Zoology</h4><p>Study of animal structure and life.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-zoology.php">Apply Now</a></div></div></div>
 
       <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-zoology-hons.php"><img src="assets/uploads/zoology.webp"></a></div><div class="course-body"><h4>B.Sc. Zoology (Hons.)</h4><p>Advanced animal biology and genetics.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-zoology-hons.php">Apply Now</a></div></div></div>
 
-      <!-- Chemistry -->
-      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-chemistry.php"><img src="assets/uploads/chemistry.webp"></a></div><div class="course-body"><h4>B.Sc. Chemistry</h4><p>Study of matter, reactions, and properties.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-chemistry.php">Apply Now</a></div></div></div>
-
       <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-chemistry-hons.php"><img src="assets/uploads/chemistry-2.webp"></a></div><div class="course-body"><h4>B.Sc. Chemistry (Hons.)</h4><p>Advanced chemical principles and analysis.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-chemistry-hons.php">Apply Now</a></div></div></div>
-
-      <!-- Math -->
-      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-mathematics.php"><img src="assets/uploads/physics.webp"></a></div><div class="course-body"><h4>B.Sc. Mathematics</h4><p>Core mathematical theories and applications.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-mathematics.php">Apply Now</a></div></div></div>
 
       <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-mathematics-hons.php"><img src="assets/uploads/physics.webp"></a></div><div class="course-body"><h4>B.Sc. Mathematics (Hons.)</h4><p>Advanced theoretical and applied mathematics.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-mathematics-hons.php">Apply Now</a></div></div></div>
 
-      <!-- Applied Sciences -->
-      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-forensic-science.php"><img src="assets/uploads/forensic.webp"></a></div><div class="course-body"><h4>B.Sc. Forensic Science</h4><p>Scientific investigation of crime and evidence.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-forensic-science.php">Apply Now</a></div></div></div>
-
       <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-forensic-hons.php"><img src="assets/uploads/forensic-2.webp"></a></div><div class="course-body"><h4>B.Sc. Forensic Science (Hons.)</h4><p>Advanced forensic analysis and techniques.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-forensic-hons.php">Apply Now</a></div></div></div>
 
-      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-microbiology.php"><img src="assets/uploads/micro.webp"></a></div><div class="course-body"><h4>B.Sc. Microbiology</h4><p>Study of microorganisms and microbes.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-microbiology.php">Apply Now</a></div></div></div>
-
       <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-microbiology-hons.php"><img src="assets/uploads/micro.webp"></a></div><div class="course-body"><h4>B.Sc. Microbiology (Hons.)</h4><p>Advanced microbial studies and research.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-microbiology-hons.php">Apply Now</a></div></div></div>
-
-      <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-biotechnology.php"><img src="assets/uploads/biotechnology.webp"></a></div><div class="course-body"><h4>B.Sc. Biotechnology</h4><p>Application of biological systems and technology.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-biotechnology.php">Apply Now</a></div></div></div>
 
       <div class="col-lg-3 col-md-6 mb-30"><div class="course-card"><div class="course-img"><a href="bsc-biotechnology-hons.php"><img src="assets/uploads/biotechnology.webp"></a></div><div class="course-body"><h4>B.Sc. Biotechnology (Hons.)</h4><p>Advanced biotechnology and applied research.</p><div class="course-meta"><span>Credits: 125</span><span>3 Years</span></div><a class="default-btn btn-block" href="bsc-biotechnology-hons.php">Apply Now</a></div></div></div>
 

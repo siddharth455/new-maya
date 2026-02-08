@@ -79,16 +79,13 @@
       <h3 id="pa-timeline-h">Recent Recruiters</h3>
 
       <ul class="timeline-list" role="list">
-        <li><strong>IBM</strong><span>• Internship + Placement • 80 hires</span></li>
-        <li><strong>Amazon</strong><span>• Technical Roles • 50 hires</span></li>
-        <li><strong>TCS</strong><span>• Graduate Roles • 130 hires</span></li>
-        <li><strong>Deloitte</strong><span>• Consulting • 40 hires</span></li>
+        <li><strong>DeltaX</strong><span>• Internship + Placement • 80 hires</span></li>
+        <li><strong>Cloud Analogy</strong><span>• Technical Roles • 50 hires</span></li>
+        <li><strong>Coding Ninjas</strong><span>• Graduate Roles • 130 hires</span></li>
+        <li><strong>Jubilant Foodworks</strong><span>• Consulting • 40 hires</span></li>
       </ul>
 
-      <div class="timeline-footer">
-        <div class="mini-stat"><strong>100+</strong><small>Companies</small></div>
-        <div class="mini-stat"><strong>900+</strong><small>Offers</small></div>
-      </div>
+     
     </aside>
 
   </div>
@@ -97,20 +94,34 @@
   <div class="placement-partners swiper">
   <div class="swiper-wrapper">
 
-    <div class="swiper-slide"><img src="assets/uploads/icon/pfizer.webp" alt="Pfizer"></div>
-    <div class="swiper-slide"><img src="assets/uploads/icon/glenmark.webp" alt="Glenmark"></div>
-    <div class="swiper-slide"><img src="assets/uploads/icon/cisco.jpg" alt="Cisco"></div>
-    <div class="swiper-slide"><img src="assets/uploads/icon/ibm.jpg" alt="IBM"></div>
-    <div class="swiper-slide"><img src="assets/uploads/icon/amazon.jpg" alt="Amazon"></div>
-    <div class="swiper-slide"><img src="assets/uploads/icon/tata.jpg" alt="Tata"></div>
-    <div class="swiper-slide"><img src="assets/uploads/icon/accenture.jpg" alt="Accenture"></div>
-    <div class="swiper-slide"><img src="assets/img/brand-logo/11.webp"></div>
-    <div class="swiper-slide"><img src="assets/img/brand-logo/12.webp"></div>
-    <div class="swiper-slide"><img src="assets/img/brand-logo/13.webp"></div>
-    <div class="swiper-slide"><img src="assets/img/brand-logo/14.webp"></div>
-    <div class="swiper-slide"><img src="assets/img/brand-logo/7.webp"></div>
-    <div class="swiper-slide"><img src="assets/img/brand-logo/8.webp"></div>
-
+    <div class="swiper-slide"><img src="assets/uploads/icon/1.jpg" alt="Pfizer"></div>
+    <div class="swiper-slide"><img src="assets/uploads/icon/2.jpg" alt="Glenmark"></div>
+    <div class="swiper-slide"><img src="assets/uploads/icon/3.jpg" alt="Cisco"></div>
+    <div class="swiper-slide"><img src="assets/uploads/icon/4.jpg" alt="IBM"></div>
+    <div class="swiper-slide"><img src="assets/uploads/icon/5.png" alt="Amazon"></div>
+    <div class="swiper-slide"><img src="assets/uploads/icon/6.png" alt="Tata"></div>
+    <div class="swiper-slide"><img src="assets/uploads/icon/7.jpg" alt="Accenture"></div>
+    <div class="swiper-slide"><img src="assets/uploads/icon/8.jpg"></div>
+    <div class="swiper-slide"><img src="assets/uploads/icon/9.jpg"></div>
+    <div class="swiper-slide"><img src="assets/uploads/icon/10.jpg"></div>
+    <div class="swiper-slide"><img src="assets/uploads/icon/11.jpg"></div>
+    <div class="swiper-slide"><img src="assets/uploads/icon/12.jpg"></div>
+    <div class="swiper-slide"><img src="assets/uploads/icon/13.jpg"></div>
+<div class="swiper-slide"><img src="assets/uploads/icon/14.jpg"></div>
+<div class="swiper-slide"><img src="assets/uploads/icon/15.jpg"></div>
+<div class="swiper-slide"><img src="assets/uploads/icon/16.jpg"></div>
+<div class="swiper-slide"><img src="assets/uploads/icon/17.jpg"></div>
+<div class="swiper-slide"><img src="assets/uploads/icon/18.jpg"></div>
+<div class="swiper-slide"><img src="assets/uploads/icon/19.jpg"></div>
+<div class="swiper-slide"><img src="assets/uploads/icon/20.jpg"></div>
+<div class="swiper-slide"><img src="assets/uploads/icon/21.jpg"></div>
+<div class="swiper-slide"><img src="assets/uploads/icon/22.jpg"></div>
+<div class="swiper-slide"><img src="assets/uploads/icon/23.jpg"></div>
+<div class="swiper-slide"><img src="assets/uploads/icon/24.jpg"></div>
+<div class="swiper-slide"><img src="assets/uploads/icon/25.jpg"></div>
+<div class="swiper-slide"><img src="assets/uploads/icon/26.jpg"></div>
+<div class="swiper-slide"><img src="assets/uploads/icon/27.jpg"></div>
+<div class="swiper-slide"><img src="assets/uploads/icon/28.jpg"></div>
   </div>
 </div>
 

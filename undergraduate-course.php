@@ -126,12 +126,6 @@
     <div class="school">
       <h2 class="school-name">School of Health Sciences</h2>
       <ul class="courses-list">
-        <li><a href="medical-lab-technology.php">B.Sc - Medical Lab Technology</a></li>
-        <li><a href="anaesthesia-technology.php">B.Sc - Anaesthesia Technology</a></li>
-        <li><a href="radio-imaging-technology.php">B.Sc - Radio Imaging Technology</a></li>
-        <li><a href="b.sc-dialysis-technology.php">B.Sc - Dialysis Technology</a></li>
-        <li><a href="operation-theatre-technology.php">B.Sc - Operation Theatre Technology</a></li>
-        <li><a href="cardiac-care-technology.php">B.Sc - Cardiac Care Technology</a></li>
         <li><a href="hospital-administration.php">Bachelor in Hospital Administration (BHA)</a></li>
         <li><a href="public-health.php">Bachelor in Public Health (BPH)</a></li>
       </ul>

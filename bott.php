@@ -70,16 +70,13 @@
                                     </div>
                                     <div class="single-course-summary">
                                         <h4>Course Duration</h4>
-                                        <span><i class="fa fa-clock-o"></i> 3years</span>
+                                        <span><i class="fa fa-clock-o"></i> 3.5years</span>
                                     </div>
                                     <div class="single-course-summary">
                                         <h4>Course Credits</h4>
                                         <span><i class="fa fa-diamond"></i> 125</span>
                                     </div>
-                                    <div class="single-course-summary">
-                                        <h4>Total Semester</h4>
-                                        <span><i class="fa fa-book"></i> 6</span>
-                                    </div>
+                                    
                                 </div>
 
                             </div>
@@ -157,7 +154,7 @@
                                         </div>
                                         <div class="sin-credit-duration">
                                             <i class="fa fa-clock-o"></i>
-                                            <span>Duration : 4yrs</span>
+                                            <span>Duration : 3.5yrs</span>
                                         </div>
                                     </div>
                                     <div class="course-btn">

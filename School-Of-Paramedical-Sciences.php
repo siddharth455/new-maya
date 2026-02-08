@@ -207,7 +207,7 @@
             <p>Trains students in laboratory diagnostics, testing procedures, and clinical healthcare skills.</p>
             <div class="course-meta">
               <span>Credits: 125</span>
-              <span>3 Years</span>
+              <span>3.5 Years</span>
             </div>
             <a class="default-btn btn-block" href="bmlt.php">Apply Now</a>
           </div>
@@ -227,7 +227,7 @@
             <p>Focuses on radiology techniques, medical imaging, and diagnostic technology.</p>
             <div class="course-meta">
               <span>Credits: 125</span>
-              <span>4 Years</span>
+              <span>3.5 Years</span>
             </div>
             <a class="default-btn btn-block" href="bmrit.php">Apply Now</a>
           </div>
@@ -247,7 +247,7 @@
             <p>Trains students in surgical assistance, OT management, and patient care procedures.</p>
             <div class="course-meta">
               <span>Credits: 125</span>
-              <span>3 Years</span>
+              <span>3.5 Years</span>
             </div>
             <a class="default-btn btn-block" href="bott.php">Apply Now</a>
           </div>
